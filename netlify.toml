@@ -1,3 +1,3 @@
 [build]
-  command = "npm run generate"
+  command = "git run generate"
   publish = "dist"
