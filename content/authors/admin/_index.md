@@ -17,7 +17,7 @@ email: "lucacarbone.lc@gmail.com"
 interests:
 - Cultural & Cognitive Sociology
 - Media
-- Well-being
+- Social Inequalities
 - Methods & Open Science
 name: Luca Carbone
 organizations:
