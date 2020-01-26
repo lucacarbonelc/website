@@ -17,7 +17,7 @@ keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
 phone: +39 3478191290
-address: Parkstraat 45 PROVA· 3000 Leuven · Belgium
+address: Parkstraat 45 · 3000 Leuven · Belgium
 urlcolor: blue
 web: lucacarbone.netlify.com
 ---
