@@ -27,7 +27,7 @@ role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#email'
+  link: 'mailto:lucacarbone.lc@gmail.com'
 - icon: osf
   icon_pack: ai ai-osf
   link: https://osf.io/profile/
