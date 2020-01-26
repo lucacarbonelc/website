@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD candidate in Communication Science
+  - course: PhD candidate in Communication Science CIAO
     institution: KU Leuven school for Mass Communication
     year: 2019 - in progress
   - course: Research MSc in Sociology
