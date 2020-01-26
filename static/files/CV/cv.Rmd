@@ -12,7 +12,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 12pt
 geometry: margin=1in
-jobtitle: KU Leuven, Department of Mass Communication
+jobtitle: KU Leuven, Department of Mass Communication, DUH?????????
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
