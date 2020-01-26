@@ -156,6 +156,9 @@ Volunteering for Arci \hfill \begingroup\small June 2014 – July 2014\endgroup\
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
+Dr. Laura Vandenbosch (KU Leuven)\
+Email address: laura.vandenbosch@kuleuven.be
+
 Prof. dr. Peter Achterberg (Tilburg University)\
 Email address: P.Achterberg@tilburguniversity.edu
 
@@ -164,6 +167,3 @@ Email address: T.Reeskens@tilburguniversity.edu
 
 Prof. dr. Roger Leenders (Tilburg University)\
 Email address: R.T.A.J.Leenders@tilburguniversity.edu
-
-Dr. Eric Lybeck (University of Manchester)\
-Email address: eric.lybeck@manchester.ac.uk
