@@ -28,15 +28,16 @@ web: lucacarbone.netlify.com
 
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
 DPhil Communication Science\
-Supervisor: Laura Vandenbosch.
+Supervisor: Laura Vandenbosch\
+[Project website](https://www.kuleuven.be/english/research/EU/p/horizon2020/es/erc/mimic)
 
 *Tilburg University, NL* \hfill \begingroup\small 2017-2019\endgroup\
 M.Sc. (Res.) Social Sciences\
-Awarded best student, GPA 8.41/10, cum laude.
+Awarded best student, GPA 8.41/10, cum laude
 
 *University of Trento, IT* \hfill \begingroup\small 2014-2017\endgroup\
 B.A. Sociology\
-GPA 28.74/30, 110 cum laude.
+GPA 28.74/30, 110 cum laude
 
 # Publications
 \vspace{-10pt}
