@@ -52,4 +52,4 @@ user_groups:
 - Visitors
 ---
 
-Luca Carbone is PhD candidate in Communication Science at KU Leuven, BE. Their research interests lie at the intersection between communication science, cultural and cognitive sociology. They employ quantitative methods and cultural sociology to study media effects on well-being.
+Luca Carbone is PhD candidate in Communication Science at KU Leuven, BE. Their research interests lie at the intersection between communication science, cultural and cognitive sociology. They employ dual-process models of cognition to study how media shape perceptions of inequalities about gender, class, and race.
