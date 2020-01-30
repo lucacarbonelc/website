@@ -3,7 +3,7 @@
 
 [[buttons]]
   id = "twitter"
-  url = "https://twitter.com/intent/tweet?url={https://lucacarbone.netlify.com/pdf/cultcog.pdf}&text={title}"
+  url = "https://twitter.com/intent/tweet?url={}&text={List of works on sociology of culture and cognition created by Luca Carbone: https://lucacarbone.netlify.com/pdf/cultcog.pdf}"
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
@@ -11,7 +11,7 @@
 
 [[buttons]]
   id = "facebook"
-  url = "https://www.facebook.com/sharer.php?u={https://lucacarbone.netlify.com/pdf/cultcog.pdf}&t={title}"
+  url = "https://www.facebook.com/sharer.php?u=&title={List of works on sociology of culture and cognition created by Luca Carbone: https://lucacarbone.netlify.com/pdf/cultcog.pdf}"
   title = "Facebook"
   icon_pack = "fab"
   icon = "facebook-f"
@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:?subject={title}&body={https://lucacarbone.netlify.com/pdf/cultcog.pdf}"
+  url = "mailto:?subject={title}&body=List of works on sociology of culture and cognition created by Luca Carbone: https://lucacarbone.netlify.com/pdf/cultcog.pdf"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
