@@ -14,9 +14,9 @@ publication_short: ""
 publication_types: ["0"]
 publishDate: ""
 slides: ""
-summary: Articles and book about sociological approaches to culture and cognition.
+summary: Articles and books about sociological approaches to culture and cognition.
 tags:
-title: List of Works on Cultural and Cognitive Sociology
+title: List of works on cultural and cognitive sociology
 url_code: ""
 url_dataset: ""
 url_pdf: "pdf/cultcog.pdf"
