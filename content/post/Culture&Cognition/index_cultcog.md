@@ -1,11 +1,14 @@
 ---
-title: "Sociology of Culture & Cognition"
-author: "Luca Carbone"
+authors:
+- admin
+categories: []
 date: "`r format(Sys.time(), '%d %B %Y')`"
-output:
-  pdf_document: default
-  html_document: default
-urlcolor: blue
+draft: false
+featured: true
+projects: [culture&cognition]
+summary: Articles and book about sociological approaches to culture and cognition.
+tags: []
+title: Cultural and Cognitive Sociology
 ---
 
 ***IMPORTANT NOTE****: all the hyperlinks have been taken from Limo, so they work only when you are logged in with your university VPN. If they don't work, let me know and I'll send you directly the papers:)*
