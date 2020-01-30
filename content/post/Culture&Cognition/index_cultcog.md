@@ -19,7 +19,7 @@ tags:
 title: List of Works on Cultural and Cognitive Sociology
 url_code: ""
 url_dataset: ""
-url_pdf: "static/pdf/cultcog.pdf"
+url_pdf: "pdf/cultcog.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
