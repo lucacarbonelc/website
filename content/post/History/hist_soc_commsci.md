@@ -8,7 +8,9 @@ featured: true
 projects: []
 subtitle:
 summary:
-tags: [communication science; sociology]
+tags:
+- Communication Science
+- Sociology
 title: Historical reflections upon the relationships between sociology and communication science.
 ---
 
