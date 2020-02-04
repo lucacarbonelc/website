@@ -4,8 +4,6 @@ title: Historical reflections upon the relationships between sociology and commu
 bibliography: bibliography.bib
 date: "`r format(Sys.time(), '%d %B %Y')`"
 categories: []
-draft: no
-featured: yes
 projects: []
 tags:
 - Communication Science
