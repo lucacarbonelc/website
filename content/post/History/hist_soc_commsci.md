@@ -1,14 +1,12 @@
 ---
-title: Historical reflections upon the relationships between sociology and communication
-  science.
-bibliography: bibliography.bib
+title: Historical reflections upon the relationships between sociology and communication science.
 date: "`r format(Sys.time(), '%d %B %Y')`"
 categories: []
 projects: []
 tags:
 - Communication Science
 - Sociology
-authors: admin
+author: Luca Carbone
 ---
 
 To get acclimatized in a new field or subfield, what I tend to do is to study the historical developments of the discipline. As (institutional) newbie in communication science, I decided to dig into the historical relationships between sociology and communication science (commsci). After few weeks into my PhD, the literature on media effects seemed more detached from sociological approaches than I expected. Mostly dominated by psychological approaches, the perspectives adopted in the major theories -- even those with a focus on social dimensions, such as cultivation and social cognitive theory -- seemed unable to tackle crucial sociological issues (e.g. power, enculturation, institutionalization). What are the possible historical explanations for this divergence?
