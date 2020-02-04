@@ -24,4 +24,3 @@
   name = "Blog"
   url = "#posts"
   weight = 40
-  order = "desc"
