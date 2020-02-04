@@ -28,4 +28,4 @@ Despite this, it seems to me that this transfield (media/digitial sociology) sti
 
 These are rough and imperfect impressions. I thought it was worthwhile reflecting upon these historical trajectories as we often find ourselves in the middle of theoretical debates without recognizing the historical relationships that define possible common grounds.
 
-**Bibliography**
+Bibliography
