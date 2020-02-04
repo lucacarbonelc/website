@@ -1,3 +1,5 @@
 ---
 site: blogdown:::blogdown_site
 ---
+
+{{ range (where .Data.Pages "Section" "post").Reverse }} {{.Title}}</br>  {{ end }}
