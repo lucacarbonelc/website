@@ -2,7 +2,7 @@
 authors:
 - admin
 categories: []
-date: `r format(Sys.time(), '%d %B %Y')`
+date: "`r format(Sys.time(), '%d %B %Y')`"
 draft: false
 featured: true
 projects: []
