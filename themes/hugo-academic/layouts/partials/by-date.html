@@ -1,0 +1,3 @@
+{{ range (where .Data.Pages "Section" "post").ByDate.Reverse }}
+    {{ .Date.Format  "Jan 02, 2006" }} » <a href="{{ .RelPermalink }}">{{ .Title }}</a><br/>
+  {{ end }}

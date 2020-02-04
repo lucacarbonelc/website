@@ -7,6 +7,7 @@ draft: false
 featured: true
 projects: []
 subtitle:
+section: post
 summary:
 tags:
 - Communication Science
