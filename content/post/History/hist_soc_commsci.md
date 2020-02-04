@@ -1,10 +1,16 @@
 ---
-title: Historical reflections upon the relationships between sociology and communication science.
-author: "Luca Carbone"
+authors:
+- admin
+categories: []
 date: "`r format(Sys.time(), '%d %B %Y')`"
+draft: false
+featured: true
+projects: []
 tags:
 - Communication Science
 - Sociology
+title: Historical reflections upon the relationships between sociology and communication science.
+
 bibliography: bibliography.bib
 ---
 
@@ -22,4 +28,4 @@ Despite this, it seems to me that this transfield (media/digitial sociology) sti
 
 Since I have just started finding my way into these intersections, these are rough and imperfect impressions. I thought it was worthwhile reflecting upon these historical trajectories as we often find ourselves in the middle of theoretical debates without recognizing we have more things in common than imagined.
 
-Bibliography
+**Bibliography**
