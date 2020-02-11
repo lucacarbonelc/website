@@ -27,21 +27,21 @@ The following, is a list of important papers in the field, selected by topic. On
 * Moore, Rick. 2017. “Fast or Slow: Sociological Implications of Measuring Dual-Process Cognition.” Sociological Science 4:196–223.[link](https://www.sociologicalscience.com/articles-v4-9-196/).
 
 ### Methodological perspectives
-* Stephen Vaisey, Omar Lizardo, Can Cultural Worldviews Influence Network Composition?, Social Forces, Volume 88, Issue 4, June 2010, Pages 1595–1618.[link](https://academic.oup.com/sf/article-abstract/88/4/1595/1895191?redirectedFrom=fulltext);
+* Vaisey, Stephen & Lizardo, Omar. 2010. "Can Cultural Worldviews Influence Network Composition?" Social Forces, 88:4, 1595–1618.[link](https://academic.oup.com/sf/article-abstract/88/4/1595/1895191?redirectedFrom=fulltext);
 * Boutyline, Andrei and Stephen Vaisey. 2017. "Belief Network Analysis: A Relational Approach to Understanding the Structure of Attitudes." American Journal of Sociology 122: 1371-1447.[link](https://www.journals.uchicago.edu/doi/10.1086/691274?mobileUi=0)
 * Boutyline, Andrei. 2017. “Improving the Measurement of Shared Cultural Schemas with Correlational Class Analysis: Theory and Method.” Sociological Science 4:353–93.[link](https://www.sociologicalscience.com/articles-v4-15-353/);
 * Miles, A., Charron-Chénier, R., & Schleifer, C. (2019). Measuring Automatic Cognition: Advancing Dual-Process Research in Sociology. American Sociological Review, 84(2), 308–333.[link](https://journals.sagepub.com/doi/abs/10.1177/0003122419832497#articleCitationDownloadContainer);
 * Miles, Andrew. 2019. “An Assessment of Methods for Measuring Automatic Cognition” Eds. W. Brekhus and G. Ignatow, Oxford Handbook of Cognitive Sociology. [link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190273385.001.0001/oxfordhb-9780190273385-e-19);
-* Hunzaker, M. B. Fallin and Lauren Valentino. 2019. “Mapping Cultural Schemas: From Theory to Method.” American Sociological Review 84(5):950–81.[link](https://journals.sagepub.com/doi/abs/10.1177/0003122419875638);
-* Martin, John Levi.  2000.  “The Relation of Aggregate Statistics on Belief to Culture and Cognition.”  Poetics 28: 5-20.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X00000103)
-* Moore, Rick. 2017. “Fast or Slow: Sociological Implications of Measuring Dual-Process Cognition.” Sociological Science 4:196–223.[link](https://www.sociologicalscience.com/articles-v4-9-196/).
+* Hunzaker, M. B. Fallin and Valentino, Lauren. 2019. “Mapping Cultural Schemas: From Theory to Method.” American Sociological Review 84(5):950–81.[link](https://journals.sagepub.com/doi/abs/10.1177/0003122419875638);
+* Martin, John Levi.  2000.  “The Relation of Aggregate Statistics on Belief to Culture and Cognition.”  Poetics 28: 5-20.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X00000103);
+* Moore, Rick. 2017. “Fast or Slow: Sociological Implications of Measuring Dual-Process Cognition.” Sociological Science 4:196–223.[link](https://www.sociologicalscience.com/articles-v4-9-196/);
 
 ### Declarative and non-declarative culture
 * Cerulo, Karen A. 2018. “Scents and Sensibility: Olfaction, Sense-making and Meaning Attribution.” American Sociological Review 83: 2: 361-389.[link](https://journals.sagepub.com/doi/10.1177/0003122418759679);
 * Lizardo, Omar. 2017. "Improving Cultural Analysis Considering Personal Culture in its Declarative and Nondeclarative Modes." American Sociological Review 82(1):88-115.[link](https://journals.sagepub.com/doi/10.1177/0003122416675175).
 
 ### Cognitive apporaches to culture
-* Lizardo, Omar and Michael Strand. 2010. “Skills, Toolkits, Contexts and Institutions: Clarifying the Relationship between Different Approaches to Cognition in Cultural Sociology.” Poetics 38(2):205–28.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X09000606).
+* Lizardo, Omar and Strand, Michael. 2010. “Skills, Toolkits, Contexts and Institutions: Clarifying the Relationship between Different Approaches to Cognition in Cultural Sociology.” Poetics 38(2):205–28.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X09000606).
 
 ### Cultural approaches
 * Vaisey, S. (2010). What People Want: Rethinking Poverty, Culture, and Educational Attainment. The ANNALS of the American Academy of Political and Social Science, 629(1), 75–101. [link](https://journals-sagepub-com.kuleuven.ezproxy.kuleuven.be/doi/abs/10.1177/0002716209357146);
@@ -49,7 +49,10 @@ The following, is a list of important papers in the field, selected by topic. On
 
 ### Bridging fields
 * Lamont, Michèle, Laura Adler, Bo Yun Park, and Xin Xiang. 2017. “Bridging Cultural Sociology and Cognitive Psychology in Three Contemporary Research Programmes.” Nature Human Behaviour 1(12):866–72.[link](https://www.nature.com/articles/s41562-017-0242-y);
-* Cerulo, Karen. 2010. "Mining the Intersections of Cognitive Sociology and Neurosceince." Poetics 38: 2: 115-132.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X0900062X).
+* Cerulo, Karen. 2010. "Mining the Intersections of Cognitive Sociology and Neurosceince." Poetics 38: 2: 115-132.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X0900062X);
+* Lizardo, Omar. 2007. "“Mirror Neurons,” Collective Objects and the Problem of Transmission: Reconsidering Stephen Turner's Critique of Practice Theory." Journal for the Theory of Social Behaviour, 37: 319-350.[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-5914.2007.00340.x);
+* Turner, Stephen. 2007. "Mirror Neurons and Practices: A Response to Lizardo." Journal for the Theory of Social Behaviour, 37: 351-371.[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-5914.2007.00342.x);
+* Lizardo, Omar, Brandon Sepulvado, Dustin S. Stoltz, and Marshall A. Taylor. 2019. “What Can Cognitive Neuroscience Do for Cultural Sociology?” American Journal of Cultural Sociology.[link](https://link.springer.com/article/10.1057/s41290-019-00077-8#enumeration)
 
 ### Additional resources
 * [Omar Lizardo's syllabus](https://docs.google.com/document/d/e/2PACX-1vSfYxPJcm-gXaFIBLr0RHkpAuYcRMHxMpVkIOehoU_5eGYrHt_nMoU0qStJjrfWGXmU8UAlN-GLckYe/pub) for the course Culture and Cognition at Notre Dame (Spring 2017);

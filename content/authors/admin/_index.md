@@ -33,7 +33,7 @@ social:
   link: https://osf.io/profile/
 - icon: orcid
   icon_pack: ai ai-orcid
-  link: https://orcid.org/my-orcid
+  link: https://orcid.org/0000-0003-1688-9468
 - icon: github
   icon_pack: fab
   link: https://github.com/lucacarbonelc
@@ -48,8 +48,7 @@ social:
   link: https://www.facebook.com/profile.php?id=100004409205191
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- PhD students
 ---
 
 I am PhD candidate at the School for Mass Communication Research, KU Leuven (BE). My research interests lie at the intersection of media effects, cultural and cognitive sociology. I employ dual-process models of cognition to study how media shape perceptions of inequalities about gender, class, and race and to understand the enculturation process behind this transmission.
