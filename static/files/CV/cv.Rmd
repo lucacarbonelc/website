@@ -27,7 +27,7 @@ web: lucacarbone.netlify.com
 \rule{1\linewidth}{\linethickness}
 
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
-DPhil Communication Science\
+DPhil Communication Science - ERC starting grant\
 Supervisor: Laura Vandenbosch\
 [Project website](https://www.kuleuven.be/english/research/EU/p/horizon2020/es/erc/mimic)
 
@@ -67,9 +67,11 @@ __Carbone, Luca__ (2018, 21 August), Sociology Journals and Network Proprieties 
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-ERC scholarship (PhD fees + stipend). \hfill \begingroup\small 2020-2024 \endgroup
+ERC starting grant scholarship (PhD fees + stipend). \hfill \begingroup\small 2020-2024 \endgroup
 
-Visiting fund at Exeter University (€1000) from Tilburg University. \hfill \begingroup\small June - August 2018\endgroup
+University of Chicago, scholarship & Dean’s fellowship ($31,500). (declined) \hfill \begingroup\small 2019-2020 \endgroup
+
+Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begingroup\small June - August 2018\endgroup
 
 # Memberships & affiliations
 \vspace{-10pt}
