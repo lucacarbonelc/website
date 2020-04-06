@@ -27,9 +27,9 @@ web: lucacarbone.netlify.com
 \rule{1\linewidth}{\linethickness}
 
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
-DPhil Communication Science - ERC starting grant\
+DPhil Social Sciences - ERC starting grant\
 Supervisor: Laura Vandenbosch\
-[Project website](https://www.kuleuven.be/english/research/EU/p/horizon2020/es/erc/mimic)
+[Project website](https://ercmimic.netlify.com/)
 
 *Tilburg University, NL* \hfill \begingroup\small 2017-2019\endgroup\
 M.Sc. (Res.) Social Sciences\
@@ -47,7 +47,7 @@ GPA 28.74/30, 110 cum laude
 
 __Carbone, Luca__ .2019. "Il mercato comunicativo su Twitter nelle europee 2019."" In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (56-63). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
 
-__Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle europee 2019." In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (56-63). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
+__Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle europee 2019." In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (65-73). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
 \newline
 
 ## Work in progress
