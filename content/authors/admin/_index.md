@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD candidate in Communication Science
     institution: KU Leuven school for Mass Communication
-    year: 2019 - in progress
+    year: 2020 - in progress
   - course: Research MSc in Sociology
     institution: Tilburg University
     year: 2017 - 2019
@@ -16,7 +16,7 @@ education:
 email: "lucacarbone.lc@gmail.com"
 interests:
 - Cultural & Cognitive Sociology
-- Media
+- Media Effects
 - Social Inequalities
 - Methods & Open Science
 name: Luca Carbone
