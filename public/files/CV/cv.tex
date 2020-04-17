@@ -1,0 +1,349 @@
+\sloppy
+\documentclass[12pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Luca Carbone - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Luca Carbone:  CV (Curriculum Vitae)},
+            pdfauthor={Luca Carbone},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+\begin{document}
+
+
+\centerline{\huge \bf Luca Carbone}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{KU Leuven, Department of Mass Communication}
+\moveleft.5\hoffset\centerline{Parkstraat 45 · 3000 Leuven · Belgium}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:lucacarbone.lc@gmail.com}{\nolinkurl{lucacarbone.lc@gmail.com}}} \hspace{1 mm}  \faPhone \hspace{1 mm}  +39 3478191290  \hspace{1 mm}      \faGlobe \hspace{1 mm} \href{http://www.lucacarbone.com}{\tt www.lucacarbone.com}   } 
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+\emph{KU Leuven, BE} \hfill \begingroup\small 2020-2024\endgroup\\
+DPhil Social Sciences - ERC starting grant\\
+Supervisor: Laura Vandenbosch\\
+\href{https://ercmimic.netlify.com/}{Project website}
+
+\emph{Tilburg University, NL}
+\hfill \begingroup\small 2017-2019\endgroup\\
+M.Sc. (Res.) Social Sciences\\
+Awarded best student, GPA 8.41/10, cum laude
+
+\emph{University of Trento, IT}
+\hfill \begingroup\small 2014-2017\endgroup\\
+B.A. Sociology\\
+GPA 28.74/30, 110 cum laude
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+\hypertarget{book-chapters}{%
+\subsection{Book Chapters}\label{book-chapters}}
+
+\textbf{Carbone, Luca} .2019. ``Il mercato comunicativo su Twitter nelle
+europee 2019.''" In: Valbruzzi, Marco (Ed.) \emph{L'Italia sovranista e
+la sfida all'Europa. Le elezioni europee ed amministrative 2019}
+(56-63). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778\_41
+
+\textbf{Carbone, Luca} .2019. ``Twitter come mercato comunicativo?
+Un'analisi sulle europee 2019.'' In: Valbruzzi, Marco (Ed.)
+\emph{L'Italia sovranista e la sfida all'Europa. Le elezioni europee ed
+amministrative 2019} (65-73). Bologna: Istituto Carlo Cattaneo. DOI:
+10.31484/2611-5778\_41 \newline
+
+\hypertarget{work-in-progress}{%
+\subsection{Work in progress}\label{work-in-progress}}
+
+\textbf{Carbone, Luca} \& Achterberg, Peter: ````No room for thinking,
+under the dome''. Flat earth and the boundary construction between
+science and non- science on Twitter." \newline
+
+\hypertarget{other-publications}{%
+\subsection{Other Publications}\label{other-publications}}
+
+Brusco, Sandro; \textbf{Carbone, Luca}; Miglino, Enrico; Tazzioli,
+Agostino (2019, 30 May), Una semplice analisi econometrica del voto a
+Più Europa del 2019 (A simple econometric analysis of the 2019 vote to
++Europe). Research report for NoiseFromAmerika. Available
+\href{http://noisefromamerika.org/articolo/semplice-analisi-econometrica-voto-piu-europa-2019?fbclid=IwAR12kLTGJAonRf3Ctb-HlXYBGAspUhOSclDpQCg-mis-mDzM9vY8kZU21v8}{here}
+
+\textbf{Carbone, Luca} (2019, 6 February), Il Dibattito Online
+sull'Immigrazione in Italia (The Online Debate about Immigration in
+Italy). Research report for Istituto Carlo Cattaneo. Available
+\href{http://www.cattaneo.org/2019/02/06/il-dibattito-online-sullimmigrazione-in-italia/}{here}
+
+\textbf{Carbone, Luca} (2018, 21 August), Sociology Journals and Network
+Proprieties of the St.~Matthew Effect {[}blog post{]}. Available
+\href{https://economicsociology.org/2018/08/21/sociological-journals-and-network-proprieties-of-the-st-matthew-effect/}{here}
+
+\hypertarget{awards-funds}{%
+\section{Awards \& Funds}\label{awards-funds}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+ERC starting grant scholarship (PhD fees + stipend).
+\hfill \begingroup\small 2020-2024 \endgroup
+
+University of Chicago, scholarship \& Dean's fellowship (\$31,500).
+(declined) \hfill \begingroup\small 2019-2020 \endgroup
+
+Tilburg University, visiting fund at Exeter University (€1000).
+\hfill \begingroup\small June - August 2018\endgroup
+
+\hypertarget{memberships-affiliations}{%
+\section{Memberships \& affiliations}\label{memberships-affiliations}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Netherlands -- Flanders Communication Association (NeFCA).
+\hfill \begingroup\small 2020-present\endgroup
+
+\hypertarget{presentations}{%
+\section{Presentations}\label{presentations}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Day of Sociology, Amsterdam.
+\hfill \begingroup\small 27th June 2019\endgroup
+
+\hypertarget{research-experience}{%
+\section{Research Experience}\label{research-experience}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Department of Sociology, Tilburg University
+\hfill \begingroup\small March 2019 – September 2019\endgroup\\
+Research assistant, Supervisor: Prof.~dr. Ruud Muffels\\
+\emph{Research on basic income in the Netherlands.}
+
+Research Institute Carlo Cattaneo, Bologna
+\hfill \begingroup\small January 2019 – June 2019\endgroup\\
+Research collaborator\\
+\emph{Political discourses on Twitter.}
+
+Research Institute IRVAPP, Trento
+\hfill \begingroup\small February 2017 – May 2017\endgroup\\
+Research internship, Supervisor: Dr.~Sonia Marzadro\\
+\emph{Evaluation of social policies for the European project Youth
+Guarantee.}
+
+\hypertarget{teaching-experience}{%
+\section{Teaching Experience}\label{teaching-experience}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Department of Sociology, Tilburg University
+\hfill \begingroup\small March 2017 – June 2017\endgroup\\
+Teaching assistant\\
+\emph{Course: Social Risk and Culture}
+
+Department of Methodology \& Statistics, Tilburg University
+\hfill \begingroup\small February 2017 – June 2017\endgroup\\
+Teaching assistant\\
+\emph{Courses: Introduction to Statistics, Questionnaire design,
+Experimental design}
+
+\hypertarget{skills}{%
+\section{Skills}\label{skills}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+\hypertarget{programming-languages-softwares}{%
+\subsection{Programming Languages \&
+Softwares}\label{programming-languages-softwares}}
+
+R (Advanced)\\
+Markdown (Intermediate)\\
+SPSS (Intermediate)\\
+Stata (Basic) \newline
+
+\hypertarget{languages}{%
+\subsection{Languages}\label{languages}}
+
+Italian (Native speaker)\\
+English (Full professional proficiency)\\
+Spanish (Elementary proficiency) \newline
+
+\hypertarget{additional-training}{%
+\subsection{Additional training}\label{additional-training}}
+
+MOOC on ``Introduction to Agent-Based Modeling'', Santa Fe Institute
+\hfill \begingroup\small October, 2019\endgroup\\
+\emph{Agent-based modelling on NetLogo}
+
+MOOC on ``Social and Economic Networks: Models and Analysis'',
+\hfill \begingroup\small August, 2019\endgroup\\
+Stanford University\\
+\emph{Social network analysis}
+
+Summer School at CWST Center, Leiden University
+\hfill \begingroup\small August, 2018\endgroup\\
+\emph{Scientometrics analysis}
+
+Seminar on The Path to Quantitative Research, University of Trento
+\hfill \begingroup\small 2016\endgroup\\
+\emph{Factor analysis and counterfactual techniques for impact
+evaluation} \newline
+
+\hypertarget{social-causes}{%
+\subsection{Social causes}\label{social-causes}}
+
+Volunteering for Cultuur en Ontspanningscentrum
+\hfill \begingroup\small April 2019 – June 2019\endgroup\\
+\emph{The mission is to integrate sexual orientations, gender
+identities, gender expression, and sex characteristics of sexual and
+gender minority groups into the social norm through social activism,
+education, support, and representation.}
+
+Volunteering for ``L'Universitario''
+\hfill \begingroup\small September 2016 – June 2017\endgroup\\
+\emph{Founder of this university newspaper and director section
+``Scientific Divulgation''.}
+
+Volunteering for Arci
+\hfill \begingroup\small June 2014 – July 2014\endgroup\\
+\emph{Requalification of terrains confiscated to mafia with the project
+``Campi della Legalità''.}
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Dr.~Laura Vandenbosch (KU Leuven)\\
+Email address:
+\href{mailto:laura.vandenbosch@kuleuven.be}{\nolinkurl{laura.vandenbosch@kuleuven.be}}
+
+Prof.~dr. Peter Achterberg (Tilburg University)\\
+Email address:
+\href{mailto:P.Achterberg@tilburguniversity.edu}{\nolinkurl{P.Achterberg@tilburguniversity.edu}}
+
+Dr.~Tim Reeskens (Tilburg University)\\
+Email address:
+\href{mailto:T.Reeskens@tilburguniversity.edu}{\nolinkurl{T.Reeskens@tilburguniversity.edu}}
+
+Prof.~dr. Roger Leenders (Tilburg University)\\
+Email address:
+\href{mailto:R.T.A.J.Leenders@tilburguniversity.edu}{\nolinkurl{R.T.A.J.Leenders@tilburguniversity.edu}}
+
+\end{document}
+

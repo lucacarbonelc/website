@@ -19,7 +19,7 @@ fontawesome: yes
 phone: +39 3478191290
 address: Parkstraat 45 · 3000 Leuven · Belgium
 urlcolor: blue
-web: lucacarbone.netlify.com
+web: www.lucacarbone.com
 ---
 
 # Education
