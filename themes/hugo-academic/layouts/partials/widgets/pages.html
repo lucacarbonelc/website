@@ -43,7 +43,7 @@
 {{ $count := len $query }}
 
 {{/* Sort */}}
-{{ $sort_by := .Pages.ByPublishDate }}
+{{ $sort_by := "Date" }}
 {{ $query = sort $query $sort_by $items_sort }}
 
 {{/* Offset and Limit */}}

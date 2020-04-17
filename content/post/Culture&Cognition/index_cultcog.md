@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: ""
 doi: ""
 featured: false
 image:
@@ -12,7 +12,7 @@ projects: [culture&cognition]
 publication: ""
 publication_short: ""
 publication_types: ["0"]
-publishDate: ""
+publishDate: "`r format(Sys.time(), '%d %B %Y')`"
 slides: ""
 summary: Articles and books about sociological approaches to culture and cognition.
 tags:

@@ -10,7 +10,7 @@ image:
   focal_point: ""
 projects: []
 subtitle: Richard Schomburgk's Travels in British Guiana.
-summary: This essay aims at dissecting the interpretative layers present in Richard Schomburgk's diary, dividing them in two sections. A first layer refers to the construction of the content, inserting Schomburgk in his time and reading his actions as part of broader structure and mentalities, with a particular focus on the themes of slavery and colonialism, taxonomies and scientific racism, healing practices and science. A second layer approaches the construction of this document as historical source, delving into the archival elements that constitute colonial documents.
+summary: This essay aims to dissect the interpretative layers present in Richard Schomburgk's diary, dividing them in two sections. A first layer refers to the construction of the content, inserting Schomburgk in his time and reading his actions as part of broader structure and mentalities, with a particular focus on the themes of slavery and colonialism, taxonomies and scientific racism, healing practices and science. A second layer approaches the construction of this document as historical source, delving into the archival elements that constitute colonial documents.
 tags: []
 title: Interpretative Layers in Colonial Documents.
 ---
