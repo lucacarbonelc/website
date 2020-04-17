@@ -43,7 +43,7 @@
 {{ $count := len $query }}
 
 {{/* Sort */}}
-{{ $sort_by := "Date" }}
+{{ $sort_by := .Pages.ByPublishDate }}
 {{ $query = sort $query $sort_by $items_sort }}
 
 {{/* Offset and Limit */}}
@@ -98,12 +98,5 @@
   </div>
 </div>
 
-<ul>
-    {{ range .Pages.ByDate.Reverse }}
-        <li>
-            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-            <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
-        </li>
-    {{ end }}
-</ul>
+
 
