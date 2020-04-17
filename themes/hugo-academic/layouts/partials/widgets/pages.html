@@ -68,7 +68,6 @@
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
-    <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
@@ -99,4 +98,12 @@
   </div>
 </div>
 
+<ul>
+    {{ range .Pages.ByDate.Reverse }}
+        <li>
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+        </li>
+    {{ end }}
+</ul>
 
