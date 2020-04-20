@@ -34,9 +34,3 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://www.lucacarbone.com"
   status = 301
   force = true
-
-[[redirects]]
-  from = "https://lucacarbone.netlify.app/*"
-  to = "https://www.lucacarbone.com/*"
-  status = 301
-  force = false
