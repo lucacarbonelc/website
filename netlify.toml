@@ -28,3 +28,9 @@ HUGO_VERSION = "0.55.6"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "https://lucacarbone.netlify.app"
+  to = "https://www.lucacarbone.com"
+
+
