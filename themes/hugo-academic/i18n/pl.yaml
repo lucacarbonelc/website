@@ -1,31 +1,31 @@
 - id: toggle_navigation
-  translation: Włącz/Wyłącz nawigację
+  translation: Toggle navigation
 - id: table_of_contents
   translation: Spis treści
 - id: on_this_page
-  translation: Na tej stronie
+  translation: On this page
 - id: back_to_top
-  translation: Powrót do góry
+  translation: Back to top
 - id: related
   translation: Powiązane
 - id: minute_read
   translation: min czytania
 - id: previous
-  translation: Poprzedni
+  translation: Previous
 - id: next
-  translation: Następny
+  translation: Next
 - id: figure
-  translation: 'Figura %d:'
+  translation: 'Figure %d:'
 - id: btn_preprint
   translation: Preprint
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: Cytowanie
+  translation: Cite
 - id: btn_slides
   translation: Slajdy
 - id: btn_video
-  translation: Wideo
+  translation: Video
 - id: btn_code
   translation: Kod
 - id: btn_dataset
@@ -35,23 +35,23 @@
 - id: btn_poster
   translation: Poster
 - id: btn_source
-  translation: Dokument źródłowy
+  translation: Source Document
 - id: btn_copy
-  translation: Kopia
+  translation: Copy
 - id: btn_download
-  translation: Pobierz
+  translation: Download
 - id: interests
   translation: Zainteresowania
 - id: education
   translation: Wykształcenie
 - id: user_profile_latest
-  translation: Ostatnie
+  translation: Latest
 - id: see_certificate
-  translation: Zobacz certyfikat
+  translation: See certificate
 - id: present
-  translation: Obecnie
+  translation: Present
 - id: more_pages
-  translation: Wszystkie
+  translation: See all
 - id: more_posts
   translation: Więcej postów
 - id: more_talks
@@ -59,15 +59,15 @@
 - id: more_publications
   translation: Więcej publikacji
 - id: contact_name
-  translation: Imię i nazwisko
+  translation: Name
 - id: contact_email
-  translation: Adres email
+  translation: Email
 - id: contact_message
-  translation: Wiadomość
+  translation: Message
 - id: contact_send
-  translation: Wyślij
+  translation: Send
 - id: book_appointment
-  translation: Umów spotkanie
+  translation: Book an appointment
 - id: abstract
   translation: Streszczenie
 - id: publication
@@ -83,21 +83,21 @@
 - id: location
   translation: Miejsce
 - id: pub_uncat
-  translation: Nieskategoryzowany
+  translation: Uncategorized
 - id: pub_conf
-  translation: Prezentacja z konferencji
+  translation: Conference paper
 - id: pub_journal
-  translation: Artykuł w czasopiśmie 
+  translation: Journal article
 - id: pub_preprint
   translation: Preprint
 - id: pub_report
-  translation: Raport
+  translation: Report
 - id: pub_book
-  translation: Książka
+  translation: Book
 - id: pub_book_section
-  translation: Rozdział książki
+  translation: Book section
 - id: pub_thesis
-  translation: Praca dyplomowa
+  translation: Thesis
 - id: pub_patent
   translation: Patent
 - id: open_project_site
@@ -109,22 +109,22 @@
 - id: talks
   translation: Wystąpienia
 - id: projects
-  translation: Projekty
+  translation: Projects
 - id: search
-  translation: Szukaj
+  translation: Search
 - id: search_placeholder
-  translation: Szukaj...
+  translation: Search...
 - id: search_results
-  translation: wyników
+  translation: results found
 - id: search_no_results
-  translation: Brak wyników
+  translation: No results found
 - id: page_not_found
-  translation: Strona nie znaleziona
+  translation: Page not found
 - id: 404_recommendations
-  translation: Podobne strony
+  translation: Perhaps you were looking for one of these?
 - id: cookie_message
-  translation: Ta strona używa ciasteczek do poprawnego działania strony.
+  translation: This website uses cookies to ensure you get the best experience on our website.
 - id: cookie_dismiss
-  translation: Zrozumiałem!
+  translation: Got it!
 - id: cookie_learn
-  translation: Dlaczego?
+  translation: Learn more
