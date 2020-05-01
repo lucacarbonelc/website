@@ -18,11 +18,6 @@ copyright = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-162811786-1"
 
-# Privacy pack
-#   Show a cookie consent message to visitors
-#   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = true
-
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
