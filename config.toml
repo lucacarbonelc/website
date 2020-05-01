@@ -17,6 +17,7 @@ copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-162811786-1"
+privacy_pack = true
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
