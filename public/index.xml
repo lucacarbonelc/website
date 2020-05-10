@@ -21,6 +21,29 @@
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;This page informs you of my policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+I use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Information Collection And Use&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;
+This website does not require you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.&lt;/p&gt;
+&lt;p&gt;I do not collect this information and have no access to it other than as aggregated reports. &lt;a href=&#34;https://policies.google.com/technologies/partner-sites&#34;&gt;Here&lt;/a&gt; is the Google Analytics privacy page. In order to anonymize this process, I have set the Hugo GDPR options so that your IP address is anonymised within Google Analytics and the “Do Not Track” request is respected.&lt;/p&gt;
+&lt;p&gt;For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cookies&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;
+This information is collected via cookies. Most web browsers allow you to control handling of cookies. It is possible to disable all cookies for this website without in any way reducing the functionality for the user.&lt;/p&gt;
+&lt;p&gt;To learn more about cookies, please refer to this &lt;a href=&#34;https://www.cookiesandyou.com&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changes To This Privacy Policy&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;
+This Privacy Policy is effective as of 01 May 2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.&lt;/p&gt;
+&lt;p&gt;I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after I post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact Us&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;
+If you have any questions about this Privacy Policy, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>/post/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
@@ -54,16 +77,6 @@
       
       <guid>/project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>

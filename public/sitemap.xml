@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/privacy/</loc>
+    <lastmod>2020-05-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -175,11 +180,6 @@
   <url>
     <loc>/tags/sociology-of-science/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
