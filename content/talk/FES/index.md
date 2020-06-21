@@ -9,7 +9,7 @@ event_url: https://www.nsv-sociologie.nl/?page_id=2731&lang=en
 featured: false
 location: Amsterdam, The Netherlands
 math: true
-projects: Cultural and Political Communication on Twitter
+projects: [communication]
 slides: example
 summary:
 tags: []
