@@ -1,7 +1,8 @@
 ---
 abstract:
-all_day: false
-authors: []
+all_day: true
+authors:
+- admin
 date: "2019-06-27"
 lastmod: [":fileModTime", ":default"]
 event: Day of Sociology
@@ -16,6 +17,6 @@ tags: []
 title: Day of Sociology, Amsterdam (2019)
 url_code: ""
 url_pdf: ""
-url_slides: "static/files/conferences/day_of_sociology_2019.pdf"
+url_slides: "files/conferences/day_of_sociology_2019.pdf"
 url_video: ""
 ---
