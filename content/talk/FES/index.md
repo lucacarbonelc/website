@@ -11,16 +11,13 @@ featured: false
 location: Amsterdam, The Netherlands
 math: true
 projects: [communication]
-slides: example
+slides:
 summary:
 tags: []
 title: Day of Sociology (NSVS)
 url_code: ""
-url_pdf: ""
+url_pdf: "files/conferences/day_of_sociology_2019.pdf"
 url_slides: ""
-[[url_custom]]
-    name = "SLIDES"
-    url = "static/files/conferences/day_of_sociology_2019.pdf"
 url_video: ""
 ---
 
