@@ -16,6 +16,6 @@ tags: []
 title: Day of Sociology, Amsterdam (2019)
 url_code: ""
 url_pdf: ""
-url_slides: "files/conferences/day_of_sociology_2019.pdf"
+url_slides: "static/files/conferences/day_of_sociology_2019.pdf"
 url_video: ""
 ---
