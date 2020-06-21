@@ -2,7 +2,7 @@
 abstract:
 all_day: false
 authors: []
-date: "2019-06-27T00:00:00Z"
+date: "2019-06-27"
 lastmod: [":fileModTime", ":default"]
 event: Day of Sociology
 event_url: https://www.nsv-sociologie.nl/?page_id=2731&lang=en
