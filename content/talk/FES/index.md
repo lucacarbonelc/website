@@ -14,7 +14,7 @@ projects: [communication]
 slides: example
 summary:
 tags: []
-title: Day of Sociology, Amsterdam (2019)
+title: Day of Sociology (NSVS)
 url_code: ""
 url_pdf: ""
 url_slides: "files/conferences/day_of_sociology_2019.pdf"
