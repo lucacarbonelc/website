@@ -2,6 +2,7 @@
 authors:
 - admin
 date: "2020-02-05T00:00:00Z"
+lastmod: [":fileModTime", ":default"]
 doi: ""
 featured: false
 image:
