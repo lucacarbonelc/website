@@ -3,6 +3,7 @@ abstract: Primo studio su opinioni politiche in vista delle elezioni del Parlame
 authors:
 - admin
 date: "2019-03-21T00:00:00Z"
+lastmod: [":fileModTime", ":default"]
 doi: ""
 featured: false
 image:

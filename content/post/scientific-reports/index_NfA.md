@@ -3,6 +3,7 @@ abstract: Analizziamo le possibili determinanti del limitato aumento del voto a 
 authors:
 - admin
 date: "2019-05-30T00:00:00Z"
+lastmod: [":fileModTime", ":default"]
 doi: ""
 featured: false
 image:

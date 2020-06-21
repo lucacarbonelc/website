@@ -3,6 +3,7 @@ abstract: Science is a political field. As stated in Bourdieu, science is the lo
 authors:
 - admin
 date: "2018-08-21T00:00:00Z"
+lastmod: [":fileModTime", ":default"]
 doi: ""
 featured: false
 image:

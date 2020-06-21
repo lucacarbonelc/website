@@ -3,6 +3,7 @@ abstract: In un recente comunicato dell’Istituto Cattaneo emerge come l’Ital
 authors:
 - admin
 date: "2019-02-06T00:00:00Z"
+lastmod: [":fileModTime", ":default"]
 doi: ""
 featured: false
 image:

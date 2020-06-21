@@ -3,6 +3,7 @@ abstract: Secondo studio su opinioni politiche in vista delle elezioni del Parla
 authors:
 - admin
 date: "2019-05-21T00:00:00Z"
+lastmod: [":fileModTime", ":default"]
 doi: ""
 featured: false
 image:
