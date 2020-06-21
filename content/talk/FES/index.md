@@ -17,7 +17,10 @@ tags: []
 title: Day of Sociology (NSVS)
 url_code: ""
 url_pdf: ""
-url_slides: static/files/conferences/day_of_sociology_2019.pdf
+url_slides: ""
+[[url_custom]]
+    name = "SLIDES"
+    url = "static/files/conferences/day_of_sociology_2019.pdf"
 url_video: ""
 ---
 
