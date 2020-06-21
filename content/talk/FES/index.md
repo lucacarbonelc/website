@@ -14,10 +14,9 @@ projects: [communication]
 slides: example
 summary:
 tags: []
-slides: content/talk/FES/day_of_sociology_2019.pdf
 title: Day of Sociology (NSVS)
 url_code: ""
 url_pdf: ""
-url_slides: "static/files/conferences/day_of_sociology_2019.pdf"
+url_slides: [static/files/conferences/day_of_sociology_2019.pdf]
 url_video: ""
 ---
