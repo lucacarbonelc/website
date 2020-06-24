@@ -1,0 +1,133 @@
+---
+authors:
+- admin
+date: "2020-06-24T00:00:00Z"
+lastmod: [":fileModTime", ":default"]
+projects: [culture&cognition]
+publication_types: ["0"]
+summary: How to match the words of a song with the chords in which these words are sung.
+tags:
+title: Functions to match chords with lyrics in the R package chorrrds
+---
+```{css, echo=FALSE}
+pre code, pre, code {
+  white-space: pre !important;
+  overflow-x: scroll !important;
+  word-break: keep-all !important;
+  word-wrap: initial !important;
+}
+```
+```{css, echo=FALSE}
+pre {
+  white-space: pre !important;
+  overflow-y: scroll !important;
+  max-height: 50vh !important;
+}
+```
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(width=200)
+```
+
+# Intro
+One of my PhD projects investigates the impact that songs have on meritocratic beliefs and social inequalities. One of the things that I would like to explore is the potential impact that certain words have when sung in a specific chord. This idea comes from the well-know effect that music (in terms of sounds) has on emotions (Arjmand, Hohagen, Paton, & Rickard 2014) and from the consideration that beliefs are intrinsically multi-sensory. That is, when asking people about their beliefs, the question inevitabily taps the perceptual information that has been encoded and stored during previous experiences. But this is another story.
+
+While thinking through the theoretical aspects, I also spent sometime working the first lines of code to get the data aligned with the way I was thinking. In this process, I encountered the R package [`chorrrds`](https://r-music.rbind.io/posts/2018-08-19-chords-analysis-with-the-chorrrds-package/), built to extract chords from the website [Cifraclub](https://www.cifraclub.com.br). Building upon the functions of this package, I implemented two functions that allow to match the words of a song with the corresponding chords in which these words are sung. In this blog post, I will explain the features of these two functions and how to use them in a practical example.
+
+# Preliminaries
+The package `chorrrds` can be installed from CRAN, with
+
+```{r, eval = F}
+install.packages("chorrrds")
+```
+
+and for the latest version, from GitHub with:
+
+```{r, eval = F}
+# install.packages("devtools")
+devtools::install_github("r-music/chorrrds")
+```
+
+# Function 1: create_dat
+Generally, this is how a song looks on the internet (specifically, on [Cifraclub](https://www.cifraclub.com.br/frank-ocean/sweet-life/)):
+```{r, fig.cap = "Sweet Life by Frank Ocean", echo = F, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+webshot::webshot("https://www.cifraclub.com.br/frank-ocean/sweet-life/", "screen.png", zoom = 2, cliprect = "viewport")
+```
+
+As you can see, each verse is sung with one or more chords. The problem is how to match each word with the corresponding chord in which they are played. For example, in the first verse, "The best song wasn't the single, but you weren't either", the words "The best song wasn't" are played in A, "the single, but you weren't" are played in C, and "either" is in G. How to connect each of these words with the corresponding chords A, C, G? The first step consists of having a song divided by verse, both for the chords and the lyrics, something that is achieved with the function `create_dat`:
+```{r, eval = F}
+chords.dat <- create_dat("Frank Ocean", "Sweet Life")
+```
+
+This produces the following output:
+```{r, fig.cap = "Chords and lyrics by verse with chords_dat", echo = F, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
+tibble(chords.dat) %>% 
+  print(n = Inf)
+```
+
+# Function 2: create_net
+While `create_dat` allows to have a song as presented on the website, it still does not achieve the intended result. That is, it does not match words with the respective chords. `create_net` does the job. The idea is to search for each chord the beginning of the closest word, and to store all the words that are present before the end of the verse or the beginning of the next chord. Running:
+```{r, eval = F}
+create_net(chords.dat)
+```
+
+creates the intended output:
+```{r, fig.cap = "Matching chords and lyrics with chords_net", echo = F, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
+chorrrds::create_net(chords.dat) %>%
+  tibble::as_tibble() %>% 
+  print(n = Inf)
+```
+
+Note that `create_net` builds upon the structure created with `create_dat`.
+
+# Usage
+These functions can be very useful for text, network, and many others types of analyses. For example, it could be useful for a network viz.
+
+1. Create a adjacency matrix with words connected to each other when played under the same chord.
+```{r, fig.cap = "Matching chords and lyrics with chords_net", echo = F, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
+chords.net <- chorrrds::create_net(chords.dat)
+
+network <- as.data.frame(matrix(nrow = 2000, # number of words in the song
+                            ncol = 2)) 
+names(network) <- c("chord", "lyric")
+
+for (i in 1:nrow(chords.net)) {                               # verses
+  for (j in 1:stringr::str_count(chords.net[i,2], "\\w+")) {  # words
+   
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 1] <- chords.net[i, 1]
+    
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 2] <- unlist(stringr::str_split(chords.net$lyric[i], " "))[j]
+     
+  }
+}
+network <- network %>% na.omit
+
+network %>% 
+  tibble::as_tibble() %>% 
+  print(n = Inf)
+```
+
+# Conclusion
+A special thanks to [Bruna Wundervald](https://github.com/brunaw), the developer of the `chorrrds` package, for the help and for the inclusion of these functions in her package :)
+Another special thanks to Edo for the help during the code writing process :)
+
+P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line! I'll be happy to further break my head around it.
+
+## Bibliography
+Arjmand, H.-A., Hohagen, J., Paton, B., & Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. Frontiers in Psychology, 8. https://doi.org/10.3389/fpsyg.2017.02044
