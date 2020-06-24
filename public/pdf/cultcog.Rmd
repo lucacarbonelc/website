@@ -15,7 +15,8 @@ The following, is a list of important papers in the field, selected by topic. On
 * Brekhus, Wayne & Ignatow, Gabe. 2019. “Cognitive Sociology and the Cultural Mind: debates, directions, and challenges.” Eds. W. Brekhus and G. Ignatow, Oxford Handbook of Cognitive Sociology.[link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190273385.001.0001/oxfordhb-9780190273385-e-1);
 * Brekhus, Wayne H. 2015. *Culture and Cognition: Patterns in the Social Construction of Reality.* Cambridge UK/Malden, MA: Polity.[link](https://www.wiley.com/en-be/Culture+and+Cognition%3A+Patterns+in+the+Social+Construction+of+Reality-p-9780745671765);
 * Strydom, P. (2007). Introduction: A Cartography of Contemporary Cognitive Social Theory. European Journal of Social Theory, 10(3), 339–356.[link](https://journals.sagepub.com/doi/abs/10.1177/1368431007080699);
-* Martin, John Levi. 2010. “Life’s a Beach but You’re an Ant, and Other Unwelcome News for the Sociology of Culture.” Poetics 38(2):229–44.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X09000618#vt1).
+* Martin, John Levi. 2010. “Life’s a Beach but You’re an Ant, and Other Unwelcome News for the Sociology of Culture.” Poetics 38(2):229–44.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X09000618#vt1);
+* Smith, Edward Bishop, Raina A. Brands, Matthew E. Brashears, and Adam M. Kleinbaum. 2020. “Social Networks and Cognition.” Annual Review of Sociology 46(1). [link](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-121919-054736);
 
 ### Automatic VS Deliberative cognition: dual-process models
 * Vaisey, Stephen. 2009. “Motivation and Justification: A Dual-Process Model of Culture in Action.” American Journal of Sociology 114(6):1675–1715.[link](https://www.journals.uchicago.edu/doi/abs/10.1086/597179);
@@ -33,19 +34,25 @@ The following, is a list of important papers in the field, selected by topic. On
 * Miles, A., Charron-Chénier, R., & Schleifer, C. (2019). Measuring Automatic Cognition: Advancing Dual-Process Research in Sociology. American Sociological Review, 84(2), 308–333.[link](https://journals.sagepub.com/doi/abs/10.1177/0003122419832497#articleCitationDownloadContainer);
 * Miles, Andrew. 2019. “An Assessment of Methods for Measuring Automatic Cognition” Eds. W. Brekhus and G. Ignatow, Oxford Handbook of Cognitive Sociology. [link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190273385.001.0001/oxfordhb-9780190273385-e-19);
 * Hunzaker, M. B. Fallin and Valentino, Lauren. 2019. “Mapping Cultural Schemas: From Theory to Method.” American Sociological Review 84(5):950–81.[link](https://journals.sagepub.com/doi/abs/10.1177/0003122419875638);
-* Martin, John Levi.  2000.  “The Relation of Aggregate Statistics on Belief to Culture and Cognition.”  Poetics 28: 5-20.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X00000103);
+* Martin, John Levi. 2000. “The Relation of Aggregate Statistics on Belief to Culture and Cognition.”  Poetics 28: 5-20.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X00000103);
 * Moore, Rick. 2017. “Fast or Slow: Sociological Implications of Measuring Dual-Process Cognition.” Sociological Science 4:196–223.[link](https://www.sociologicalscience.com/articles-v4-9-196/);
+* Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. 2020. “Computational Social Science and Sociology.” Annual Review of Sociology 46(1). [link](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-121919-054621);
 
 ### Declarative and non-declarative culture
-* Cerulo, Karen A. 2018. “Scents and Sensibility: Olfaction, Sense-making and Meaning Attribution.” American Sociological Review 83: 2: 361-389.[link](https://journals.sagepub.com/doi/10.1177/0003122418759679);
+* Cerulo, Karen A. 2018. “Scents and Sensibility: Olfaction, Sense-making and Meaning Attribution.” American Sociological Review 83(2): 361-389.[link](https://journals.sagepub.com/doi/10.1177/0003122418759679);
 * Lizardo, Omar. 2017. "Improving Cultural Analysis Considering Personal Culture in its Declarative and Nondeclarative Modes." American Sociological Review 82(1):88-115.[link](https://journals.sagepub.com/doi/10.1177/0003122416675175).
 
 ### Cognitive apporaches to culture
-* Lizardo, Omar and Strand, Michael. 2010. “Skills, Toolkits, Contexts and Institutions: Clarifying the Relationship between Different Approaches to Cognition in Cultural Sociology.” Poetics 38(2):205–28.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X09000606).
+* Lizardo, Omar and Strand, Michael. 2010. “Skills, Toolkits, Contexts and Institutions: Clarifying the Relationship between Different Approaches to Cognition in Cultural Sociology.” Poetics 38(2):205–28.[link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X09000606);
+* Lizardo, Omar. 2004. "The Cognitive Origins of Bourdieu’s Habitus." Journal for the Theory of Social Behavior 34(4): 375-401. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-5914.2004.00255.x);
+* Cohen, Dov and Angela K. Y. Leung. 2009. “The Hard Embodiment of Culture.” European Journal of Social Psychology 39(7):1278–89. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.671);
+* Leung, Angela K. Y. and Dov Cohen. 2007. The Soft Embodiment of Culture: Camera Angles and Motion through Time and Space. 18(9): 824-830. [link](https://www.jstor.org/stable/40064821?seq=1#metadata_info_tab_contents);
+* Lizardo, Omar and Omar Lizardo. 2019. “Pierre Bourdieu as Cognitive Sociologist.” Eds. W. Brekhus and G. Ignatow, Oxford Handbook of Cognitive Sociology. [link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190273385.001.0001/oxfordhb-9780190273385-e-4);
+* Pickering, Martin J. and Simon Garrod. 2009. “Language, Interaction and Embodiment.” European Journal of Social Psychology 39(7):1178–79. [link](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.680);
 
 ### Cultural approaches
 * Vaisey, S. (2010). What People Want: Rethinking Poverty, Culture, and Educational Attainment. The ANNALS of the American Academy of Political and Social Science, 629(1), 75–101. [link](https://journals-sagepub-com.kuleuven.ezproxy.kuleuven.be/doi/abs/10.1177/0002716209357146);
-* Santos, Henri et al. 2019. “Class, Cognition, and Cultural Change in Social Class” Eds. W. Brekhus and G. Ignatow, Oxford Handbook of Cognitive Sociology. [link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190273385.001.0001/oxfordhb-9780190273385-e-15).
+* Santos, Henri et al. 2019. “Class, Cognition, and Cultural Change in Social Class” Eds. W. Brekhus and G. Ignatow, Oxford Handbook of Cognitive Sociology. [link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190273385.001.0001/oxfordhb-9780190273385-e-15);
 
 ### Bridging fields
 * Lamont, Michèle, Laura Adler, Bo Yun Park, and Xin Xiang. 2017. “Bridging Cultural Sociology and Cognitive Psychology in Three Contemporary Research Programmes.” Nature Human Behaviour 1(12):866–72.[link](https://www.nature.com/articles/s41562-017-0242-y);
@@ -54,10 +61,40 @@ The following, is a list of important papers in the field, selected by topic. On
 * Turner, Stephen. 2007. "Mirror Neurons and Practices: A Response to Lizardo." Journal for the Theory of Social Behaviour, 37: 351-371.[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-5914.2007.00342.x);
 * Lizardo, Omar, Brandon Sepulvado, Dustin S. Stoltz, and Marshall A. Taylor. 2019. “What Can Cognitive Neuroscience Do for Cultural Sociology?” American Journal of Cultural Sociology.[link](https://link.springer.com/article/10.1057/s41290-019-00077-8#enumeration).
 
-### Schemas
+### Cultural Schemas
+* Sewell, William H. 1992. "A Theory of Structure: Duality, Agency, and Transformation." American Journal of Sociology, 98(1): 1-29. [link](https://www.jstor.org/stable/2781191?seq=1#metadata_info_tab_contents);
 * Hunzaker, M. B. Fallin and Valentino, Lauren. 2019. “Mapping Cultural Schemas: From Theory to Method.” American Sociological Review 84(5):950–81.[link](https://journals.sagepub.com/doi/abs/10.1177/0003122419875638);
 * Boutyline, Andrei. 2017. “Improving the Measurement of Shared Cultural Schemas with Correlational Class Analysis: Theory and Method.” Sociological Science 4:353–93.[link](https://www.sociologicalscience.com/articles-v4-15-353/);
+* Homan, Patricia, Lauren Valentino, and Emi Weed. 2017. “Being and Becoming Poor: How Cultural Schemas Shape Beliefs about Poverty.” Social Forces 95(3):1023–48. [link](https://academic.oup.com/sf/article-abstract/95/3/1023/2967620?redirectedFrom=fulltext);
+* Goldberg, Amir. 2011. “Mapping Shared Understandings Using Relational Class Analysis: The Case of the Cultural Omnivore Reexamined.” American Journal of Sociology 116(5): 1397–1436. [link]()
+* Boutyline, Andrei. 2020. "Cultural Schemas: What They Are, How to Find Them, and What to Do Once You’ve Caught One" SocArXiv. [link](https://osf.io/preprints/socarxiv/ksf3v/);
+* Hunzaker, M. B. Fallin. 2014. “Making Sense of Misfortune: Cultural Schemas, Victim Redefinition, and the Perpetuation of Stereotypes.” Social Psychology Quarterly 77(2):166–84. [link](https://journals.sagepub.com/doi/abs/10.1177/0190272514521219);
+* Hunzaker, M. B. Fallin. 2016. “Cultural Sentiments and Schema-Consistency Bias in Information Transmission.” American Sociological Review 81(6):1223–50. [link](https://journals.sagepub.com/doi/abs/10.1177/0003122416671742);
+* Wood, Michael Lee, Dustin S. Stoltz, Justin Van Ness, and Marshall A. Taylor. 2018. “Schemas and Frames.” Sociological Theory 36(3):244–61. [link](https://journals.sagepub.com/doi/abs/10.1177/0735275118794981);
+* Williams, Joan C., Mary Blair-Loy, and Jennifer L. Berdahl. 2013. “Cultural Schemas, Social Class, and the Flexibility Stigma.” Journal of Social Issues 69(2):209–34. [link](https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/josi.12012);
 
+### Beliefs
+*Representationalist*
+
+* Rydgren, Jens. 2009. “Beliefs.” Pp. 72–93 in The Oxford Handbook of Analytical Sociology, edited by P. Hedstrom and P. Bearman. Oxford, UK: Oxford University Press. [link](https://books.google.be/books?hl=en&lr=&id=Tqf718wB2CUC&oi=fnd&pg=PT104&dq=rydgren+2009+Beliefs.&ots=hdYxUJauSk&sig=k9us_BHzTelm3Trwtz9sRiOYm-U#v=onepage&q=rydgren%202009%20Beliefs.&f=false);
+* Boutyline, Andrei and Stephen Vaisey. 2017. “Belief Network Analysis: A Relational Approach to Understanding the Structure of Attitudes.” American Journal of Sociology 122(5):1371–1447. [link](https://www.journals.uchicago.edu/doi/10.1086/691274?mobileUi=0);
+* Baldassarri, Delia and Amir Goldberg. 2014. “Neither Ideologues nor Agnostics: Alternative Voters’ Belief System in an Age of Partisan Politics.” American Journal of Sociology 120(1):45–95. [link](https://www.jstor.org/stable/10.1086/676042#metadata_info_tab_contents);
+* Brandt, Mark J. 2020. “Estimating and Examining the Replicability of Belief System Networks.” Collabra: Psychology, 6(1). [link](http://doi.org/10.1525/collabra.312);
+* Brandt, Mark J., Chris G. Sibley, and Danny Osborne. 2019. “What Is Central to Political Belief System Networks?” Personality and Social Psychology Bulletin 45(9):1352–64. [link](https://journals.sagepub.com/doi/full/10.1177/0146167218824354);
+* Kiley, Kevin & Vaisey, Stephen. 2020. "Measuring Stability and Change in Personal Culture Using Panel Data." American Journal of Sociology, 85(3): 477-506. [link](https://doi.org/10.1177/0003122420921538)
+
+*Embodied*
+
+* Conrey, Frederica & Smith, Eliot. 2007. "Attitude representation: Attitudes as patterns in a distributed, connectionist representational system." Social Cognition 25(5): 718-735. [link](https://guilfordjournals.com/doi/abs/10.1521/soco.2007.25.5.718);
+* Ent, Michael R. and Roy F. Baumeister. 2014. “Embodied Free Will Beliefs: Some Effects of Physical States on Metaphysical Opinions.” Consciousness and Cognition 27(1): 147–54. [link](https://www.sciencedirect.com/science/article/abs/pii/S1053810014000750);
+* Niedenthal, Paula M., Lawrence W. Barsalou, Piotr Winkielman, Silvia Krauth-Gruber, and Fransois Ric. 2005. "Embodiment in Attitudes, Social Perception, and Emotion." Personality and Social Psychology Review, 9(3): 184-211. [link](https://journals.sagepub.com/doi/10.1207/s15327957pspr0903_1);
+* Strand, Michael and Omar Lizardo. 2017. “The Hysteresis Effect: Theorizing Mismatch in Action.” Journal for the Theory of Social Behaviour 47(2):164–94. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsb.12117);
+* Curry, Devin Sanchez. 2018. “Beliefs as Inner Causes: The (Lack of) Evidence.” Philosophical Psychology 31(6):850–77. [link](https://www.tandfonline.com/doi/abs/10.1080/09515089.2018.1452197);
+* Strand, Michael and Omar Lizardo. 2015. “Beyond World Images: Belief as Embodied Action in the World.” Sociological Theory 33(1):44–70. [link](https://journals.sagepub.com/doi/10.1177/0735275115572397);
+* Shapiro, Larry. 2007. “The Embodied Cognition Research Programme.” Philosophy Compass 2(2):338–46. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1747-9991.2007.00064.x);
+* Lakoff, George. 2012. “Explaining Embodied Cognition Results.” Topics in Cognitive Science 4(4): 773–85. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1756-8765.2012.01222.x);
+* Barsalou, Lawrence W. 2008. “Grounded Cognition.” Annual Review of Psychology 59(1): 617–45. [link](https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.59.103006.093639);
+* Lizardo, Omar. 2009. “Is a ‘Special Psychology’ of Practice Possible?: From Values and Attitudes to Embodied Dispositions.” Theory & Psychology 19(6): 713–27. [link](https://journals.sagepub.com/doi/10.1177/0959354309345891);
 
 ### Additional resources
 * [Omar Lizardo's syllabus](https://docs.google.com/document/d/e/2PACX-1vSfYxPJcm-gXaFIBLr0RHkpAuYcRMHxMpVkIOehoU_5eGYrHt_nMoU0qStJjrfWGXmU8UAlN-GLckYe/pub) for the course Culture and Cognition at Notre Dame (Spring 2017);
