@@ -23,7 +23,7 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc"
-role: PhD candidate
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fa
