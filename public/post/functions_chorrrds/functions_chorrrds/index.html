@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="How to match the words of a song with the chords in which these words are sung.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/project/culturecognition/">
+  <link rel="alternate" hreflang="en-us" href="/post/functions_chorrrds/functions_chorrrds/">
 
   
 
@@ -110,7 +110,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/project/culturecognition/">
+  <link rel="canonical" href="/post/functions_chorrrds/functions_chorrrds/">
 
   
   
@@ -124,13 +124,14 @@
   <meta property="twitter:creator" content="@lucacarbone__lc">
   
   <meta property="og:site_name" content="Luca Carbone">
-  <meta property="og:url" content="/project/culturecognition/">
-  <meta property="og:title" content="Culture &amp; Cognition | Luca Carbone">
-  <meta property="og:description" content=""><meta property="og:image" content="/img/avatar.jpg">
+  <meta property="og:url" content="/post/functions_chorrrds/functions_chorrrds/">
+  <meta property="og:title" content="Functions to match chords with lyrics in the R package chorrrds | Luca Carbone">
+  <meta property="og:description" content="How to match the words of a song with the chords in which these words are sung."><meta property="og:image" content="/img/avatar.jpg">
   <meta property="twitter:image" content="/img/avatar.jpg"><meta property="og:locale" content="en-us">
   
+  <meta property="article:published_time" content="2020-06-24T00:00:00&#43;00:00">
   
-  
+  <meta property="article:modified_time" content="2020-06-24T00:00:00&#43;00:00">
   
 
   
@@ -168,7 +169,7 @@
 
 
 
-  <title>Culture &amp; Cognition | Luca Carbone</title>
+  <title>Functions to match chords with lyrics in the R package chorrrds | Luca Carbone</title>
 
 </head>
 
@@ -360,7 +361,7 @@
 </nav>
 
 
-  <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+  <article class="article" itemscope itemtype="http://schema.org/Article">
 
   
 
@@ -381,7 +382,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Culture &amp; Cognition</h1>
+  <h1 itemprop="name">Functions to match chords with lyrics in the R package chorrrds</h1>
 
   
 
@@ -390,11 +391,23 @@
 
 
 
-<meta content="" itemprop="datePublished">
-<meta content="" itemprop="dateModified">
+<meta content="2020-06-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-06-24 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Luca Carbone</a></span>
+
+  </div>
   
   
 
@@ -404,7 +417,7 @@
     
       
     
-    <time>Jan 1, 0001</time>
+    <time>Jun 24, 2020</time>
   </span>
   
 
@@ -457,7 +470,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Culture%20&amp;amp;%20Cognition&amp;body=List%20of%20works%20on%20sociology%20of%20culture%20and%20cognition%20created%20by%20Luca%20Carbone:%20https://lucacarbone.netlify.com/pdf/cultcog.pdf" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Functions%20to%20match%20chords%20with%20lyrics%20in%20the%20R%20package%20chorrrds&amp;body=List%20of%20works%20on%20sociology%20of%20culture%20and%20cognition%20created%20by%20Luca%20Carbone:%20https://lucacarbone.netlify.com/pdf/cultcog.pdf" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -484,6 +497,45 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/culturecognition/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
@@ -493,13 +545,106 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      
+      <h1 id="intro">Intro</h1>
+<p>One of my PhD projects investigates the impact that songs have on meritocratic beliefs and social inequalities. One of the things that I would like to explore is the potential impact that certain words have when sung in a specific chord. This idea comes from the well-know effect that music (in terms of sounds) has on emotions (Arjmand, Hohagen, Paton, &amp; Rickard 2014) and from the consideration that beliefs are intrinsically multi-sensory. That is, when asking people about their beliefs, the question inevitabily taps the perceptual information that has been encoded and stored during previous experiences. But this is another story.</p>
+<p>While thinking through the theoretical aspects, I also spent sometime working the first lines of code to get the data aligned with the way I was thinking. In this process, I encountered the R package <a href="https://r-music.rbind.io/posts/2018-08-19-chords-analysis-with-the-chorrrds-package/"><code>chorrrds</code></a>, built to extract chords from the website <a href="https://www.cifraclub.com.br">Cifraclub</a>. Building upon the functions of this package, I implemented two functions that allow to match the words of a song with the corresponding chords in which these words are sung. In this blog post, I will explain the features of these two functions and how to use them in a practical example.</p>
+<h1 id="preliminaries">Preliminaries</h1>
+<p>The package <code>chorrrds</code> can be installed from CRAN, with</p>
+<pre><code class="language-{r}" data-lang="{r}">install.packages(&quot;chorrrds&quot;)
+</code></pre><p>and for the latest version, from GitHub with:</p>
+<pre><code class="language-{r}" data-lang="{r}"># install.packages(&quot;devtools&quot;)
+devtools::install_github(&quot;r-music/chorrrds&quot;)
+</code></pre><h1 id="function-1-create_dat">Function 1: create_dat</h1>
+<p>Generally, this is how a song looks on the internet (specifically, on Cifraclub):</p>
+<p>
+
+
+  
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="/img/chorrrds1.jpg" >
+
+<img src="/img/chorrrds1.jpg" >
+</a>
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Sweet Life by Frank Ocean</h4>
+  
+</figcaption>
+
+</figure>
+
+Source: <a href="https://www.cifraclub.com.br/frank-ocean/sweet-life/">Cifraclub</a></p>
+<p>As you can see, each verse is sung with one or more chords. The problem is how to match each word with the corresponding chord in which they are played. For example, in the first verse, &ldquo;The best song wasn&rsquo;t the single, but you weren&rsquo;t either&rdquo;, the words &ldquo;The best song wasn&rsquo;t&rdquo; are played in A, &ldquo;the single, but you weren&rsquo;t&rdquo; are played in C, and &ldquo;either&rdquo; is in G. How to connect each of these words with the corresponding chords A, C, G? The first step consists of having a song divided by verse, both for the chords and the lyrics, something that is achieved with the function <code>create_dat</code>:</p>
+<pre><code class="language-{r}" data-lang="{r}">chords.dat &lt;- create_dat(&quot;Frank Ocean&quot;, &quot;Sweet Life&quot;)
+</code></pre><p>This produces the following output: 
+
+
+  
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="/img/output1.jpg" >
+
+<img src="/img/output1.jpg" >
+</a>
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Chords and lyrics by verse for Sweet Life by Frank Ocean</h4>
+  
+</figcaption>
+
+</figure>
+</p>
+<h1 id="function-2-create_net">Function 2: create_net</h1>
+<p>While <code>create_dat</code> allows to have a song as presented on the website, it still does not achieve the intended result. That is, it does not match words with the respective chords. <code>create_net</code> does the job. The idea is to search for each chord the beginning of the closest word, and to store all the words that are present before the end of the verse or the beginning of the next chord. Running:</p>
+<pre><code class="language-{r}" data-lang="{r}">create_net(chords.dat)
+</code></pre><p>creates the intended output: 
+
+
+  
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="/img/output2.jpg" >
+
+<img src="/img/output2.jpg" >
+</a>
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Matching chords and lyrics for Sweet Life by Frank Ocean</h4>
+  
+</figcaption>
+
+</figure>
+</p>
+<p>Note that <code>create_net</code> builds upon the structure created with <code>create_dat</code>.</p>
+<p>A special thanks to <a href="https://github.com/brunaw">Bruna Wundervald</a>, the developer of the <code>chorrrds</code> package, for the help and for the inclusion of these functions in her package :)</p>
+<p>P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line! I&rsquo;ll be happy to further break my head around it.</p>
+<p><strong>Bibliography</strong>
+Arjmand, H.-A., Hohagen, J., Paton, B., &amp; Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. Frontiers in Psychology, 8. <a href="https://doi.org/10.3389/fpsyg.2017.02044">https://doi.org/10.3389/fpsyg.2017.02044</a></p>
+
     </div>
 
     
 
 
+
     
+      
 
 
 
@@ -508,6 +653,10 @@
 
 
 
+  
+  
+    
+  
   
 
 
@@ -649,225 +798,17 @@
 
 
 
-
-    
-    
-
-    
-    
-    
-      <h2>Posts</h2>
       
-        
-          
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/functions_chorrrds/functions_chorrrds/" itemprop="url">Functions to match chords with lyrics in the R package chorrrds</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      How to match the words of a song with the chords in which these words are sung.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-<meta content="2020-06-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-06-24 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Luca Carbone</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>Jun 24, 2020</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-        
-      
-        
-          
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/culturecognition/index_cultcog/" itemprop="url">List of works on cultural and cognitive sociology</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Articles and books about sociological approaches to culture and cognition.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-<meta content="2020-02-05 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-02-05 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Luca Carbone</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>Feb 5, 2020</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-        
       
     
 
     
-    
-    
 
     
-    
-    
+
 
   </div>
 </article>
-
-
 
       
 

@@ -6,10 +6,110 @@
     <description>Recent content on Luca Carbone</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Functions to match chords with lyrics in the R package chorrrds</title>
+      <link>/post/functions_chorrrds/functions_chorrrds/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/functions_chorrrds/functions_chorrrds/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;One of my PhD projects investigates the impact that songs have on meritocratic beliefs and social inequalities. One of the things that I would like to explore is the potential impact that certain words have when sung in a specific chord. This idea comes from the well-know effect that music (in terms of sounds) has on emotions (Arjmand, Hohagen, Paton, &amp;amp; Rickard 2014) and from the consideration that beliefs are intrinsically multi-sensory. That is, when asking people about their beliefs, the question inevitabily taps the perceptual information that has been encoded and stored during previous experiences. But this is another story.&lt;/p&gt;
+&lt;p&gt;While thinking through the theoretical aspects, I also spent sometime working the first lines of code to get the data aligned with the way I was thinking. In this process, I encountered the R package &lt;a href=&#34;https://r-music.rbind.io/posts/2018-08-19-chords-analysis-with-the-chorrrds-package/&#34;&gt;&lt;code&gt;chorrrds&lt;/code&gt;&lt;/a&gt;, built to extract chords from the website &lt;a href=&#34;https://www.cifraclub.com.br&#34;&gt;Cifraclub&lt;/a&gt;. Building upon the functions of this package, I implemented two functions that allow to match the words of a song with the corresponding chords in which these words are sung. In this blog post, I will explain the features of these two functions and how to use them in a practical example.&lt;/p&gt;
+&lt;h1 id=&#34;preliminaries&#34;&gt;Preliminaries&lt;/h1&gt;
+&lt;p&gt;The package &lt;code&gt;chorrrds&lt;/code&gt; can be installed from CRAN, with&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;install.packages(&amp;quot;chorrrds&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;and for the latest version, from GitHub with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;# install.packages(&amp;quot;devtools&amp;quot;)
+devtools::install_github(&amp;quot;r-music/chorrrds&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;function-1-create_dat&#34;&gt;Function 1: create_dat&lt;/h1&gt;
+&lt;p&gt;Generally, this is how a song looks on the internet (specifically, on Cifraclub):&lt;/p&gt;
+&lt;p&gt;
+
+
+  
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chorrrds1.jpg&#34; &gt;
+
+&lt;img src=&#34;/img/chorrrds1.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Sweet Life by Frank Ocean&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+Source: &lt;a href=&#34;https://www.cifraclub.com.br/frank-ocean/sweet-life/&#34;&gt;Cifraclub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, each verse is sung with one or more chords. The problem is how to match each word with the corresponding chord in which they are played. For example, in the first verse, &amp;ldquo;The best song wasn&amp;rsquo;t the single, but you weren&amp;rsquo;t either&amp;rdquo;, the words &amp;ldquo;The best song wasn&amp;rsquo;t&amp;rdquo; are played in A, &amp;ldquo;the single, but you weren&amp;rsquo;t&amp;rdquo; are played in C, and &amp;ldquo;either&amp;rdquo; is in G. How to connect each of these words with the corresponding chords A, C, G? The first step consists of having a song divided by verse, both for the chords and the lyrics, something that is achieved with the function &lt;code&gt;create_dat&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;chords.dat &amp;lt;- create_dat(&amp;quot;Frank Ocean&amp;quot;, &amp;quot;Sweet Life&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This produces the following output: 
+
+
+  
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/output1.jpg&#34; &gt;
+
+&lt;img src=&#34;/img/output1.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Chords and lyrics by verse for Sweet Life by Frank Ocean&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;function-2-create_net&#34;&gt;Function 2: create_net&lt;/h1&gt;
+&lt;p&gt;While &lt;code&gt;create_dat&lt;/code&gt; allows to have a song as presented on the website, it still does not achieve the intended result. That is, it does not match words with the respective chords. &lt;code&gt;create_net&lt;/code&gt; does the job. The idea is to search for each chord the beginning of the closest word, and to store all the words that are present before the end of the verse or the beginning of the next chord. Running:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;create_net(chords.dat)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;creates the intended output: 
+
+
+  
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/output2.jpg&#34; &gt;
+
+&lt;img src=&#34;/img/output2.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Matching chords and lyrics for Sweet Life by Frank Ocean&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Note that &lt;code&gt;create_net&lt;/code&gt; builds upon the structure created with &lt;code&gt;create_dat&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;A special thanks to &lt;a href=&#34;https://github.com/brunaw&#34;&gt;Bruna Wundervald&lt;/a&gt;, the developer of the &lt;code&gt;chorrrds&lt;/code&gt; package, for the help and for the inclusion of these functions in her package :)&lt;/p&gt;
+&lt;p&gt;P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line! I&amp;rsquo;ll be happy to further break my head around it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bibliography&lt;/strong&gt;
+Arjmand, H.-A., Hohagen, J., Paton, B., &amp;amp; Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. Frontiers in Psychology, 8. &lt;a href=&#34;https://doi.org/10.3389/fpsyg.2017.02044&#34;&gt;https://doi.org/10.3389/fpsyg.2017.02044&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>List of works on cultural and cognitive sociology</title>
