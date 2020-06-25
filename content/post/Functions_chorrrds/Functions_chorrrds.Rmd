@@ -92,10 +92,12 @@ chorrrds::create_net(chords.dat) %>%
 Note that `create_net` builds upon the structure created with `create_dat`.
 
 # Usage
-These functions can be very useful for text, network, and many others types of analyses. For example, it could be useful for a network viz.
+These functions can be very useful for text, network, and many others types of analyses. For example, it could be useful for a network viz. In the next steps I will only show the final output, you can find the full syntax [here](https://github.com/lucacarbonelc/website/blob/master/content/post/Functions_chorrrds/Functions_chorrrds.Rmd).
 
-1. Create a adjacency matrix with words connected to each other when played under the same chord.
-```{r, fig.cap = "Matching chords and lyrics with chords_net", echo = F, message=FALSE, warning=FALSE}
+One thing that could be interesting to visualize is the connections that words have when played in the same chord. In other words, the network we will represent will be made by words connected to each other when played in the same chord. There are three steps to follow: create edgelist, network, and visualization.
+
+1. Create edgelist: two words are connected when played in the same chord.
+```{r, echo = F, message=FALSE, warning=FALSE}
 library(tidyverse)
 
 chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
@@ -121,6 +123,163 @@ network <- network %>% na.omit
 network %>% 
   tibble::as_tibble() %>% 
   print(n = Inf)
+
+# edgelist
+edgelist <- network %>% 
+  inner_join(., select(., chord, lyric), by = "chord") %>% 
+  filter(lyric.x != lyric.y)
+
+edgelist
+```
+
+2. Create network: put words and their connections together.
+```{r, echo = F, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(igraph)
+
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
+chords.net <- chorrrds::create_net(chords.dat)
+
+network <- as.data.frame(matrix(nrow = 2000, # number of words in the song
+                            ncol = 2)) 
+names(network) <- c("chord", "lyric")
+
+for (i in 1:nrow(chords.net)) {                               # verses
+  for (j in 1:stringr::str_count(chords.net[i,2], "\\w+")) {  # words
+   
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 1] <- chords.net[i, 1]
+    
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 2] <- unlist(stringr::str_split(chords.net$lyric[i], " "))[j]
+     
+  }
+}
+network <- network %>% na.omit
+
+network %>% 
+  tibble::as_tibble() %>% 
+  print(n = Inf)
+
+# edgelist
+edgelist <- network %>% 
+  inner_join(., select(., chord, lyric), by = "chord") %>% 
+  filter(lyric.x != lyric.y) %>%
+  .[, 2:3]
+
+# network
+net <- network::network(edgelist, matrix.type = "edgelist", directed = FALSE, loops = FALSE)
+
+net
+```
+
+3. Plot the network!
+```{r, echo = F, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(igraph)
+
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
+chords.net <- chorrrds::create_net(chords.dat)
+
+network <- as.data.frame(matrix(nrow = 2000, # number of words in the song
+                            ncol = 2)) 
+names(network) <- c("chord", "lyric")
+
+for (i in 1:nrow(chords.net)) {                               # verses
+  for (j in 1:stringr::str_count(chords.net[i,2], "\\w+")) {  # words
+   
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 1] <- chords.net[i, 1]
+    
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 2] <- unlist(stringr::str_split(chords.net$lyric[i], " "))[j]
+     
+  }
+}
+network <- network %>% na.omit
+
+network %>% 
+  tibble::as_tibble() %>% 
+  print(n = Inf)
+
+# edgelist
+edgelist <- network %>% 
+  inner_join(., select(., chord, lyric), by = "chord") %>% 
+  filter(lyric.x != lyric.y) %>%
+  .[, 2:3]
+
+# network
+net <- network::network(edgelist, matrix.type = "edgelist", directed = FALSE, loops = FALSE)
+net
+
+# give colors to nodes based on the chord
+network::set.vertex.attribute(x = net, attrname = "colors", value = network$chord)
+
+# plot network
+set.seed(1234)
+GGally::ggnet2(net, 
+               mode = "kamadakawai",
+               node.size = 3,
+               edge.size = 0.003,
+               label = TRUE,
+               label.size = 3,
+               palette = c("A" = "#46ACC8", "C" = "#E3D237", "G" = "#AD9BAA", "D" = "#B42D22"),
+               node.color = "colors")
+```
+Let's have some descriptive information out of this visualization. 
+
+```{r, echo = F, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(igraph)
+
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
+chords.net <- chorrrds::create_net(chords.dat)
+
+network <- as.data.frame(matrix(nrow = 2000, # number of words in the song
+                            ncol = 2)) 
+names(network) <- c("chord", "lyric")
+
+for (i in 1:nrow(chords.net)) {                               # verses
+  for (j in 1:stringr::str_count(chords.net[i,2], "\\w+")) {  # words
+   
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 1] <- chords.net[i, 1]
+    
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], "\\w+")))))))), 2] <- unlist(stringr::str_split(chords.net$lyric[i], " "))[j]
+     
+  }
+}
+network <- network %>% na.omit
+
+network %>% 
+  tibble::as_tibble() %>% 
+  print(n = Inf)
+
+edgelist <- network %>% 
+  inner_join(., select(., chord, lyric), by = "chord") %>% 
+  filter(lyric.x != lyric.y) %>%
+  .[, 2:3]
+
+inet <- igraph::graph_from_data_frame(edgelist, directed = F)
+
+idx <- which(degree(inet)==max(degree(inet)))
+V(inet)$id[idx]
+
+max(igraph::degree(inet, mode="in"))
+
+sort(strength(inet))
+plot(igraph::degree_distribution(inet))
+
+giant <- decompose(inet)[[1]]
+comm <- cluster_infomap(giant)
+modularity(comm) # modularity score
+par(mar=c(0,0,0,0)); plot(comm, giant)
+
+V(giant)$color <- membership(comm)
+par(mar=c(0,0,0,0)); plot(giant)
+
+
 ```
 
 # Conclusion
