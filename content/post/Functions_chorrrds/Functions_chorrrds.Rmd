@@ -228,7 +228,7 @@ GGally::ggnet2(net,
 ```
 Let's have some descriptive information out of this visualization. 
 
-```{r, echo = F, message=FALSE, warning=FALSE}
+```{r, eval = F, echo = F, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(igraph)
 
