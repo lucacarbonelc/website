@@ -120,10 +120,6 @@ for (i in 1:nrow(chords.net)) {                               # verses
 }
 network <- network %>% na.omit
 
-network %>% 
-  tibble::as_tibble() %>% 
-  print(n = Inf)
-
 # edgelist
 edgelist <- network %>% 
   inner_join(., select(., chord, lyric), by = "chord") %>% 
@@ -156,10 +152,6 @@ for (i in 1:nrow(chords.net)) {                               # verses
   }
 }
 network <- network %>% na.omit
-
-network %>% 
-  tibble::as_tibble() %>% 
-  print(n = Inf)
 
 # edgelist
 edgelist <- network %>% 
@@ -198,10 +190,6 @@ for (i in 1:nrow(chords.net)) {                               # verses
 }
 network <- network %>% na.omit
 
-network %>% 
-  tibble::as_tibble() %>% 
-  print(n = Inf)
-
 # edgelist
 edgelist <- network %>% 
   inner_join(., select(., chord, lyric), by = "chord") %>% 
@@ -210,7 +198,6 @@ edgelist <- network %>%
 
 # network
 net <- network::network(edgelist, matrix.type = "edgelist", directed = FALSE, loops = FALSE)
-net
 
 # give colors to nodes based on the chord
 network::set.vertex.attribute(x = net, attrname = "colors", value = network$chord)
@@ -251,10 +238,6 @@ for (i in 1:nrow(chords.net)) {                               # verses
   }
 }
 network <- network %>% na.omit
-
-network %>% 
-  tibble::as_tibble() %>% 
-  print(n = Inf)
 
 edgelist <- network %>% 
   inner_join(., select(., chord, lyric), by = "chord") %>% 

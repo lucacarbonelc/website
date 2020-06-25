@@ -27458,21 +27458,6 @@ Figure 1: Sweet Life by Frank Ocean
 ## 324 A     life        
 ## 325 C     turn        
 ## 326 D     grave&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##  Network attributes:
-##   vertices = 141 
-##   directed = FALSE 
-##   hyper = FALSE 
-##   loops = FALSE 
-##   multiple = FALSE 
-##   bipartite = FALSE 
-##   total edges= 26252 
-##     missing edges= 0 
-##     non-missing edges= 26252 
-## 
-##  Vertex attribute names: 
-##     vertex.names 
-## 
-##  Edge attribute names not shown&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/Functions_chorrrds/Functions_chorrrds_files/figure-html/unnamed-chunk-12-1.png&#34; width=&#34;672&#34; /&gt;
 Let’s have some descriptive information out of this visualization.&lt;/p&gt;
 &lt;/div&gt;
