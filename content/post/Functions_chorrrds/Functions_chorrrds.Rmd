@@ -213,6 +213,7 @@ GGally::ggnet2(net,
                palette = c("A" = "#46ACC8", "C" = "#E3D237", "G" = "#AD9BAA", "D" = "#B42D22"),
                node.color = "colors")
 ```
+
 Let's have some descriptive information out of this visualization. 
 
 ```{r, eval = F, echo = F, message=FALSE, warning=FALSE}
