@@ -6,19 +6,10 @@
     <description>Recent content on Luca Carbone</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Privacy Policy</title>
@@ -44,20 +35,11 @@ If you have any questions about this Privacy Policy, please contact me.&lt;/p&gt
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
@@ -76,6 +58,24 @@ If you have any questions about this Privacy Policy, please contact me.&lt;/p&gt
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/</guid>
       <description></description>
     </item>
     

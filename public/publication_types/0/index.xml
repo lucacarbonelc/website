@@ -6,15 +6,24 @@
     <description>Recent content in 0 on Luca Carbone</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>List of works on cultural and cognitive sociology</title>
+      <link>/post/culturecognition/index_cultcog/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/culturecognition/index_cultcog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Functions to match chords with lyrics in the R package chorrrds</title>
       <link>/post/functions_chorrrds/functions_chorrrds/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/functions_chorrrds/functions_chorrrds/</guid>
       <description>
@@ -193,7 +202,7 @@ Figure 1: Sweet Life by Frank Ocean
 &lt;div id=&#34;usage&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Usage&lt;/h1&gt;
 &lt;p&gt;These functions can be very useful for text, network, and many others types of analyses. For example, it could be useful for a network viz. In the next steps I will only show the final output, you can find the full syntax &lt;a href=&#34;https://github.com/lucacarbonelc/website/blob/master/content/post/Functions_chorrrds/Functions_chorrrds.Rmd&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;One thing that could be interesting to visualize is the connections that words have when played in the same chord. In other words, the network we will represent will be made by words connected to each other when played in the same chord. There are three steps to follow: create edgelist, network, and visualization.&lt;/p&gt;
+&lt;p&gt;One thing that could be interesting to visualize is the connections that words have when played in the same chord. In other words, the network we will represent will be made by words connected to each other when played in the same chord. There are four steps to follow: create the edgelist, where words are connected when played in the same chord, create the network with these connections, visualize the network, and take some descriptive information out of this visualization. The code can be found &lt;a href=&#34;https://github.com/lucacarbonelc/website/blob/master/content/post/Functions_chorrrds/Functions_chorrrds.Rmd&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Create edgelist: two words are connected when played in the same chord.&lt;/li&gt;
 &lt;/ol&gt;
@@ -26470,30 +26479,65 @@ Figure 1: Sweet Life by Frank Ocean
 ##  Edge attribute names not shown&lt;/code&gt;&lt;/pre&gt;
 &lt;ol start=&#34;3&#34; style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Plot the network!
-&lt;img src=&#34;/post/Functions_chorrrds/Functions_chorrrds_files/figure-html/unnamed-chunk-12-1.png&#34; width=&#34;672&#34; /&gt;
-Let’s have some descriptive information out of this visualization.&lt;/li&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-12&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/Functions_chorrrds/Functions_chorrrds_files/figure-html/unnamed-chunk-12-1.png&#34; alt=&#34;Network of words with connections created when two words are played in the same chord&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 2: Network of words with connections created when two words are played in the same chord
+&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Let’s have some descriptive information out of this visualization. For example, is the network partitioned in groups? Since words are connected with each other when played in the same chord, it could is plausible to reason that they are played together because meant to express similar feelings or emotions, or for other patterns that the artist wants to convey. To extract this information, we can use the concept of &lt;em&gt;modularity&lt;/em&gt;, which goes from 0 to 1 and states that “the possible existence of clusters is revealed by the comparison between the actual density of edges in a subgraph and the density one would expect to have in the subgraph if the vertices of the graph were attached regardless of community structure.” (Fortunato, 2010, p. 89)&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse)
+library(igraph)
+
+chords.dat &amp;lt;- chorrrds::create_dat(&amp;quot;Frank Ocean&amp;quot;, &amp;quot;Sweet Life&amp;quot;)
+chords.net &amp;lt;- chorrrds::create_net(chords.dat)
+
+network &amp;lt;- as.data.frame(matrix(nrow = 2000, # number of words in the song
+                            ncol = 2)) 
+names(network) &amp;lt;- c(&amp;quot;chord&amp;quot;, &amp;quot;lyric&amp;quot;)
+
+for (i in 1:nrow(chords.net)) {                               # verses
+  for (j in 1:stringr::str_count(chords.net[i,2], &amp;quot;\\w+&amp;quot;)) {  # words
+   
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], &amp;quot;\\w+&amp;quot;)))))))), 1] &amp;lt;- chords.net[i, 1]
+    
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], &amp;quot;\\w+&amp;quot;)))))))), 2] &amp;lt;- unlist(stringr::str_split(chords.net$lyric[i], &amp;quot; &amp;quot;))[j]
+     
+  }
+}
+network &amp;lt;- network %&amp;gt;% na.omit
+
+edgelist &amp;lt;- network %&amp;gt;% 
+  inner_join(., select(., chord, lyric), by = &amp;quot;chord&amp;quot;) %&amp;gt;% 
+  filter(lyric.x != lyric.y) %&amp;gt;%
+  .[, 2:3]
+
+inet &amp;lt;- igraph::graph_from_data_frame(edgelist, directed = F)
+
+mod &amp;lt;- graph_from_edgelist(as.matrix(edgelist[, c(1:2)]), directed = FALSE)
+mod2 &amp;lt;- cluster_louvain(mod)
+modularity(mod, membership(mod2))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 0.3184173&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;According to Newman &amp;amp; Girvan (2004), a minimum threshold to detect the partitioning of a graph is 0.3, with typical values ranging from 0.3 to 0.7. The value of 0.32 shows that, indeed, the words of this song seem to be clustered when the chord in which they are played is taken into account. This could mean many things, for example that words are played in a certain chord because they are generally linked to positive or negative sentiments (e.g., Brand, Acerbi, &amp;amp; Mesoudi, 2019). Since chords themselves could be put on an emotional axis – with minor chords linked to negative emotions and major chords to positive emotions – interesting patterns could emerge from this type of analyses.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;conclusion&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;The introduction of these two new functions could be an interesting addition to users of the &lt;code&gt;chorrrds&lt;/code&gt; package, adding flexibility to explore the connections between lyrics and chords in different types of analyses. Enjoy!&lt;/p&gt;
 &lt;p&gt;A special thanks to &lt;a href=&#34;https://github.com/brunaw&#34;&gt;Bruna Wundervald&lt;/a&gt;, the developer of the &lt;code&gt;chorrrds&lt;/code&gt; package, for the help and for the inclusion of these functions in her package :)
 Another special thanks to Edo for the help during the code writing process :)&lt;/p&gt;
-&lt;p&gt;P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line! I’ll be happy to further break my head around it.&lt;/p&gt;
+&lt;p&gt;P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line (&lt;a href=&#34;mailto:lucacarbone@gmail.com&#34; class=&#34;email&#34;&gt;lucacarbone@gmail.com&lt;/a&gt;)! I’ll be happy to further break my head around it.&lt;/p&gt;
 &lt;div id=&#34;bibliography&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Bibliography&lt;/h2&gt;
-&lt;p&gt;Arjmand, H.-A., Hohagen, J., Paton, B., &amp;amp; Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. Frontiers in Psychology, 8. &lt;a href=&#34;https://doi.org/10.3389/fpsyg.2017.02044&#34; class=&#34;uri&#34;&gt;https://doi.org/10.3389/fpsyg.2017.02044&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Arjmand, H.-A., Hohagen, J., Paton, B., &amp;amp; Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. &lt;em&gt;Frontiers in Psychology&lt;/em&gt;, 8. &lt;a href=&#34;https://doi.org/10.3389/fpsyg.2017.02044&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brand, C., Acerbi, A., &amp;amp; Mesoudi, A. (2019). Cultural evolution of emotional expression in 50 years of song lyrics. &lt;em&gt;Evolutionary Human Sciences&lt;/em&gt;, 1, E11. &lt;a href=&#34;https://doi.org/10.1017/ehs.2019.11&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fortunato, S. (2010). Community detection in graphs. &lt;em&gt;Physics Report&lt;/em&gt;, 75–174. &lt;a href=&#34;https://doi.org/10.1016/j.physrep.2009.11.002&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Newman, M., &amp;amp; Girvan, M. (2004). Finding and evaluating community structure in networks. &lt;em&gt;Physical, Review&lt;/em&gt;, 1-15. &lt;a href=&#34;https://doi.org/10.1103/PhysRevE.69.026113&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>List of works on cultural and cognitive sociology</title>
-      <link>/post/culturecognition/index_cultcog/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/culturecognition/index_cultcog/</guid>
-      <description></description>
     </item>
     
   </channel>

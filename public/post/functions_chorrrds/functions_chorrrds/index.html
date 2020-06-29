@@ -129,9 +129,8 @@
   <meta property="og:description" content="How to match the words of a song with the chords in which these words are sung."><meta property="og:image" content="/img/avatar.jpg">
   <meta property="twitter:image" content="/img/avatar.jpg"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2020-06-24T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2020-06-24T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2020-06-25T23:46:37&#43;02:00">
   
 
   
@@ -391,8 +390,8 @@
 
 
 
-<meta content="2020-06-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2020-06-24 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="" itemprop="datePublished">
+<meta content="2020-06-25 23:46:37 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -416,8 +415,10 @@
     
     
       
+          Last updated on
+      
     
-    <time>Jun 24, 2020</time>
+    <time>Jun 25, 2020</time>
   </span>
   
 
@@ -721,7 +722,7 @@ Figure 1: Sweet Life by Frank Ocean
 <div id="usage" class="section level1">
 <h1>Usage</h1>
 <p>These functions can be very useful for text, network, and many others types of analyses. For example, it could be useful for a network viz. In the next steps I will only show the final output, you can find the full syntax <a href="https://github.com/lucacarbonelc/website/blob/master/content/post/Functions_chorrrds/Functions_chorrrds.Rmd">here</a>.</p>
-<p>One thing that could be interesting to visualize is the connections that words have when played in the same chord. In other words, the network we will represent will be made by words connected to each other when played in the same chord. There are three steps to follow: create edgelist, network, and visualization.</p>
+<p>One thing that could be interesting to visualize is the connections that words have when played in the same chord. In other words, the network we will represent will be made by words connected to each other when played in the same chord. There are four steps to follow: create the edgelist, where words are connected when played in the same chord, create the network with these connections, visualize the network, and take some descriptive information out of this visualization. The code can be found <a href="https://github.com/lucacarbonelc/website/blob/master/content/post/Functions_chorrrds/Functions_chorrrds.Rmd">here</a>.</p>
 <ol style="list-style-type: decimal">
 <li>Create edgelist: two words are connected when played in the same chord.</li>
 </ol>
@@ -26998,18 +26999,62 @@ Figure 1: Sweet Life by Frank Ocean
 ##  Edge attribute names not shown</code></pre>
 <ol start="3" style="list-style-type: decimal">
 <li>Plot the network!
-<img src="/post/Functions_chorrrds/Functions_chorrrds_files/figure-html/unnamed-chunk-12-1.png" width="672" />
-Let’s have some descriptive information out of this visualization.</li>
+<div class="figure"><span id="fig:unnamed-chunk-12"></span>
+<img src="/post/Functions_chorrrds/Functions_chorrrds_files/figure-html/unnamed-chunk-12-1.png" alt="Network of words with connections created when two words are played in the same chord" width="672" />
+<p class="caption">
+Figure 2: Network of words with connections created when two words are played in the same chord
+</p>
+</div></li>
 </ol>
+<p>Let’s have some descriptive information out of this visualization. For example, is the network partitioned in groups? Since words are connected with each other when played in the same chord, it could is plausible to reason that they are played together because meant to express similar feelings or emotions, or for other patterns that the artist wants to convey. To extract this information, we can use the concept of <em>modularity</em>, which goes from 0 to 1 and states that “the possible existence of clusters is revealed by the comparison between the actual density of edges in a subgraph and the density one would expect to have in the subgraph if the vertices of the graph were attached regardless of community structure.” (Fortunato, 2010, p. 89)</p>
+<pre class="r"><code>library(tidyverse)
+library(igraph)
+
+chords.dat &lt;- chorrrds::create_dat(&quot;Frank Ocean&quot;, &quot;Sweet Life&quot;)
+chords.net &lt;- chorrrds::create_net(chords.dat)
+
+network &lt;- as.data.frame(matrix(nrow = 2000, # number of words in the song
+                            ncol = 2)) 
+names(network) &lt;- c(&quot;chord&quot;, &quot;lyric&quot;)
+
+for (i in 1:nrow(chords.net)) {                               # verses
+  for (j in 1:stringr::str_count(chords.net[i,2], &quot;\\w+&quot;)) {  # words
+   
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], &quot;\\w+&quot;)))))))), 1] &lt;- chords.net[i, 1]
+    
+    network[ match(as.numeric(do.call(paste0, expand.grid(i,j))),
+                         sort(as.numeric(do.call(paste0, expand.grid(1:nrow(chords.net), 1:max(apply(chords.net, 1, function(x) stringr::str_count(x[2], &quot;\\w+&quot;)))))))), 2] &lt;- unlist(stringr::str_split(chords.net$lyric[i], &quot; &quot;))[j]
+     
+  }
+}
+network &lt;- network %&gt;% na.omit
+
+edgelist &lt;- network %&gt;% 
+  inner_join(., select(., chord, lyric), by = &quot;chord&quot;) %&gt;% 
+  filter(lyric.x != lyric.y) %&gt;%
+  .[, 2:3]
+
+inet &lt;- igraph::graph_from_data_frame(edgelist, directed = F)
+
+mod &lt;- graph_from_edgelist(as.matrix(edgelist[, c(1:2)]), directed = FALSE)
+mod2 &lt;- cluster_louvain(mod)
+modularity(mod, membership(mod2))</code></pre>
+<pre><code>## [1] 0.3184173</code></pre>
+<p>According to Newman &amp; Girvan (2004), a minimum threshold to detect the partitioning of a graph is 0.3, with typical values ranging from 0.3 to 0.7. The value of 0.32 shows that, indeed, the words of this song seem to be clustered when the chord in which they are played is taken into account. This could mean many things, for example that words are played in a certain chord because they are generally linked to positive or negative sentiments (e.g., Brand, Acerbi, &amp; Mesoudi, 2019). Since chords themselves could be put on an emotional axis – with minor chords linked to negative emotions and major chords to positive emotions – interesting patterns could emerge from this type of analyses.</p>
 </div>
 <div id="conclusion" class="section level1">
 <h1>Conclusion</h1>
+<p>The introduction of these two new functions could be an interesting addition to users of the <code>chorrrds</code> package, adding flexibility to explore the connections between lyrics and chords in different types of analyses. Enjoy!</p>
 <p>A special thanks to <a href="https://github.com/brunaw">Bruna Wundervald</a>, the developer of the <code>chorrrds</code> package, for the help and for the inclusion of these functions in her package :)
 Another special thanks to Edo for the help during the code writing process :)</p>
-<p>P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line! I’ll be happy to further break my head around it.</p>
+<p>P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line (<a href="mailto:lucacarbone@gmail.com" class="email">lucacarbone@gmail.com</a>)! I’ll be happy to further break my head around it.</p>
 <div id="bibliography" class="section level2">
 <h2>Bibliography</h2>
-<p>Arjmand, H.-A., Hohagen, J., Paton, B., &amp; Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. Frontiers in Psychology, 8. <a href="https://doi.org/10.3389/fpsyg.2017.02044" class="uri">https://doi.org/10.3389/fpsyg.2017.02044</a></p>
+<p>Arjmand, H.-A., Hohagen, J., Paton, B., &amp; Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. <em>Frontiers in Psychology</em>, 8. <a href="https://doi.org/10.3389/fpsyg.2017.02044">DOI</a></p>
+<p>Brand, C., Acerbi, A., &amp; Mesoudi, A. (2019). Cultural evolution of emotional expression in 50 years of song lyrics. <em>Evolutionary Human Sciences</em>, 1, E11. <a href="https://doi.org/10.1017/ehs.2019.11">DOI</a></p>
+<p>Fortunato, S. (2010). Community detection in graphs. <em>Physics Report</em>, 75–174. <a href="https://doi.org/10.1016/j.physrep.2009.11.002">DOI</a></p>
+<p>Newman, M., &amp; Girvan, M. (2004). Finding and evaluating community structure in networks. <em>Physical, Review</em>, 1-15. <a href="https://doi.org/10.1103/PhysRevE.69.026113">DOI</a></p>
 </div>
 </div>
 
