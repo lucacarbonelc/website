@@ -100,7 +100,7 @@ One thing that could be interesting to visualize is the connections that words h
 ```{r, echo = F, message=FALSE, warning=FALSE}
 library(tidyverse)
 
-chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life") 
 chords.net <- chorrrds::create_net(chords.dat)
 
 network <- as.data.frame(matrix(nrow = 2000, # number of words in the song
