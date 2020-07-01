@@ -29,7 +29,7 @@ web: www.lucacarbone.com
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
 DPhil Social Sciences - ERC starting grant\
 Supervisor: Laura Vandenbosch\
-[Project website](https://ercmimic.netlify.com/)
+[Project website](http://www.projectmimic.eu)
 
 *Tilburg University, NL* \hfill \begingroup\small 2017-2019\endgroup\
 M.Sc. (Res.) Social Sciences\
@@ -112,6 +112,12 @@ Teaching assistant\
 Department of Methodology & Statistics, Tilburg University \hfill \begingroup\small February 2017 – June 2017\endgroup\
 Teaching assistant\
 *Courses: Introduction to Statistics, Questionnaire design, Experimental design*
+
+# Software
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+`chorrrds`: Music chords extraction - Collaborator\
+*Available at: https://CRAN.R-project.org/package=chorrrds*
 
 # Skills
 \vspace{-10pt}
