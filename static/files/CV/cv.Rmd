@@ -1,7 +1,7 @@
 ---
 title: "CV"
 author: "Luca Carbone"
-email: lucacarbone.lc@gmail.com
+email: luca.carbone@kuleuven.be
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -16,7 +16,7 @@ jobtitle: KU Leuven, Department of Mass Communication
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
-phone: +39 3478191290
+phone: +32 16 37 24 05
 address: Parkstraat 45 · 3000 Leuven · Belgium
 urlcolor: blue
 web: www.lucacarbone.com
@@ -27,8 +27,9 @@ web: www.lucacarbone.com
 \rule{1\linewidth}{\linethickness}
 
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
-DPhil Social Sciences - ERC starting grant\
-Supervisor: Laura Vandenbosch\
+Ph.D. Social Sciences - ERC starting grant\
+Promoter: Laura Vandenbosch\
+PhD committee: Steven Eggermont, Giselinde Kuipers, Tom ter Bogt\
 [Project website](http://www.projectmimic.eu)
 
 *Tilburg University, NL* \hfill \begingroup\small 2017-2019\endgroup\
@@ -38,6 +39,16 @@ Awarded best student, GPA 8.41/10, cum laude
 *University of Trento, IT* \hfill \begingroup\small 2014-2017\endgroup\
 B.A. Sociology\
 GPA 28.74/30, 110 cum laude
+
+# Research interests
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+**Cultural/cognitive sociology and inequalities**: meritocracy, individualism, and social status; embodied beliefs, with particular attention to processes of information encoding and storage of multi-sensory and linguistic stimuli\
+
+**Media effects**: music portrayals of inequalities and social status; adolescents' patterns of music consumption and influences on their beliefs about inequalities.\
+
+**Advanced quantitative research methods**: computational social science methods, including statistical inference in networks (ERGM, TERGM), text as data (structural topic modeling, scaling methods); structural equation modeling; multilevel analysis.
 
 # Publications
 \vspace{-10pt}
@@ -52,7 +63,16 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 
 ## Work in progress
 
-__Carbone, Luca__ & Achterberg, Peter: "“No room for thinking, under the dome”. Flat earth and the boundary construction between science and non- science on Twitter."
+__Carbone, Luca__ & Vandenbosch, Laura: "An embodied perspective on the relationships between media use and beliefs." (Abstract under consideration for special issue)
+\newline
+
+__Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (School of Communication, Kookmin University, South Korea): "Content analysis of music lyrics and chords. Using inferential network analysis for the detection of a meritocratic frame." (Drafting)
+\newline
+
+__Carbone, Luca__ & Mijs, Jonathan (Department of Sociology, Harvard University, United States): "Sounds like meritocracy to my ears: Coupling word embedding and topic modeling to understand how music conveys the meaning of inequality." (Drafting)
+\newline
+
+__Carbone, Luca__ & Achterberg, Peter (Department of Sociology, Tilburg University, The Netherlands): "“No room for thinking, under the dome”. Flat earth and the boundary construction between science and non-science on Twitter." (Article ready for submission)
 \newline
 
 ## Other Publications
@@ -67,17 +87,24 @@ __Carbone, Luca__ (2018, 21 August), Sociology Journals and Network Proprieties 
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-ERC starting grant scholarship (PhD fees + stipend). \hfill \begingroup\small 2020-2024 \endgroup
+University of Chicago, scholarship & Dean’s fellowship ($31,500).
+\hfill \begingroup\small 2019-2020 \endgroup\
+*(declined due to insufficient financial resources to enroll in the program)*
 
-University of Chicago, scholarship & Dean’s fellowship ($31,500). (declined) \hfill \begingroup\small 2019-2020 \endgroup
-
-Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begingroup\small June - August 2018\endgroup
+Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begingroup\small June-August 2018\endgroup
 
 # Memberships & affiliations
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
 Netherlands – Flanders Communication Association (NeFCA). \hfill \begingroup\small 2020-present\endgroup
+
+# Academic community activities
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+*Co-Director* of MethLab\hfill \begingroup\small September 2020-present\endgroup\
+*[Meth-Lab](https://soc.kuleuven.be/fsw/doctoralprogramme/meth-lab) is a bottom-up initiative created by Lala Muradova and Amélie Godefroidt at KU Leuven for the sharing and presentation of novel methodological techniques. As a co-director, I am responsible for contacting and welcoming national and international speakers, the organization of the meetings, the promotion of the events, and the management of finances.*
 
 # Presentations
 \vspace{-10pt}
@@ -126,8 +153,7 @@ Teaching assistant\
 ## Programming Languages & Softwares
 R (Advanced)\
 Markdown (Intermediate)\
-SPSS (Intermediate)\
-Stata (Basic)
+Python (Basic)
 \newline
 
 ## Languages
@@ -137,6 +163,9 @@ Spanish (Elementary proficiency)
 \newline
 
 ## Additional training
+Essex Summer School in Social Science Data Analysis, Essex University \hfill \begingroup\small August, 2020\endgroup\
+*Mathematics*, *Quantitative text analysis*
+
 MOOC on “Introduction to Agent-Based Modeling”, Santa Fe Institute \hfill \begingroup\small October, 2019\endgroup\
 *Agent-based modelling on NetLogo*
 

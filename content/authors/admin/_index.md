@@ -40,15 +40,11 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lucacarbone__lc
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/lucacarbone.lc/
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/profile.php?id=100004409205191
 superuser: true
 user_groups:
 - PhD students
 ---
 
-I am a PhD student at the School for Mass Communication Research, KU Leuven (BE). My research interests lie at the intersection of media effects, cultural and cognitive sociology. From a theoretical point of view, I study the process of belief formation from an embodied perspective, with particular attention to information encoding and storage of multisensory and linguistic stimuli. I apply this reasoning to the specific case of social inequalities and media framing effects: How do individuals form beliefs about poverty? What relationships between their own and others' social class? What role do media have in the formation and internalization of these beliefs? Empirically, I employ quantitative methodologies, such as social network analysis, structural equation modelling, and computational text analysis. I am committed to an open science framework and mindset.
+I am a PhD student at the School for Mass Communication Research, KU Leuven (BE). My research interests lie at the intersection of cultural and cognitive sociology, media effects research, and the study of inequalities.
+From a theoretical point of view, I study how socialization processes among adolescents might shape the formation of their beliefs about inequalities. Drawing from cultural sociology, I study how the socially-stratified access and engagement with prestigious symbolic goods (i.e., music genres) might act as a form of cultural differentiation. Drawing from the media effects literature, I study how music portrays social status and the possible routes through which these portrayals influence adolescents beliefs.
+Empirically, I employ quantitative methodologies, such as social network analysis, structural equation modelling, and computational text analysis. I am committed to an open science framework and mindset.

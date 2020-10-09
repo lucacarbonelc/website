@@ -61,7 +61,7 @@ webshot::webshot("https://www.cifraclub.com.br/frank-ocean/sweet-life/", "screen
 
 As you can see, each verse is sung with one or more chords. The problem is how to match each word with the corresponding chord in which they are played. For example, in the first verse, "The best song wasn't the single, but you weren't either", the words "The best song wasn't" are played in A, "the single, but you weren't" are played in C, and "either" is in G. How to connect each of these words with the corresponding chords A, C, G? The first step consists of having a song divided by verse, both for the chords and the lyrics, something that is achieved with the function `create_dat`:
 ```{r, eval = F}
-chords.dat <- create_dat("Frank Ocean", "Sweet Life")
+chords.dat <- chorrrds::create_dat("Frank Ocean", "Sweet Life")
 ```
 
 This produces the following output:
@@ -275,9 +275,9 @@ edgelist <- network %>%
 
 inet <- igraph::graph_from_data_frame(edgelist, directed = F)
 
-mod <- graph_from_edgelist(as.matrix(edgelist[, c(1:2)]), directed = FALSE)
-mod2 <- cluster_louvain(mod)
-modularity(mod, membership(mod2))
+mod <- igraph::graph_from_edgelist(as.matrix(edgelist[, c(1:2)]), directed = FALSE)
+mod2 <- igraph::cluster_louvain(mod)
+igraph::modularity(mod, membership(mod2))
 ```
 According to Newman & Girvan (2004), a minimum threshold to detect the partitioning of a graph is 0.3, with typical values ranging from 0.3 to 0.7. The value of 0.32 shows that, indeed, the words of this song seem to be clustered when the chord in which they are played is taken into account. This could mean many things, for example that words are played in a certain chord because they are generally linked to positive or negative sentiments (e.g., Brand, Acerbi, & Mesoudi, 2019). Since chords themselves could be put on an emotional axis -- with minor chords linked to negative emotions and major chords to positive emotions -- interesting patterns could emerge from this type of analyses.
 
@@ -287,7 +287,7 @@ The introduction of these two new functions could be an interesting addition to 
 A special thanks to [Bruna Wundervald](https://github.com/brunaw), the developer of the `chorrrds` package, for the help and for the inclusion of these functions in her package :)
 Another special thanks to Edo for the help during the code writing process :)
 
-P.S. I am not a programmer, so (1) the code looks bad, and (2) it might have issues. So, if you encounter any problem with the functions, want to give suggestions about how to improve the code, or just want to rant about stuff, drop me a line (lucacarbone@gmail.com)! I'll be happy to further break my head around it.
+If you encounter any problem with the functions or want to give suggestions about how to improve the code drop me a line (lucacarbone@gmail.com)! I'll be happy to further break my head over it.
 
 ## Bibliography
 Arjmand, H.-A., Hohagen, J., Paton, B., & Rickard, N. S. (2017). Emotional Responses to Music: Shifts in Frontal Brain Asymmetry Mark Periods of Musical Change. *Frontiers in Psychology*, 8. [DOI](https://doi.org/10.3389/fpsyg.2017.02044)
