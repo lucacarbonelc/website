@@ -88,5 +88,5 @@ bwplot <- GGally::ggnet2(net,
 
 bwplot <- bwplot + theme_void() + theme_transparent()
 sticker(bwplot, package="", s_x=1.05, s_y=1, s_width=1.6, s_height=1.6,
-        h_fill="#E68731", h_color="#FEF5B4", filename="logo.png", dpi = 300
+        h_fill="#E68731", h_color="#FEF5B4", filename="../icon.png", dpi = 900
         )
