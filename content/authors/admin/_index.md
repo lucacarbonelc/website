@@ -15,15 +15,16 @@ education:
     year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
 interests:
-- Cultural & Cognitive Sociology
-- Media Effects
-- Social Inequalities
-- Methods & Open Science
+- Cultural and cognitive sociology
+- Music
+- Meritocracy
+- Social inequalities
+- Methods and open science
 name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc"
-role: PhD student
+role: Empirical Social Scientists
 social:
 - icon: envelope
   icon_pack: fa

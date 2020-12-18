@@ -63,7 +63,7 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 
 ## Work in progress
 
-__Carbone, Luca__ & Vandenbosch, Laura: "An embodied perspective on the relationships between media use and beliefs." (Abstract under consideration for special issue)
+__Carbone, Luca__ & Vandenbosch, Laura: "An embodied perspective on the relationships between media use and beliefs." (Drafting)
 \newline
 
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (School of Communication, Kookmin University, South Korea): "Content analysis of music lyrics and chords. Using inferential network analysis for the detection of a meritocratic frame." (Drafting)
@@ -72,7 +72,7 @@ __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (School of Communication,
 __Carbone, Luca__ & Mijs, Jonathan (Department of Sociology, Harvard University, United States): "Sounds like meritocracy to my ears: Coupling word embedding and topic modeling to understand how music conveys the meaning of inequality." (Drafting)
 \newline
 
-__Carbone, Luca__ & Achterberg, Peter (Department of Sociology, Tilburg University, The Netherlands): "“No room for thinking, under the dome”. Flat earth and the boundary construction between science and non-science on Twitter." (Article ready for submission)
+__Carbone, Luca__ & Achterberg, Peter (Department of Sociology, Tilburg University, The Netherlands): "“No room for thinking, under the dome”. Flat earth and the boundary construction between science and non-science on Twitter." (Under Review)
 \newline
 
 ## Other Publications
@@ -106,11 +106,13 @@ Netherlands – Flanders Communication Association (NeFCA). \hfill \begingroup\s
 *Co-Director* of MethLab\hfill \begingroup\small September 2020-present\endgroup\
 *[Meth-Lab](https://soc.kuleuven.be/fsw/doctoralprogramme/meth-lab) is a bottom-up initiative created by Lala Muradova and Amélie Godefroidt at KU Leuven for the sharing and presentation of novel methodological techniques. As a co-director, I am responsible for contacting and welcoming national and international speakers, the organization of the meetings, the promotion of the events, and the management of finances.*
 
-# Presentations
+# Conference Presentations
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Day of Sociology, Amsterdam. \hfill \begingroup\small 27th June 2019\endgroup
+IV Forum of Sociology (International Sociological Association), Porto Alegre. \hfill \begingroup\small 2021\endgroup
+
+Day of Sociology, Amsterdam. \hfill \begingroup\small 2019\endgroup
 
 # Research Experience
 \vspace{-10pt}

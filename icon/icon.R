@@ -1,6 +1,12 @@
 library(hexSticker)
 library(lattice)
 library(viridis)
+library(tidyverse)
+library(network)
+
+# Set wd ------------------------------------------------------------------
+
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 # Song --------------------------------------------------------------------
 
@@ -77,10 +83,10 @@ bwplot <- GGally::ggnet2(net,
                          edge.size = 0.005,
                          node.label = TRUE,
                          node.size = 0,
-                         node.color = "#E68731",
+                         node.color = "#450D53",
                          label.size = ifelse((seq(1:length(net$val)) %in% which(get.vertex.attribute(net, "senti") <= -0.2)), 1.2,
                                              ifelse((seq(1:length(net$val)) %in% which(get.vertex.attribute(net, "senti") >= 0.6)), 1.2, 0.7)),
-                         label.color = ifelse((seq(1:length(net$val)) %in% which(get.vertex.attribute(net, "senti") <= -0.2)), "#450D53",
+                         label.color = ifelse((seq(1:length(net$val)) %in% which(get.vertex.attribute(net, "senti") <= -0.2)), "#B42D22",
                                               ifelse((seq(1:length(net$val)) %in% which(get.vertex.attribute(net, "senti") >= 0.6)), "#21908C", "#FDE825")),
 )
 
@@ -88,5 +94,5 @@ bwplot <- GGally::ggnet2(net,
 
 bwplot <- bwplot + theme_void() + theme_transparent()
 sticker(bwplot, package="", s_x=1.05, s_y=1, s_width=1.6, s_height=1.6,
-        h_fill="#E68731", h_color="#FEF5B4", filename="icon.png", dpi = 900
+        h_fill="#450D53", h_color="#3D0A4A", filename="icon.png", dpi = 900
         )
