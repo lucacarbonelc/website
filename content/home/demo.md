@@ -13,7 +13,7 @@ subtitle = "Music, Inequalities, and Meritocracy"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,7 +29,7 @@ subtitle = "Music, Inequalities, and Meritocracy"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "icon-full.png"  # Name of image in `static/img/`.
+  image = "icon-half.png"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
