@@ -24,7 +24,7 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc"
-role: Empirical Social Scientists
+role: Empirical Social Scientist
 social:
 - icon: envelope
   icon_pack: fa
