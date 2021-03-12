@@ -6,10 +6,19 @@
     <description>Recent content on Luca Carbone</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IV Forum of Sociology (ISA)</title>
+      <link>/talk/212302isa/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/212302isa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functions to match chords with lyrics in the R package chorrrds</title>
@@ -5235,10 +5244,10 @@ Another special thanks to Edo for the help during the code writing process :)&lt
     
     <item>
       <title>Day of Sociology (NSVS)</title>
-      <link>/talk/fes/</link>
+      <link>/talk/192706dvds/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/talk/fes/</guid>
+      <guid>/talk/192706dvds/</guid>
       <description></description>
     </item>
     

@@ -19,7 +19,22 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-12-18T13:12:32+01:00</lastmod>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/212302isa/</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,17 +43,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-10-09T16:45:33+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/functions_chorrrds/functions_chorrrds/</loc>
-    <lastmod>2020-10-09T16:45:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-10-09T16:45:33+02:00</lastmod>
   </url>
   
@@ -63,8 +68,18 @@
   </url>
   
   <url>
-    <loc>/talk/fes/</loc>
-    <lastmod>2020-06-21T17:07:10+02:00</lastmod>
+    <loc>/project/musicmeritocracy/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-06-21T16:09:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/192706dvds/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -143,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/project/communication/</loc>
-    <lastmod>2020-06-21T16:09:12+02:00</lastmod>
+    <loc>/project/culturecognition/</loc>
+    <lastmod>2020-01-30T15:05:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/project/communication/</loc>
     <lastmod>2020-06-21T16:09:12+02:00</lastmod>
   </url>
   
@@ -174,11 +189,6 @@
   <url>
     <loc>/courses/</loc>
     <lastmod>2020-01-25T11:44:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/culturecognition/</loc>
-    <lastmod>2020-01-30T15:05:26+01:00</lastmod>
   </url>
   
   <url>

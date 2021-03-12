@@ -1,5 +1,5 @@
 ---
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "2019-01-12T00:00:00Z"
 external_link: ""
 image:
   caption: 
