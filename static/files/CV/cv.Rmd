@@ -63,16 +63,10 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 
 ## Work in progress
 
-__Carbone, Luca__ & Vandenbosch, Laura: "An embodied perspective on the relationships between media use and beliefs." (Drafting)
-\newline
-
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (School of Communication, Kookmin University, South Korea): "Content analysis of music lyrics and chords. Using inferential network analysis for the detection of a meritocratic frame." (Drafting)
 \newline
 
-__Carbone, Luca__ & Mijs, Jonathan (Department of Sociology, Harvard University, United States): "Sounds like meritocracy to my ears: Coupling word embedding and topic modeling to understand how music conveys the meaning of inequality." (Drafting)
-\newline
-
-__Carbone, Luca__ & Achterberg, Peter (Department of Sociology, Tilburg University, The Netherlands): "“No room for thinking, under the dome”. Flat earth and the boundary construction between science and non-science on Twitter." (Under Review)
+__Carbone, Luca__ & Mijs, Jonathan (Department of Sociology, Harvard University, United States): "Sounds like meritocracy to my ears: Coupling word embedding and topic modeling to understand how music conveys the meaning of inequality." (Under review - preprint available [here](https://t.co/znOwdcxRO2?amp=1))
 \newline
 
 ## Other Publications
@@ -99,6 +93,18 @@ Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begin
 
 Netherlands – Flanders Communication Association (NeFCA). \hfill \begingroup\small 2020-present\endgroup
 
+American Sociological Association (ASA). \hfill \begingroup\small 2021-present\endgroup
+
+# Conference Presentations
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+116th ASA Virtual Annual Meeting (American Sociological Association), Chicago \hfill \begingroup\small 2021\endgroup
+
+IV Forum of Sociology (International Sociological Association), Porto Alegre. \hfill \begingroup\small 2021\endgroup
+
+Day of Sociology, Amsterdam. \hfill \begingroup\small 2019\endgroup
+
 # Academic community activities
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
@@ -106,13 +112,13 @@ Netherlands – Flanders Communication Association (NeFCA). \hfill \begingroup\s
 *Co-Director* of MethLab\hfill \begingroup\small September 2020-present\endgroup\
 *[Meth-Lab](https://soc.kuleuven.be/fsw/doctoralprogramme/meth-lab) is a bottom-up initiative created by Lala Muradova and Amélie Godefroidt at KU Leuven for the sharing and presentation of novel methodological techniques. As a co-director, I am responsible for contacting and welcoming national and international speakers, the organization of the meetings, the promotion of the events, and the management of finances.*
 
-# Conference Presentations
+*Member* of Diversity and Sustainability Commission at KU Leuven (FSW)\hfill \begingroup\small April 2021- present\endgroup\
+
+# Academic Service
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-IV Forum of Sociology (International Sociological Association), Porto Alegre. \hfill \begingroup\small 2021\endgroup
-
-Day of Sociology, Amsterdam. \hfill \begingroup\small 2019\endgroup
+Presider roundtable cultural sociology (section on Meritocracy) at 116th ASA Virtual Annual Meeting.
 
 # Research Experience
 \vspace{-10pt}

@@ -1,0 +1,86 @@
+---
+title: "Music Tastes"
+author: "Luca Carbone"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+urlcolor: blue
+---
+
+### Taste profiles
+
+*Snob*
+
+* Jarness, V., & Friedman, S. (2017). ‘I’m not a snob, but…’: Class boundaries and the downplaying of difference. *Poetics*, 61, 14–25. https://doi.org/10.1016/j.poetic.2016.11.001
+
+*Omnivore/univore*
+
+* Peterson, R. A. (1992). Understanding audience segmentation: From elite and mass to omnivore and univore. *Poetics*, 21(4), 243–258. https://doi.org/10.1016/0304-422X(92)90008-Q
+
+* Peterson, R. A., & Simkus, A. (1992) How musical tastes mark occupational status groups. In Michèle Lamont, Marcel Fournier (Eds.), *Cultivating differences: Symbolic boundaries and the making of inequality*, Chicago University Press, Chicago, IL (1992), pp. 152-186
+
+* Peterson, R. A., & Kern, R. M. (1996). Changing highbrow taste: From snob to omnivore. *American Sociological Review*, 61(5), 900–907. https://doi.org/10.2307/2096460
+
+* Bryson, B. (1997). What about the univores? Musical dislikes and group-based identity construction among Americans with low levels of education. *Poetics*, 25(2–3), 141–156. https://doi.org/10.1016/S0304-422X(97)00008-9
+
+* van Eijck, K. (2001). Social Differentiation in Musical Taste Patterns. *Social Forces*, 79(3), 1163–1185. https://doi.org/10.1353/sof.2001.0017
+
+* Peterson, R.A. (2005). Problems in comparative research: the example of omnivorousness. *Poetics*, 33, 257–282. https://doi.org/10.1016/j.poetic.2005.10.002
+
+López-Sintas, J., Katz-Gerro, T. (2005). From exclusive to inclusive elitists and further: twenty years of omnivorousness and cultural diversity in arts participation in the USA. *Poetics* 33, 299–319. https://doi.org/10.1016/J.POETIC.2005.10.004
+
+* Atkinson, W. (2011). The context and genesis of musical tastes: Omnivorousness debunked, Bourdieu buttressed. *Poetics*, 39(3), 169–186. https://doi.org/10.1016/j.poetic.2011.03.002
+
+* Savage, M., & Gayo, M. (2011). Unravelling the omnivore: A field analysis of contemporary musical taste in the United Kingdom. *Poetics*, 39(5), 337–357. https://doi.org/10.1016/j.poetic.2011.07.001
+
+* Lizardo, O., & Skiles, S. (2012). Reconceptualizing and theorizing “omnivorousness”: Genetic and relational mechanisms. *Sociological Theory*, 30(4), 263–282. https://doi.org/10.1177/0735275112466999
+
+* Hanquinet, L. (2017). Exploring Dissonance and Omnivorousness: Another Look into the Rise of Eclecticism. *Cultural Sociology*, 11(2), 165–187. https://doi.org/10.1177/1749975516647750
+
+* Brisson, R. (2019). Back to the original omnivore: On the artefactual nature of Peterson’s thesis of omnivorousness. *Poetics*, 76. https://doi.org/10.1016/j.poetic.2019.03.004
+
+* de Vries, R., & Reeves, A. (2021). What Does it Mean to be a Cultural Omnivore? Conflicting Visions of Omnivorousness in Empirical Research. *Sociological Research Online*, April 2021. https://doi.org/10.1177/13607804211006109
+
+*Hip*
+
+* Michael, J. (2015). Its really not hip to be a hipster: Negotiating trends and authenticity in the cultural field. *Journal of Consumer Culture*, 15(2), 163–182. https://doi.org/10.1177/1469540513493206
+
+*Tolerant/Intolerant*
+
+* Bryson, B. (1996). “Anything But Heavy Metal”: Symbolic Exclusion and Musical Dislikes. *American Sociological Review*, 61(5), 884. https://doi.org/10.2307/2096459
+
+* Glévarec, H., & Pinet, M. (2012). Tablatures of musical tastes in contemporary France: Distinction without intolerance. *Cultural Trends*, 21(1), 67–88. https://doi.org/10.1080/09548963.2012.641776
+
+* Lizardo, O., & Skiles, S. (2015). Musical taste and patterns of symbolic exclusion in the United States 1993-2012: Generational dynamics of differentiation and continuity. *Poetics*, 53, 9–21. https://doi.org/10.1016/j.poetic.2015.08.003
+
+* Lizardo, O., & Skiles, S. (2016). The end of symbolic exclusion? The rise of “categorical tolerance” in the musical tastes of Americans: 1993-2012. *Sociological Science*, 3, 85–108. https://doi.org/10.15195/v3.a5
+
+### Openness and cosmopolitanism
+* Fridman V and Ollivier M (2004) Ouverture ostentatoire à la diversité et cosmopolitisme: Vers une nouvelle configuration discursive? *Sociologie et Sociétés* 36(1), 105–126. https://doi.org/10.7202/009584ar
+
+* Ollivier, M. (2008). Modes of openness to cultural diversity: Humanist, populist, practical, and indifferent. *Poetics*, 36(2–3), 120–147. https://doi.org/10.1016/j.poetic.2008.02.005
+
+* Roose, H., van Eijck, K., & Lievens, J. (2012). Culture of distinction or culture of openness? Using a social space approach to analyze the social structuring of lifestyles. *Poetics*, 40(6), 491–513. https://doi.org/10.1016/j.poetic.2012.08.001
+
+* Meuleman, R., & Lubbers, M. (2014). The social distinction in having domestic versus foreign favorite music artists. *Poetics*, 45, 55–71. https://doi.org/10.1016/j.poetic.2014.06.003
+
+* Coulangeon, P. (2017). Cultural Openness as an Emerging Form of Cultural Capital in Contemporary France. *Cultural Sociology*, 11(2), 145–164. https://doi.org/10.1177/1749975516680518
+
+### Socio-political attitudes
+* DiMaggio, P. (1996). Are art-museum visitors different from other people? The relationship between attendance and social and political attitudes in the United States. *Poetics*, 24(2–4), 161–180. https://doi.org/10.1016/S0304-422X(96)00008-3
+
+* Chan, T. W., & Goldthorpe, J. H. (2006). Social Stratification and Cultural Consumption: Music in England. *European Sociological Review*, 23(1), 1–19. https://doi.org/10.1093/esr/jcl016
+
+* van Eijck, K., & Lievens, J. (2008). Cultural omnivorousness as a combination of highbrow, pop, and folk elements: The relation between taste patterns and attitudes concerning social integration. *Poetics*, 36(2–3), 217–242. https://doi.org/10.1016/j.poetic.2008.02.002
+
+* Chan, T. W. (2019). Understanding cultural omnivores: social and political attitudes. *The British Journal of Sociology*, 70(3), 784–806. https://doi.org/10.1111/1468-4446.12613
+
+* Flemmen, M. P., Jarness, V., & Rosenlund, L. (2019). Omnivorousness and openness: comments to Tak Wing Chan. *The British Journal of Sociology*, 70. https://doi.org/10.1111/1467-9221.12613
+
+* Lizardo, O. (2019). Classes and classification: comment on Chan and Flemmen, Jarness and Roselund. *The British Journal of Sociology*, 70. https://doi.org/10.1111/1467-9221.12613
+
+### Genres and classification
+* Lena, J. C., & Peterson, R. A. (2008). Classification as Culture: Types and Trajectories of Music Genres. *American Sociological Review*, 73(5), 697–718. https://doi.org/10.1177/000312240807300501
+
+### Cultural industries
