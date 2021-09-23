@@ -63,16 +63,19 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 
 ## Work in progress
 
-__Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Kookmin University): "Content analysis of music lyrics and chords. Using inferential network analysis for the detection of a meritocratic frame." (Drafting)
+__Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "Content analysis of music lyrics and chords. Using inferential network analysis for the detection of meritocratic frames." (Drafting)
 \newline
 
 __Carbone, Luca__ & Vandenbosch, Laura: "A systematic literature review of the quantitative research about music effects on beliefs." (Drafting)
 \newline
 
-__Carbone, Luca__, Mijs, Jonathan (Harvard University, Erasmus University), & Daedekindt, Stijn (Ghent University): "Tracking or Trailing? The Eurovision event and its relationships with public opinions." (Drafting)
+__Carbone, Luca__ & Vandenbosch, Laura: "Access, taste, and identity: a typology of music streaming users among Belgian adolescents." (Drafting)
 \newline
 
-__Carbone, Luca__ & Mijs, Jonathan (Harvard University, Erasmus University): "Sounds like meritocracy to my ears: Coupling word embedding and topic modeling to understand how music conveys the meaning of inequality." (Under review - preprint available [here](https://t.co/znOwdcxRO2?amp=1))
+__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), & Daedekindt, Stijn (Ghent University): "Tracking or Trailing? The Eurovision event and its relationships with public opinions." (Drafting)
+\newline
+
+__Carbone, Luca__ & Mijs, Jonathan (Boston University, Erasmus University): "Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and private culture." (Under review - preprint available [here](https://t.co/znOwdcxRO2?amp=1))
 \newline
 
 ## Other Publications
@@ -96,6 +99,8 @@ Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begin
 # Conference Presentations
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+Workshop PhD Media Psychology division of German Psychological Association Conference, Aachen \hfill \begingroup\small 2021\endgroup
 
 116th ASA Virtual Annual Meeting (American Sociological Association), Chicago. \hfill \begingroup\small 2021\endgroup
 
@@ -148,6 +153,14 @@ Research internship, Supervisor: Dr. Sonia Marzadro\
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
+School for Mass Communication Research, KU Leuven \hfill \begingroup\small October 2021 – November 2021\endgroup\
+Teaching assistant\
+*Workshop: Computational Methods for Text Analysis*
+
+School for Mass Communication Research, KU Leuven \hfill \begingroup\small November 2021\endgroup\
+Teaching assistant\
+*Course: Media and Crisis. Class name: Social media: a curse or blessing for the body image crisis?*
+
 Department of Sociology, Tilburg University \hfill \begingroup\small March 2017 – June 2017\endgroup\
 Teaching assistant\
 *Course: Social Risk and Culture*
@@ -169,13 +182,15 @@ Teaching assistant\
 ## Programming Languages & Softwares
 R (Advanced)\
 Markdown (Intermediate)\
-Python (Intermediate)
+Python (Intermediate)\
+HTML (Basic)\
+CSS (Basic)
 \newline
 
 ## Languages
 Italian (Native speaker)\
 English (Full professional proficiency)\
-Spanish (Elementary proficiency)
+Spanish (Elementary proficiency)\
 French (Elementary proficiency)
 \newline
 
@@ -211,14 +226,4 @@ Volunteering for Arci \hfill \begingroup\small June 2014 – July 2014\endgroup\
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Dr. Laura Vandenbosch (KU Leuven)\
-Email address: laura.vandenbosch@kuleuven.be
-
-Prof. dr. Peter Achterberg (Tilburg University)\
-Email address: P.Achterberg@tilburguniversity.edu
-
-Dr. Tim Reeskens (Tilburg University)\
-Email address: T.Reeskens@tilburguniversity.edu
-
-Prof. dr. Roger Leenders (Tilburg University)\
-Email address: R.T.A.J.Leenders@tilburguniversity.edu
+Available under request.
