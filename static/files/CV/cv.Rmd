@@ -44,15 +44,20 @@ GPA 28.74/30, 110 cum laude
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-**Cultural/cognitive sociology and inequalities**: meritocracy, individualism, and social status; boundary-making processes; embodied beliefs, with particular attention to processes of information encoding and storage of multi-sensory and linguistic stimuli\
+**Cultural/cognitive sociology and inequalities**: meritocracy, individualism, and social status; boundary-making processes; embodied beliefs, with particular attention to processes of information encoding and storage of multi-sensory and linguistic stimuli.\
 
-**Media effects**: music portrayals of inequalities and social status; adolescents' patterns of music consumption and influences on their beliefs about inequalities.\
+**Media theories and effects**: media entertainment; resonance theory; music effects on adolescents' beliefs.\
 
-**Advanced quantitative research methods**: computational social science methods, including statistical inference in networks (ERGM, TERGM), text as data (structural topic modeling, scaling methods); structural equation modeling; multilevel analysis.
+**Advanced quantitative research methods**: computational social science methods, including statistical inference in networks (ERGM), text as data (structural topic modeling, scaling methods); structural equation modeling; multilevel analysis.
 
 # Publications
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+## Peer-reviewed articles
+
+__Carbone, Luca__ & Mijs, Jonathan (Boston University, Erasmus University): "Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and private culture." (Forthcoming in "Information, Communication & Society" - pre-print available [here](https://t.co/znOwdcxRO2?amp=1))
+\newline
 
 ## Book Chapters
 
@@ -63,7 +68,7 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 
 ## Work in progress
 
-__Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "Content analysis of music lyrics and chords. Using inferential network analysis for the detection of meritocratic frames." (Drafting)
+__Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
 \newline
 
 __Carbone, Luca__ & Vandenbosch, Laura: "A systematic literature review of the quantitative research about music effects on beliefs." (Drafting)
@@ -73,9 +78,6 @@ __Carbone, Luca__ & Vandenbosch, Laura: "Access, taste, and identity: a typology
 \newline
 
 __Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), & Daedekindt, Stijn (Ghent University): "Tracking or Trailing? The Eurovision event and its relationships with public opinions." (Drafting)
-\newline
-
-__Carbone, Luca__ & Mijs, Jonathan (Boston University, Erasmus University): "Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and private culture." (Under review - preprint available [here](https://t.co/znOwdcxRO2?amp=1))
 \newline
 
 ## Other Publications
@@ -152,6 +154,10 @@ Research internship, Supervisor: Dr. Sonia Marzadro\
 # Teaching Experience
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+ECPR School in Advanced Methods \hfill \begingroup\small February 2022\endgroup\
+Teaching assistant\
+*Course: Introduction to R*
 
 School for Mass Communication Research, KU Leuven \hfill \begingroup\small October 2021 – November 2021\endgroup\
 Teaching assistant\
