@@ -4,7 +4,7 @@ authors:
 - admin
 - Jonathan Mijs
 date: "2021-04-21T00:00:00Z"
-doi: ""
+doi: "10.1080/1369118X.2021.2020870"
 featured: false
 image:
   caption: ""
@@ -24,10 +24,10 @@ tags:
 - Inequalities
 - Unsupervised Text Analysis
 - Computational Methods
-title: "Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and private culture"
+title: "Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture"
 url_code: "https://osf.io/fm2j4/"
 url_dataset: "https://osf.io/f4r86/"
-url_pdf: "https://osf.io/z8ugf/"
+url_pdf: "https://osf.io/preprints/socarxiv/3s5m2/"
 url_poster: ""
 url_project: ""
 url_slides: ""
