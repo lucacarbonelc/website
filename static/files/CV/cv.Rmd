@@ -56,8 +56,12 @@ GPA 28.74/30, 110 cum laude
 
 ## Peer-reviewed articles
 
-__Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture. *Information, Communication & Society*. https://doi.org/10.1080/1369118X.2021.2020870. Pre-print available [here](https://t.co/znOwdcxRO2?amp=1). Data, syntax, appendix, and pre-registration available on [OSF](). Trending paper in Communication and Sociology Altmetrics on 10th January 2022 [OOIR](https://t.co/6jLlFffvFT)
+__Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture. *Information, Communication & Society*. [https://doi.org/10.1080/1369118X.2021.2020870](https://doi.org/10.1080/1369118X.2021.2020870). Pre-print available [here](https://t.co/znOwdcxRO2?amp=1). Data, syntax, appendix, and pre-registration available on [OSF](https://osf.io/5427t/). Trending paper in Communication and Sociology Altmetrics on 10th January 2022 [OOIR](https://t.co/6jLlFffvFT)
 \newline
+
+__Carbone, L.__ (2022). Book Review: 'Getting Signed: Record Contracts, Musicians, and Power in Society.' *New Media & Society*. [https://doi.org/10.1177/14614448221101210](https://doi.org/10.1177/14614448221101210).
+\newline
+
 
 ## Book Chapters
 
@@ -71,7 +75,10 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
 \newline
 
-__Carbone, Luca__ & Vandenbosch, Laura: "A systematic literature review of the quantitative research about music effects on beliefs." (Drafting)
+__Carbone, Luca__ & Vandenbosch, Laura: "A systematic literature review of the quantitative research about music effects on beliefs." (Under review)
+\newline
+
+Grusauskaite, Kamile, __Carbone, Luca__, Harambam, Jaron, & Aupers, Stef: "Debating (In) Echo Chambers: How People Read Conspiracy Theory Videos On YouTube" (Under Review). Finalist in the ICA Popular Media & Culture division’s Top Paper Award in 2022 (out of 229 total papers).
 \newline
 
 __Carbone, Luca__ & Vandenbosch, Laura: "Access, taste, and identity: a typology of music streaming users among Belgian adolescents." (Drafting)
@@ -102,7 +109,11 @@ Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begin
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-72nd International Communication Association (ICA), Paris. \hfill \begingroup\small 2022\endgroup
+21st conference of the International Association for the Study of Popoular Music (IASPM), Daegu. \hfill \begingroup\small 2022\endgroup
+
+Day of Sociology, Groningen \hfill \begingroup\small 2022\endgroup
+
+72nd conference of the International Communication Association (ICA), Paris. \hfill \begingroup\small 2022\endgroup
 
 Etmaal van de Communicatiewetenschap 2022, Brussels (online). \hfill \begingroup\small 2022\endgroup
 
@@ -129,6 +140,10 @@ Presider roundtable cultural sociology (section on Meritocracy) at 116th ASA Vir
 Journal for the Theory of Social Behaviour
 
 ## Memberships & affiliations
+International Association for the Study of Popular Music (IASPM). \hfill \begingroup\small 2022-present\endgroup
+
+International Communication Association (ICA). \hfill \begingroup\small 2022-present\endgroup
+
 Netherlands – Flanders Communication Association (NeFCA). \hfill \begingroup\small 2020-present\endgroup
 
 American Sociological Association (ASA). \hfill \begingroup\small 2021-present\endgroup
@@ -136,6 +151,11 @@ American Sociological Association (ASA). \hfill \begingroup\small 2021-present\e
 KU Leuven Digital Society Institute. \hfill \begingroup\small 2021-present\endgroup
 
 KU Leuven Youth Institute. \hfill \begingroup\small 2021-present\endgroup
+
+## Research stays
+Research stay hosted by Dr. Hyunjin Song at Yonsei University. \hfill \begingroup\small July 2022\endgroup
+
+Research stay hosted by Dr. Eric Lybeck at Exeter University. \hfill \begingroup\small June-August 2018\endgroup
 
 ## Faculty Services
 *Co-Director* of MethLab\hfill \begingroup\small September 2020-present\endgroup\
@@ -150,6 +170,8 @@ KU Leuven Youth Institute. \hfill \begingroup\small 2021-present\endgroup
 - Diana-Teodora Gaitan\hfill \begingroup\small 2022\endgroup\
 
 *Supervisor* job students:\newline
+- Rana Rafeh\hfill \begingroup\small 2022\endgroup\
+- Tam Nguyen\hfill \begingroup\small 2022\endgroup\
 - Silke Vereeken\hfill \begingroup\small 2021\endgroup\
 - Annelies Rom\hfill \begingroup\small 2021\endgroup\
 
@@ -215,6 +237,9 @@ French (Elementary proficiency)
 \newline
 
 ## Additional training
+Summer School Diversity in Arts, Culture and Media Studies, Erasmus University Rotterdam \hfill \begingroup\small June, 2022\endgroup\
+*Mathematics*, *Quantitative text analysis*
+
 Essex Summer School in Social Science Data Analysis, Essex University \hfill \begingroup\small August, 2020\endgroup\
 *Mathematics*, *Quantitative text analysis*
 
