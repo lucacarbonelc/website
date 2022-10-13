@@ -56,12 +56,14 @@ GPA 28.74/30, 110 cum laude
 
 ## Peer-reviewed articles
 
-__Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture. *Information, Communication & Society*. [https://doi.org/10.1080/1369118X.2021.2020870](https://doi.org/10.1080/1369118X.2021.2020870). Pre-print available [here](https://t.co/znOwdcxRO2?amp=1). Data, syntax, appendix, and pre-registration available on [OSF](https://osf.io/5427t/). Trending paper in Communication and Sociology Altmetrics on 10th January 2022 [OOIR](https://t.co/6jLlFffvFT)
+Rosič J., Janicke-Bowles S.H., __Carbone, L.__, Lobe B., Vandenbosch L. (2022). Positive Digital Communication Among Youth: The Development and Validation of the Digital Flourishing Scale for Adolescents *Frontiers Digital Health*. [https://doi.org/10.3389/fdgth.2022.975557](https://doi.org/10.3389/fdgth.2022.975557).
 \newline
 
 __Carbone, L.__ (2022). Book Review: 'Getting Signed: Record Contracts, Musicians, and Power in Society.' *New Media & Society*. [https://doi.org/10.1177/14614448221101210](https://doi.org/10.1177/14614448221101210).
 \newline
 
+__Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture. *Information, Communication & Society*. [https://doi.org/10.1080/1369118X.2021.2020870](https://doi.org/10.1080/1369118X.2021.2020870). Pre-print available [here](https://t.co/znOwdcxRO2?amp=1). Data, syntax, appendix, and pre-registration available on [OSF](https://osf.io/5427t/). Trending paper in Communication and Sociology Altmetrics on 10th January 2022 [OOIR](https://t.co/6jLlFffvFT)
+\newline
 
 ## Book Chapters
 
@@ -239,7 +241,7 @@ French (Elementary proficiency)
 
 ## Additional training
 Summer School Diversity in Arts, Culture and Media Studies, Erasmus University Rotterdam \hfill \begingroup\small June, 2022\endgroup\
-*Mathematics*, *Quantitative text analysis*
+*Critical, feminist, and intersectional approaches*
 
 Essex Summer School in Social Science Data Analysis, Essex University \hfill \begingroup\small August, 2020\endgroup\
 *Mathematics*, *Quantitative text analysis*
