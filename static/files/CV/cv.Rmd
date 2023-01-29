@@ -44,11 +44,11 @@ GPA 28.74/30, 110 cum laude
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-**Cultural/cognitive sociology and inequalities**: meritocracy, individualism, and social status; boundary-making processes; embodied beliefs, with particular attention to processes of information encoding and storage of multi-sensory and linguistic stimuli.\
+**Cultural/cognitive sociology and inequalities**: cultural (re)production; socio-aesthetic hierarchies; success, meritocracy, individualism, and social status; boundary-making processes; public and personal forms of culture.\
 
-**Media theories and effects**: media entertainment; resonance theory; music effects on adolescents' beliefs.\
+**Media psychology**: media entertainment; resonance theory; media frames; cultivation theory.\
 
-**Advanced quantitative research methods**: computational social science methods, including statistical inference in networks (ERGM), text as data (structural topic modeling, scaling methods); structural equation modeling; multilevel analysis.
+**Advanced quantitative research methods**: computational social science methods, including statistical inference in networks (ERGM), text as data (structural topic modeling); structural equation modeling; multilevel analysis; factor analysis and data reduction.
 
 # Publications
 \vspace{-10pt}
@@ -72,21 +72,42 @@ __Carbone, Luca__ .2019. "Il mercato comunicativo su Twitter nelle europee 2019.
 __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle europee 2019." In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (65-73). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
 \newline
 
+Kuipers, Giselinde, Brans, Luuc, __Carbone, Luca__: "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" (in publication)
+\newline
+
 ## Work in progress
+
+__Carbone, Luca__ & Vandenbosch, Laura: "A Meta-Analysis of Studies Examining the Effect of Music on Beliefs" (R&R with minor revisions)
+\newline
+
+Grusauskaite, Kamile, __Carbone, Luca__, Harambam, Jaron, & Aupers, Stef: "Debating (In) Echo Chambers: How People Read Conspiracy Theory Videos On YouTube" (R&R with major revisions). Finalist in the ICA Popular Media & Culture division’s Top Paper Award in 2022 (out of 229 total papers).
+\newline
 
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
 \newline
 
-__Carbone, Luca__ & Vandenbosch, Laura: "A systematic literature review of the quantitative research about music effects on beliefs." (Under review)
+__Carbone, Luca__, Alvarez-Cueva, Priscila, & Vandenbosch, Laura: "“I know I'm a queen, but I don't need no crown”: Intersectional Representations of Social Status in Popular Music Lyrics" (Under review)
 \newline
 
-Grusauskaite, Kamile, __Carbone, Luca__, Harambam, Jaron, & Aupers, Stef: "Debating (In) Echo Chambers: How People Read Conspiracy Theory Videos On YouTube" (Under Review). Finalist in the ICA Popular Media & Culture division’s Top Paper Award in 2022 (out of 229 total papers).
+Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie, & Vandenbosch, Laura: "From Affordance to Affair: Exploring the Relationships between Online Sexual Activities and Online Infidelity Behaviors" (Under review)
 \newline
 
-__Carbone, Luca__ & Vandenbosch, Laura: "Access, taste, and identity: a typology of music streaming users among Belgian adolescents." (Drafting)
+Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura: "Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale" (Under review)
 \newline
 
-__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), & Daedekindt, Stijn (Ghent University): "Tracking or Trailing? The Eurovision event and its relationships with public opinions." (Drafting)
+__Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music identity in the streaming era" (Drafting)
+\newline
+
+__Carbone, Luca__, Klimmt, Christoph, Schaap, Julian, & Vandenbosch, Laura: "Resonant Mediated Experiences: Towards an Integrated Approach of Media-Psychological and Cultural Sociological Theories of Resonance" (Drafting)
+\newline
+
+__Carbone, Luca__, Klimmt, Christoph, & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Identification and Similarity with Music Artists: A Biographic Resonance Account" (Drafting)
+\newline
+
+Vandenbosch, Laura, __Carbone, Luca__, Noon, Ed: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Drafting)
+\newline
+
+__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Tracking or Trailing? The Eurovision event and its relationships with public opinions." (Drafting)
 \newline
 
 ## Other Publications
@@ -107,9 +128,19 @@ University of Chicago, scholarship & Dean’s fellowship ($31,500).
 
 Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begingroup\small June-August 2018\endgroup
 
+# Invited Talks
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+POP Talks (IASPM Benelux), Leuven \hfill \begingroup\small 2023\endgroup
+
 # Conference Presentations
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+73rd conference of the International Communication Association (ICA), Toronto \hfill \begingroup\small 2023\endgroup
+
+Etmaal van de Communicatiewetenschap 2023, Enschede. \hfill \begingroup\small 2023\endgroup
 
 21st conference of the International Association for the Study of Popoular Music (IASPM), Daegu. \hfill \begingroup\small 2022\endgroup
 
@@ -171,6 +202,9 @@ Research stay hosted by Dr. Eric Lybeck at Exeter University. \hfill \begingroup
 - Sarah Pans\hfill \begingroup\small 2022\endgroup\
 - Kyra Bulinckx\hfill \begingroup\small 2022\endgroup\
 - Diana-Teodora Gaitan\hfill \begingroup\small 2022\endgroup\
+- Dan Ding\hfill \begingroup\small 2022\endgroup\
+- Maria Stefania Popa\hfill \begingroup\small 2022\endgroup\
+- Ngoc Diep Nguyen\hfill \begingroup\small 2022\endgroup\
 
 *Supervisor* job students:\newline
 - Rana Rafeh\hfill \begingroup\small 2022\endgroup\
@@ -198,13 +232,14 @@ Research internship, Supervisor: Dr. Sonia Marzadro\
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-School for Mass Communication Research, KU Leuven \hfill \begingroup\small October 2021 – November 2021\endgroup\
+School for Mass Communication Research, KU Leuven \hfill \begingroup\small October 2021 – present\endgroup\
 Teaching assistant\
-*Workshop: Computational Methods for Text Analysis*
+*Course: Research Designs for Communication Science. Seminar name: Computational methods for text analysis*
 
-School for Mass Communication Research, KU Leuven \hfill \begingroup\small November 2021\endgroup\
+School for Mass Communication Research, KU Leuven \hfill \begingroup\small November 2021 – present\endgroup\
 Teaching assistant\
-*Course: Media and Crisis. Class name: Social media: a curse or blessing for the body image crisis?*
+*Course: Media and Crisis. Seminar name: Social media: a curse or blessing for the body image crisis?*
+*Course: Media and Crisis. Seminar name: Music and the cracks of individualism(?)*
 
 Department of Sociology, Tilburg University \hfill \begingroup\small March 2017 – June 2017\endgroup\
 Teaching assistant\
