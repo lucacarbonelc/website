@@ -15,11 +15,13 @@ education:
     year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
 interests:
-- Cultural and cognitive sociology
+- Cultural sociology
+- Media Psychology
 - Music
+- Success
 - Meritocracy
 - Social inequalities
-- Methods and open science
+- Methodologies
 name: Luca Carbone
 organizations:
 - name: KU Leuven
@@ -46,6 +48,8 @@ user_groups:
 - PhD students
 ---
 
-I am a PhD student at the School for Mass Communication Research, KU Leuven (BE). My research interests lie at the intersection of cultural and cognitive sociology, media effects research, and the study of inequalities.
-From a theoretical point of view, I study how socialization processes among adolescents might shape the formation of their beliefs about inequalities. Drawing from cultural sociology, I study how the socially-stratified access and engagement with prestigious symbolic goods (i.e., music genres) might act as a form of cultural differentiation. Drawing from the media effects literature, I study how music portrays social status and the possible routes through which these portrayals influence adolescents beliefs.
-Empirically, I employ quantitative methodologies, such as social network analysis, structural equation modelling, and computational text analysis. I am committed to an open science framework and mindset.
+Welcome,
+
+I am Luca, PhD student at the [School for Mass Communication Research](https://soc.kuleuven.be/smc), KU Leuven (BE), where I am part of the ERC project [MIMIc](https://www.projectmimic.eu). My research focuses on the production of narratives about success in contemporary mainstream cultural products--with a specific focus on music--and their internalization processes among adolescents.
+
+My research interests lie at the intersection of cultural sociology (cultural objects, symbolic boundaries), media psychology (entertainment, framing), social and media theory (resonance, (post-)Bourdieusian theory, intersectionality, cultivation, narrative persuasion). I use a wide variety of methodologies, dependently on the specific project at hand. Currently, I mostly employ quantitative and computational methods (e.g., SEM, FA, computational text analysis, social network analysis). In my previous research, I also employed historico-archival (with digital and library material) and impact evaluation methodologies (e.g., diff-in-diff).
