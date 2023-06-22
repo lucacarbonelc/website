@@ -56,6 +56,12 @@ GPA 28.74/30, 110 cum laude
 
 ## Peer-reviewed articles
 
+__Carbone, L.__ & Vandenbosch, L. (2023). A Meta-Analysis of Studies Examining the Effect of Music on Beliefs *Communication Research*. [https://doi.org/10.1177/00936502231163633](https://doi.org/10.1177/00936502231163633)
+\newline
+
+Grusauskaite, K., __Carbone, L.__, Harambam, J., & Aupers, S. (2023). Debating (In) Echo Chambers: How People Read Conspiracy Theory Videos On YouTube *New Media & Society*. [https://doi.org/10.1177/14614448231162585](https://doi.org/10.1177/14614448231162585). Finalist in the ICA Popular Media & Culture division’s Top Paper Award in 2022 (out of 229 total papers).
+\newline
+
 Rosič J., Janicke-Bowles S.H., __Carbone, L.__, Lobe B., Vandenbosch L. (2022). Positive Digital Communication Among Youth: The Development and Validation of the Digital Flourishing Scale for Adolescents *Frontiers Digital Health*. [https://doi.org/10.3389/fdgth.2022.975557](https://doi.org/10.3389/fdgth.2022.975557).
 \newline
 
@@ -67,21 +73,15 @@ __Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring
 
 ## Book Chapters
 
+Kuipers, Giselinde, Brans, Luuc, __Carbone, Luca__: "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" (in publication)
+\newline
+
 __Carbone, Luca__ .2019. "Il mercato comunicativo su Twitter nelle europee 2019."" In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (56-63). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
 
 __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle europee 2019." In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (65-73). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
 \newline
 
-Kuipers, Giselinde, Brans, Luuc, __Carbone, Luca__: "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" (in publication)
-\newline
-
 ## Work in progress
-
-__Carbone, Luca__ & Vandenbosch, Laura: "A Meta-Analysis of Studies Examining the Effect of Music on Beliefs" (R&R with minor revisions)
-\newline
-
-Grusauskaite, Kamile, __Carbone, Luca__, Harambam, Jaron, & Aupers, Stef: "Debating (In) Echo Chambers: How People Read Conspiracy Theory Videos On YouTube" (R&R with major revisions). Finalist in the ICA Popular Media & Culture division’s Top Paper Award in 2022 (out of 229 total papers).
-\newline
 
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
 \newline
@@ -107,7 +107,7 @@ __Carbone, Luca__, Klimmt, Christoph, & Vandenbosch, Laura: "The Development of 
 Vandenbosch, Laura, __Carbone, Luca__, Noon, Ed: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Drafting)
 \newline
 
-__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Tracking or Trailing? The Eurovision event and its relationships with public opinions." (Drafting)
+__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Leading or Trailing? Eurovision and the Resonant Duality of Mediated Mega Events" (Drafting)
 \newline
 
 ## Other Publications
@@ -173,7 +173,7 @@ Chair session on Class and Status at 21st IASPM Annual Meeting.
 ## Occasional Reviewer
 Journal for the Theory of Social Behaviour
 
-## Memberships & affiliations
+## Memberships & Affiliations
 International Association for the Study of Popular Music (IASPM). \hfill \begingroup\small 2022-present\endgroup
 
 International Communication Association (ICA). \hfill \begingroup\small 2022-present\endgroup
@@ -187,9 +187,11 @@ KU Leuven Digital Society Institute. \hfill \begingroup\small 2021-present\endgr
 KU Leuven Youth Institute. \hfill \begingroup\small 2021-present\endgroup
 
 ## Research stays
-Research stay hosted by Dr. Hyunjin Song at Yonsei University. \hfill \begingroup\small July 2022\endgroup
+Research stay hosted by Prof. Michèle Lamont at Harvard University. \hfill \begingroup\small Spring 2024\endgroup
 
-Research stay hosted by Dr. Eric Lybeck at Exeter University. \hfill \begingroup\small June-August 2018\endgroup
+Research stay hosted by Prof. Hyunjin Song at Yonsei University. \hfill \begingroup\small July 2022\endgroup
+
+Research stay hosted by Prof. Eric Lybeck at Exeter University. \hfill \begingroup\small June-August 2018\endgroup
 
 ## Faculty Services
 *Co-Director* of MethLab\hfill \begingroup\small September 2020-present\endgroup\
@@ -263,6 +265,7 @@ Teaching assistant\
 R (Advanced)\
 Markdown (Intermediate)\
 Python (Intermediate)\
+Mplus (Basic)\
 HTML (Basic)\
 CSS (Basic)
 \newline
@@ -270,8 +273,8 @@ CSS (Basic)
 ## Languages
 Italian (Native speaker)\
 English (Full professional proficiency)\
+French (Intermediate proficiency)
 Spanish (Elementary proficiency)\
-French (Elementary proficiency)
 \newline
 
 ## Additional training
