@@ -46,7 +46,7 @@ GPA 28.74/30, 110 cum laude
 
 **Cultural/cognitive sociology and inequalities**: cultural (re)production; socio-aesthetic hierarchies; success, meritocracy, individualism, and social status; boundary-making processes; public and personal forms of culture.\
 
-**Media psychology**: media entertainment; resonance theory; media frames; cultivation theory.\
+**Mass communication**: media entertainment; resonance theory; media frames; cultivation theory.\
 
 **Advanced quantitative research methods**: computational social science methods, including statistical inference in networks (ERGM), text as data (structural topic modeling); structural equation modeling; multilevel analysis; factor analysis and data reduction.
 
@@ -95,7 +95,7 @@ Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie, & Vandenbosch, Laura:
 Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura: "Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale" (Under review)
 \newline
 
-__Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music identity in the streaming era" (Drafting)
+__Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music identity in the streaming era" (Under Review)
 \newline
 
 __Carbone, Luca__, Klimmt, Christoph, Schaap, Julian, & Vandenbosch, Laura: "Resonant Mediated Experiences: Towards an Integrated Approach of Media-Psychological and Cultural Sociological Theories of Resonance" (Drafting)
@@ -200,17 +200,19 @@ Research stay hosted by Prof. Eric Lybeck at Exeter University. \hfill \begingro
 *Member* of Diversity and Sustainability Commission at KU Leuven (FSW)\hfill \begingroup\small April 2021- present\endgroup\
 
 *Supervisor* MA thesis students:\newline
-- Hong Zhan\hfill \begingroup\small 2021\endgroup\
-- Sarah Pans\hfill \begingroup\small 2022\endgroup\
-- Kyra Bulinckx\hfill \begingroup\small 2022\endgroup\
-- Diana-Teodora Gaitan\hfill \begingroup\small 2022\endgroup\
-- Dan Ding\hfill \begingroup\small 2022\endgroup\
-- Maria Stefania Popa\hfill \begingroup\small 2022\endgroup\
-- Ngoc Diep Nguyen\hfill \begingroup\small 2022\endgroup\
+- Diana-Teodora Gaitan\hfill \begingroup\small 2022-2023\endgroup\
+- Dan Ding\hfill \begingroup\small 2022-2023\endgroup\
+- Maria Stefania Popa\hfill \begingroup\small 2022-2023\endgroup\
+- Ngoc Diep Nguyen\hfill \begingroup\small 2022-2023\endgroup\
+- Sarah Pans\hfill \begingroup\small 2021-2022\endgroup\
+- Kyra Bulinckx\hfill \begingroup\small 2021-2022\endgroup\
+- Hong Zhan\hfill \begingroup\small 2020-2021\endgroup\
 
 *Supervisor* job students:\newline
-- Rana Rafeh\hfill \begingroup\small 2022\endgroup\
-- Tam Nguyen\hfill \begingroup\small 2022\endgroup\
+- Atri Mukherjee\hfill \begingroup\small 2023\endgroup\
+- Bo Vanhoof\hfill \begingroup\small 2023\endgroup\
+- Rana Rafeh\hfill \begingroup\small 2022-2023\endgroup\
+- Tam Nguyen\hfill \begingroup\small 2022-2023\endgroup\
 - Silke Vereeken\hfill \begingroup\small 2021\endgroup\
 - Annelies Rom\hfill \begingroup\small 2021\endgroup\
 

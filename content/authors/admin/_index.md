@@ -16,11 +16,13 @@ education:
 email: "lucacarbone.lc@gmail.com"
 interests:
 - Cultural sociology
-- Media Psychology
+- Media psychology
 - Music
+- Adolescents
+- Resonance
 - Success
 - Meritocracy
-- Social inequalities
+- Intersectionality of gender, race/ethnicity, nationality
 - Methodologies
 name: Luca Carbone
 organizations:
