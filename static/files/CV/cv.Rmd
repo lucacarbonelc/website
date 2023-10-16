@@ -5,7 +5,7 @@ email: luca.carbone@kuleuven.be
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/university/website/static/files/CV/svm-latex-cv.tex
+    template: ~/Documents/olDropbox/university/website/static/files/CV/svm-latex-cv.tex
   html_document:
     df_print: paged
 fontfamily: mathpazo
@@ -132,9 +132,7 @@ Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begin
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-POP Talks (IASPM Benelux), Leuven \hfill \begingroup\small 2023\endgroup
-
-Wetenschapsfestival 2023, Brussel \hfill \begingroup\small 2023\endgroup
+Current Research on Popular Music IN Belgium (IASPM Benelux), Leuven \hfill \begingroup\small 2023\endgroup
 
 # Conference Presentations
 \vspace{-10pt}
@@ -188,7 +186,7 @@ Netherlands – Flanders Communication Association (NeFCA). \hfill \begingroup\s
 
 American Sociological Association (ASA). \hfill \begingroup\small 2021-present\endgroup
 
-KU Leuven Digital Society Institute. \hfill \begingroup\small 2021-present\endgroup
+KU Leuven Digital Society Institute (DigSoc). \hfill \begingroup\small 2021-present\endgroup
 
 KU Leuven Youth Institute. \hfill \begingroup\small 2021-present\endgroup
 
