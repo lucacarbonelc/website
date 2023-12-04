@@ -5,7 +5,7 @@ email: luca.carbone@kuleuven.be
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Documents/olDropbox/university/website/static/files/CV/svm-latex-cv.tex
+    template: ~/Dropbox/university/website/static/files/CV/svm-latex-cv.tex
   html_document:
     df_print: paged
 fontfamily: mathpazo
@@ -56,7 +56,7 @@ GPA 28.74/30, 110 cum laude
 
 ## Peer-reviewed articles
 
-Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura. (2023). Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale, (in publication at Journal of Children and Media)
+Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura. (2023). Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale, *Journal of Children and Media*. [https://t.co/7KCSIGXBiW](https://t.co/7KCSIGXBiW)
 \newline
 
 __Carbone, L.__ & Vandenbosch, L. (2023). A Meta-Analysis of Studies Examining the Effect of Music on Beliefs, *Communication Research*. [https://doi.org/10.1177/00936502231163633](https://doi.org/10.1177/00936502231163633)
@@ -76,7 +76,7 @@ __Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring
 
 ## Book Chapters
 
-Kuipers, Giselinde, Brans, Luuc, __Carbone, Luca__: "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" (https://books.google.be/books?id=t9DSEAAAQBAJ&dq)
+Kuipers, Giselinde, Brans, Luuc, __Carbone, Luca__: "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system", Routledge. (https://books.google.be/books?id=t9DSEAAAQBAJ&dq)
 \newline
 
 __Carbone, Luca__ .2019. "Il mercato comunicativo su Twitter nelle europee 2019."" In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (56-63). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
@@ -98,16 +98,19 @@ Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie, & Vandenbosch, Laura:
 __Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music identity in the streaming era" (Under Review)
 \newline
 
+__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Towards a Sociology of Recurrent Events. Constellations of Cultural Change around Eurovision in 18 Countries (1981 – 2021)" (Under Review)
+\newline
+
+Noon, Edward, __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Under Review)
+\newline
+
 __Carbone, Luca__, Klimmt, Christoph, Schaap, Julian, & Vandenbosch, Laura: "Resonant Mediated Experiences: Towards an Integrated Approach of Media-Psychological and Cultural Sociological Theories of Resonance" (Drafting)
 \newline
 
 __Carbone, Luca__, Klimmt, Christoph, & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Identification and Similarity with Music Artists: A Biographic Resonance Account" (Drafting)
 \newline
 
-Vandenbosch, Laura, __Carbone, Luca__, Noon, Ed: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Drafting)
-\newline
-
-__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Leading or Trailing? Eurovision and the Resonant Duality of Mediated Mega Events" (Drafting)
+__Carbone, Luca__ & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Transportation with Music Narratives" (Drafting)
 \newline
 
 ## Other Publications
@@ -132,7 +135,7 @@ Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begin
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Current Research on Popular Music IN Belgium (IASPM Benelux), Leuven \hfill \begingroup\small 2023\endgroup
+Current Research on Popular Music in Belgium (IASPM Benelux), Leuven \hfill \begingroup\small 2023\endgroup
 
 # Conference Presentations
 \vspace{-10pt}
@@ -172,7 +175,8 @@ Chair session on Class and Status at 21st IASPM Annual Meeting.
 
 ## Occasional Reviewer
 Journal for the Theory of Social Behaviour \newline
-American Behavioral Scientist
+American Behavioral Scientist \newline
+Social Forces
 
 ## Memberships & Affiliations
 
@@ -201,9 +205,10 @@ Research stay hosted by Prof. Eric Lybeck at Exeter University. \hfill \begingro
 *Co-Director* of MethLab\hfill \begingroup\small September 2020-present\endgroup\
 *[Meth-Lab](https://soc.kuleuven.be/fsw/doctoralprogramme/meth-lab) is a bottom-up initiative created by Lala Muradova and Amélie Godefroidt at KU Leuven for the sharing and presentation of novel methodological techniques. As a co-director, I am responsible for contacting and welcoming national and international speakers, the organization of the meetings, the promotion of the events, and the management of finances.*
 
-*Member* of Diversity and Sustainability Commission at KU Leuven (FSW)\hfill \begingroup\small April 2021- present\endgroup\
+*Member* of Diversity and Sustainability Commission at KU Leuven (FSW)\hfill \begingroup\small April 2021 - September 2023\endgroup\
 
 *Supervisor* MA thesis students:\newline
+- Sam Samad\hfill \begingroup\small 2023-2024\endgroup\
 - Diana-Teodora Gaitan\hfill \begingroup\small 2022-2023\endgroup\
 - Dan Ding\hfill \begingroup\small 2022-2023\endgroup\
 - Maria Stefania Popa\hfill \begingroup\small 2022-2023\endgroup\
@@ -215,26 +220,10 @@ Research stay hosted by Prof. Eric Lybeck at Exeter University. \hfill \begingro
 *Supervisor* job students:\newline
 - Atri Mukherjee\hfill \begingroup\small 2023\endgroup\
 - Bo Vanhoof\hfill \begingroup\small 2023\endgroup\
-- Rana Rafeh\hfill \begingroup\small 2022-2023\endgroup\
 - Tam Nguyen\hfill \begingroup\small 2022-2023\endgroup\
+- Rana Rafeh\hfill \begingroup\small 2022\endgroup\
 - Silke Vereeken\hfill \begingroup\small 2021\endgroup\
 - Annelies Rom\hfill \begingroup\small 2021\endgroup\
-
-# Research Experience
-\vspace{-10pt}
-\rule{1\linewidth}{\linethickness}
-
-Department of Sociology, Tilburg University \hfill \begingroup\small March 2019 – September 2019\endgroup\
-Research assistant, Supervisor: Prof. dr. Ruud Muffels\
-*Research on basic income in the Netherlands.*
-
-Research Institute Carlo Cattaneo, Bologna \hfill \begingroup\small January 2019 – June 2019\endgroup\
-Research collaborator\
-*Political discourses on Twitter.*
-
-Research Institute IRVAPP, Trento \hfill \begingroup\small February 2017 – May 2017\endgroup\
-Research internship, Supervisor: Dr. Sonia Marzadro\
-*Evaluation of social policies for the European project Youth Guarantee.*
 
 # Teaching Experience
 \vspace{-10pt}
@@ -256,6 +245,22 @@ Teaching assistant\
 Department of Methodology & Statistics, Tilburg University \hfill \begingroup\small February 2017 – June 2017\endgroup\
 Teaching assistant\
 *Courses: Introduction to Statistics, Questionnaire design, Experimental design*
+
+# Research Experience
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Department of Sociology, Tilburg University \hfill \begingroup\small March 2019 – September 2019\endgroup\
+Research assistant, Supervisor: Prof. dr. Ruud Muffels\
+*Research on basic income in the Netherlands.*
+
+Research Institute Carlo Cattaneo, Bologna \hfill \begingroup\small January 2019 – June 2019\endgroup\
+Research collaborator\
+*Political discourses on Twitter.*
+
+Research Institute IRVAPP, Trento \hfill \begingroup\small February 2017 – May 2017\endgroup\
+Research internship, Supervisor: Dr. Sonia Marzadro\
+*Evaluation of social policies for the European project Youth Guarantee.*
 
 # Software
 \vspace{-10pt}
@@ -303,16 +308,6 @@ Summer School at CWST Center, Leiden University \hfill \begingroup\small August,
 Seminar on The Path to Quantitative Research, University of Trento \hfill \begingroup\small 2016\endgroup\
 *Factor analysis and counterfactual techniques for impact evaluation*
 \newline
-
-## Social causes
-Volunteering for Cultuur en Ontspanningscentrum \hfill \begingroup\small April 2019 – June 2019\endgroup\
-*The mission is to integrate sexual orientations, gender identities, gender expression, and sex characteristics of sexual and gender minority groups into the social norm through social activism, education, support, and representation.*
-
-Volunteering for “L’Universitario” \hfill \begingroup\small September 2016 – June 2017\endgroup\
-*Founder of this university newspaper and director section “Scientific Divulgation”.*
-
-Volunteering for Arci \hfill \begingroup\small June 2014 – July 2014\endgroup\
-*Requalification of terrains confiscated to mafia with the project “Campi della Legalità”.*
 
 # References
 \vspace{-10pt}
