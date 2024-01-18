@@ -40,15 +40,23 @@ Awarded best student, GPA 8.41/10, cum laude
 B.A. Sociology\
 GPA 28.74/30, 110 cum laude
 
+# Affiliations
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Department of Sociology, Harvard University [profile](https://sociology.fas.harvard.edu/people/luca-carbone)  \hfill \begingroup\small 2023-2024\endgroup
+
+Weatherhead Cluster on Comparative Inequality and Inclusion, Harvard University [profile](https://inequality.wcfia.harvard.edu/people/luca-carbone-0)  \hfill \begingroup\small 2023-2024\endgroup
+
 # Research interests
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-**Cultural/cognitive sociology and inequalities**: cultural (re)production; socio-aesthetic hierarchies; success, meritocracy, individualism, and social status; boundary-making processes; public and personal forms of culture.\
+**Cultural/cognitive sociology and inequalities**: cultural (re)production; youths & adolescents; socio-aesthetic hierarchies; success, meritocracy, individualism, and social status; boundary-making processes; public and personal forms of culture.\
 
-**Mass communication**: media entertainment; resonance theory; media frames; cultivation theory.\
+**Mass communication**: music; resonance theory; media entertainment; media frames; cultivation theory.\
 
-**Advanced quantitative research methods**: computational social science methods, including statistical inference in networks (ERGM), text as data (structural topic modeling); structural equation modeling; multilevel analysis; factor analysis and data reduction.
+**Advanced quantitative research methods**: computational social science, including statistical inference in networks (ERGM), text as data (structural topic modeling); structural equation modeling (RI-CLPM); multilevel analysis; scale development and factor analysis.
 
 # Publications
 \vspace{-10pt}
@@ -89,25 +97,25 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
 \newline
 
-__Carbone, Luca__, Alvarez-Cueva, Priscila, & Vandenbosch, Laura: "“I know I'm a queen, but I don't need no crown”: Intersectional Representations of Social Status in Popular Music Lyrics" (Under review)
+__Carbone, Luca__, Alvarez-Cueva, Priscila, & Vandenbosch, Laura: "Intersectional Representations of Social Status in Popular Music Lyrics" (Under review - major revisions)
 \newline
 
 Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie, & Vandenbosch, Laura: "From Affordance to Affair: Exploring the Relationships between Online Sexual Activities and Online Infidelity Behaviors" (Under review)
 \newline
 
-__Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music identity in the streaming era" (Under Review)
+__Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music identity in the streaming era" (Under Review - major revisions)
 \newline
 
 __Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Towards a Sociology of Recurrent Events. Constellations of Cultural Change around Eurovision in 18 Countries (1981 – 2021)" (Under Review)
 \newline
 
-Noon, Edward, __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Under Review)
+Noon, Edward, __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Under Review - major revisions)
+\newline
+
+__Carbone, Luca__, Klimmt, Christoph, & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Identification and Similarity with Music Artists: A Biographic Resonance Account" (Under review)
 \newline
 
 __Carbone, Luca__, Klimmt, Christoph, Schaap, Julian, & Vandenbosch, Laura: "Resonant Mediated Experiences: Towards an Integrated Approach of Media-Psychological and Cultural Sociological Theories of Resonance" (Drafting)
-\newline
-
-__Carbone, Luca__, Klimmt, Christoph, & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Identification and Similarity with Music Artists: A Biographic Resonance Account" (Drafting)
 \newline
 
 __Carbone, Luca__ & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Transportation with Music Narratives" (Drafting)
@@ -176,11 +184,10 @@ Chair session on Class and Status at 21st IASPM Annual Meeting.
 ## Occasional Reviewer
 Journal for the Theory of Social Behaviour \newline
 American Behavioral Scientist \newline
-Social Forces
+Social Problems \newline
+New Media & Society
 
-## Memberships & Affiliations
-
-Weatherhead Cluster on Comparative Inequality and Inclusion at Harvard University [profile](https://inequality.wcfia.harvard.edu/people/luca-carbone-0)  \hfill \begingroup\small 2023-2024\endgroup
+## Memberships
 
 International Association for the Study of Popular Music (IASPM). \hfill \begingroup\small 2022-present\endgroup
 
@@ -188,13 +195,14 @@ International Communication Association (ICA). \hfill \begingroup\small 2022-pre
 
 Netherlands – Flanders Communication Association (NeFCA). \hfill \begingroup\small 2020-present\endgroup
 
-American Sociological Association (ASA). \hfill \begingroup\small 2021-present\endgroup
-
 KU Leuven Digital Society Institute (DigSoc). \hfill \begingroup\small 2021-present\endgroup
 
 KU Leuven Youth Institute. \hfill \begingroup\small 2021-present\endgroup
 
+American Sociological Association (ASA). \hfill \begingroup\small 2021-2022\endgroup
+
 ## Research stays
+
 Research stay hosted by Prof. Michèle Lamont at Harvard University. \hfill \begingroup\small Spring 2024\endgroup
 
 Research stay hosted by Prof. Hyunjin Song at Yonsei University. \hfill \begingroup\small July 2022\endgroup
@@ -202,6 +210,7 @@ Research stay hosted by Prof. Hyunjin Song at Yonsei University. \hfill \begingr
 Research stay hosted by Prof. Eric Lybeck at Exeter University. \hfill \begingroup\small June-August 2018\endgroup
 
 ## Faculty Services
+
 *Co-Director* of MethLab\hfill \begingroup\small September 2020-present\endgroup\
 *[Meth-Lab](https://soc.kuleuven.be/fsw/doctoralprogramme/meth-lab) is a bottom-up initiative created by Lala Muradova and Amélie Godefroidt at KU Leuven for the sharing and presentation of novel methodological techniques. As a co-director, I am responsible for contacting and welcoming national and international speakers, the organization of the meetings, the promotion of the events, and the management of finances.*
 
@@ -262,17 +271,20 @@ Research Institute IRVAPP, Trento \hfill \begingroup\small February 2017 – May
 Research internship, Supervisor: Dr. Sonia Marzadro\
 *Evaluation of social policies for the European project Youth Guarantee.*
 
-# Software
-\vspace{-10pt}
-\rule{1\linewidth}{\linethickness}
-`chorrrds`: Music chords extraction - Collaborator\
-*Available at: https://CRAN.R-project.org/package=chorrrds*
-
 # Skills
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
+## Languages
+
+Italian (Native speaker)\
+English (Full professional proficiency)\
+French (Intermediate proficiency)
+Spanish (Elementary proficiency)\
+\newline
+
 ## Programming Languages & Softwares
+
 R (Advanced)\
 Markdown (Intermediate)\
 Python (Intermediate)\
@@ -281,14 +293,11 @@ HTML (Basic)\
 CSS (Basic)
 \newline
 
-## Languages
-Italian (Native speaker)\
-English (Full professional proficiency)\
-French (Intermediate proficiency)
-Spanish (Elementary proficiency)\
-\newline
+`chorrrds`: Music chords extraction - Collaborator\
+*Available at: https://CRAN.R-project.org/package=chorrrds*
 
 ## Additional training
+
 Summer School Diversity in Arts, Culture and Media Studies, Erasmus University Rotterdam \hfill \begingroup\small June, 2022\endgroup\
 *Critical, feminist, and intersectional approaches*
 
@@ -313,4 +322,4 @@ Seminar on The Path to Quantitative Research, University of Trento \hfill \begin
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Available under request.
+Available upon request.
