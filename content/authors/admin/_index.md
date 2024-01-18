@@ -27,7 +27,9 @@ interests:
 name: Luca Carbone
 organizations:
 - name: KU Leuven
-  url: "https://soc.kuleuven.be/smc"
+  url: "https://soc.kuleuven.be/smc/staff/00135858"
+- name: Harvard University
+  url: "https://sociology.fas.harvard.edu/people/luca-carbone"
 role: Empirical Social Scientist
 social:
 - icon: envelope
