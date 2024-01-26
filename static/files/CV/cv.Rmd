@@ -106,7 +106,7 @@ Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie, & Vandenbosch, Laura:
 __Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music identity in the streaming era" (Under Review - major revisions)
 \newline
 
-__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Towards a Sociology of Recurrent Events. Constellations of Cultural Change around Eurovision in 18 Countries (1981 – 2021)" (Under Review)
+__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Towards a Sociology of Recurrent Events. Constellations of Cultural Change around Eurovision in 18 Countries (1981 – 2021)" (Under Review - major revisions)
 \newline
 
 Noon, Edward, __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Under Review - major revisions)
@@ -137,11 +137,17 @@ University of Chicago, scholarship & Dean’s fellowship ($31,500).
 \hfill \begingroup\small 2019-2020 \endgroup\
 *(declined due to insufficient financial resources to enroll in the program)*
 
-Tilburg University, visiting fund at Exeter University (€1000).  \hfill \begingroup\small June-August 2018\endgroup
+Tilburg University, visiting fund at Exeter University (€1,000).  \hfill \begingroup\small June-August 2018\endgroup
 
 # Invited Talks
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+Seminar on Music and Meritoracy, BA Communication Sociology, University of Vienna \hfill \begingroup\small 2024\endgroup
+
+CII Seminar "Meritocracy and Inequality", Weatherhead Center for International Affairs, Harvarrd University  \hfill \begingroup\small 2024\endgroup
+
+Talk "Meritocracy and Inequality", Harvard Culture and Social Analysis Workshop, Harvard University  \hfill \begingroup\small 2024\endgroup
 
 Current Research on Popular Music in Belgium (IASPM Benelux), Leuven \hfill \begingroup\small 2023\endgroup
 
@@ -178,8 +184,11 @@ Day of Sociology, Amsterdam. \hfill \begingroup\small 2019\endgroup
 \rule{1\linewidth}{\linethickness}
 
 ## Academic Service
-Presider roundtable cultural sociology (section on Meritocracy) at 116th ASA Virtual Annual Meeting. \newline
-Chair session on Class and Status at 21st IASPM Annual Meeting.
+Chair session on Meritocracy, Alumni Conference, Weatherhead Center for International Affairs, Harvard University. \hfill \begingroup\small 2024\endgroup
+
+Chair session on Class and Status at 21st IASPM Annual Meeting, Daegu, South Korea. \hfill \begingroup\small 2022\endgroup
+
+Presider roundtable cultural sociology (section on Meritocracy) at 116th ASA Virtual Annual Meeting, online.  \hfill \begingroup\small 2022\endgroup
 
 ## Occasional Reviewer
 Journal for the Theory of Social Behaviour \newline
@@ -260,11 +269,11 @@ Teaching assistant\
 \rule{1\linewidth}{\linethickness}
 
 Department of Sociology, Tilburg University \hfill \begingroup\small March 2019 – September 2019\endgroup\
-Research assistant, Supervisor: Prof. dr. Ruud Muffels\
+Research assistant, Supervisor: Prof. Dr. Ruud Muffels\
 *Research on basic income in the Netherlands.*
 
 Research Institute Carlo Cattaneo, Bologna \hfill \begingroup\small January 2019 – June 2019\endgroup\
-Research collaborator\
+Research collaborator, Supervisor: Dr. Marco Valbruzzi\
 *Political discourses on Twitter.*
 
 Research Institute IRVAPP, Trento \hfill \begingroup\small February 2017 – May 2017\endgroup\
@@ -297,6 +306,10 @@ CSS (Basic)
 *Available at: https://CRAN.R-project.org/package=chorrrds*
 
 ## Additional training
+
+Auditor "Cultural Processes in the Production of Inequality" (instructor: M. Lamont), Department of Sociology, Harvard University \hfill \begingroup\small January-April, 2024\endgroup\
+
+Auditor "Qualitative Social Analysis" (instructor: M. Lamont), Department of Sociology, Harvard University \hfill \begingroup\small January-April, 2024\endgroup\
 
 Summer School Diversity in Arts, Culture and Media Studies, Erasmus University Rotterdam \hfill \begingroup\small June, 2022\endgroup\
 *Critical, feminist, and intersectional approaches*
