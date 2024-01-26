@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Dissertation"
-subtitle = "*Spotify Killed the Video Stars? Representations of Success in Popular Music and their Internalization among Belgian Adolescents*"
+subtitle = "*Music Success Narratives and their Internalization Pathways among Adolescents*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
