@@ -11,7 +11,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: [music&meritocracy, mimic]
+projects: [mimic]
 publication: ""
 publication_short: ""
 publication_types:
