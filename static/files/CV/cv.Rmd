@@ -29,7 +29,7 @@ web: www.lucacarbone.com
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
 Ph.D. Social Sciences - ERC starting grant\
 Promoter: Laura Vandenbosch\
-PhD committee: Steven Eggermont, Giselinde Kuipers, Tom ter Bogt\
+PhD committee: Steven Eggermont, Giselinde Kuipers, Tom ter Bogt, Stef Aupers, Michèle Lamont\
 [Project website](http://www.projectmimic.eu)
 
 *Tilburg University, NL* \hfill \begingroup\small 2017-2019\endgroup\
