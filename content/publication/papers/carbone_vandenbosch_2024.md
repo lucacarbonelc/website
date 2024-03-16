@@ -21,7 +21,7 @@ summary:
 tags:
 - Adolescents
 - Music streaming platforms
-_ Music
+- Music
 - Cultural hierarchies
 - Taste profiles
 - Gender
