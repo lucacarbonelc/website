@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [mimic]
-publication: ""
+publication: "Cultural Sociology"
 publication_short: ""
 publication_types:
 - "2"

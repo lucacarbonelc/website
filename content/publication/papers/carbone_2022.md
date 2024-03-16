@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [music&meritocracy]
-publication: ""
+publication: "New Media & Society"
 publication_short: ""
 publication_types:
 - "2"
