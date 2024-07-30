@@ -1,0 +1,621 @@
+\sloppy
+\documentclass[12pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Luca Carbone - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Luca Carbone:  CV (Curriculum Vitae)},
+            pdfauthor={Luca Carbone},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+\begin{document}
+
+
+\centerline{\huge \bf Luca Carbone}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{KU Leuven, Department of Mass
+Communication}
+\moveleft.5\hoffset\centerline{Parkstraat 45 · 3000 Leuven · Belgium}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:luca.carbone@kuleuven.be}{\nolinkurl{luca.carbone@kuleuven.be}}} \hspace{1 mm}  \faPhone \hspace{1 mm}  +32
+16 37 24
+05  \hspace{1 mm}      \faGlobe \hspace{1 mm} \href{http://www.lucacarbone.com}{\tt www.lucacarbone.com}   } 
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+\emph{KU Leuven, BE} \hfill \begingroup\small 2020-2024\endgroup\\
+Ph.D.~Social Sciences - ERC starting grant\\
+Promoter: Laura Vandenbosch\\
+PhD committee: Steven Eggermont, Giselinde Kuipers, Tom ter Bogt, Stef
+Aupers, Michèle Lamont\\
+\href{http://www.projectmimic.eu}{Project website}
+
+\emph{Tilburg University, NL}
+\hfill \begingroup\small 2017-2019\endgroup\\
+M.Sc. (Res.) Social Sciences\\
+Awarded best student, GPA 8.41/10, cum laude
+
+\emph{University of Trento, IT}
+\hfill \begingroup\small 2014-2017\endgroup\\
+B.A. Sociology\\
+GPA 28.74/30, 110 cum laude
+
+\hypertarget{affiliations}{%
+\section{Affiliations}\label{affiliations}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Department of Sociology, Harvard University
+\href{https://sociology.fas.harvard.edu/people/luca-carbone}{profile}
+\hfill \begingroup\small 2023-2024\endgroup
+
+Weatherhead Cluster on Comparative Inequality and Inclusion, Harvard
+University
+\href{https://inequality.wcfia.harvard.edu/people/luca-carbone-0}{profile}
+\hfill \begingroup\small 2023-2024\endgroup
+
+\hypertarget{research-interests}{%
+\section{Research interests}\label{research-interests}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+music; youths; resonance theory; success; meritocracy; masculinities;
+role models; beliefs; mental health; computational social science;
+content analysis; mixed-methods
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+\hypertarget{peer-reviewed-articles}{%
+\subsection{Peer-reviewed articles}\label{peer-reviewed-articles}}
+
+\textbf{Carbone, L.}, \& Vandenbosch, L. (2024). Adolescents' Music
+Tastes in the Streaming Era: The Case of Belgium. Cultural Sociology,
+1--21. \url{https://doi.org/10.1177/17499755241244529/newline}
+
+Noon, E. J., \textbf{Carbone, L.}, Swinnen, B., \& Vandenbosch, L.
+(2024). Adolescents' videogame play, need satisfaction, and self-esteem:
+A self-determination perspective. \emph{Current Psychology}.
+\url{https://doi.org/10.1007/s12144-024-05933-6} \newline
+
+Rosič, Jasmina, \textbf{Carbone, Luca}, Vanden Abeele, Mariek, Lobe,
+Bojana, \& Vandenbosch, Laura. (2023). Measuring Adolescents' Digital
+Well-Being in Everyday Life: The Perceived Digital Balance in
+Adolescence Scale, \emph{Journal of Children and Media}.
+\url{https://t.co/7KCSIGXBiW} \newline
+
+\textbf{Carbone, L.} \& Vandenbosch, L. (2023). A Meta-Analysis of
+Studies Examining the Effect of Music on Beliefs, \emph{Communication
+Research}. \url{https://doi.org/10.1177/00936502231163633} \newline
+
+Grusauskaite, K., \textbf{Carbone, L.}, Harambam, J., \& Aupers, S.
+(2023). Debating (In) Echo Chambers: How People Read Conspiracy Theory
+Videos On YouTube, \emph{New Media \& Society}.
+\url{https://doi.org/10.1177/14614448231162585}. Finalist in the ICA
+Popular Media \& Culture division's Top Paper Award in 2022 (out of 229
+total papers). \newline
+
+Rosič J., Janicke-Bowles S.H., \textbf{Carbone, L.}, Lobe B.,
+Vandenbosch L. (2022). Positive Digital Communication Among Youth: The
+Development and Validation of the Digital Flourishing Scale for
+Adolescents, \emph{Frontiers Digital Health}.
+\url{https://doi.org/10.3389/fdgth.2022.975557}. \newline
+
+\textbf{Carbone, L.} (2022). Book Review: `Getting Signed: Record
+Contracts, Musicians, and Power in Society.', \emph{New Media \&
+Society}. \url{https://doi.org/10.1177/14614448221101210}. \newline
+
+\textbf{Carbone, L.} \& Mijs, J. (2022). Sounds like meritocracy to my
+ears: Exploring the link between inequality in popular music and
+personal culture, \emph{Information, Communication \& Society}.
+\url{https://doi.org/10.1080/1369118X.2021.2020870}. Pre-print available
+\href{https://t.co/znOwdcxRO2?amp=1}{here}. Data, syntax, appendix, and
+pre-registration available on \href{https://osf.io/5427t/}{OSF}.
+Trending paper in Communication and Sociology Altmetrics on 10th January
+2022 \href{https://t.co/6jLlFffvFT}{OOIR} \newline
+
+\hypertarget{book-chapters}{%
+\subsection{Book Chapters}\label{book-chapters}}
+
+Kuipers, Giselinde, Brans, Luuc, \textbf{Carbone, Luca}: ``The myth of
+trickle down. How fashions do (not) spread in European fashion
+magazines, and what this tells us about power and status in the global
+fashion system'', Routledge.
+(\url{https://books.google.be/books?id=t9DSEAAAQBAJ\&dq}) \newline
+
+\textbf{Carbone, Luca} .2019. ``Il mercato comunicativo su Twitter nelle
+europee 2019.'''' In: Valbruzzi, Marco (Ed.) \emph{L'Italia sovranista e
+la sfida all'Europa. Le elezioni europee ed amministrative 2019}
+(56-63). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778\_41
+
+\textbf{Carbone, Luca} .2019. ``Twitter come mercato comunicativo?
+Un'analisi sulle europee 2019.'' In: Valbruzzi, Marco (Ed.)
+\emph{L'Italia sovranista e la sfida all'Europa. Le elezioni europee ed
+amministrative 2019} (65-73). Bologna: Istituto Carlo Cattaneo. DOI:
+10.31484/2611-5778\_41 \newline
+
+\hypertarget{work-in-progress}{%
+\subsection{Work in progress}\label{work-in-progress}}
+
+\textbf{Carbone, Luca}, Vandenbosch, Laura, \& Song, Hyunjin (Yonsei
+University): ``The Sound of Meritocracy: A Content Analysis of
+Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic
+Framing Approach'' (Under Review) \newline
+
+\textbf{Carbone, Luca}, Alvarez-Cueva, Priscila (University of
+Barcelona), \& Vandenbosch, Laura: ``Intersectional Representations of
+Social Status in Popular Music Lyrics'' (Under review - major revisions)
+\newline
+
+Pirrone, Davide, \textbf{Carbone, Luca}, van Oosten, Annemarie (UVA), \&
+Vandenbosch, Laura: ``From Affordance to Affair: Exploring the
+Relationships between Online Sexual Activities and Online Infidelity
+Behaviors'' (Under review) \newline
+
+\textbf{Carbone, Luca}, Mijs, Jonathan (Boston University, Erasmus
+University), Thijs van Dooremalen (Leiden University) \& Daedekindt,
+Stijn (Ghent University): ``Towards a Sociology of Recurrent Events.
+Constellations of Cultural Change around Eurovision in 18 Countries
+(1981 -- 2021)'' (Under Review - major revisions) \newline
+
+\textbf{Carbone, Luca}, Klimmt, Christoph (University of Hannover), \&
+Vandenbosch, Laura: ``The Development of Music-Consistent Beliefs
+through Identification and Similarity with Music Artists: A Biographic
+Resonance Account'' (Under review) \newline
+
+\textbf{Carbone, Luca}, Klimmt, Christoph (University of Hannover),
+Schaap, Julian (Erasmus Univeristy of Rotterdam), \& Vandenbosch, Laura:
+``Resonant Mediated Experiences: Towards an Integrated Approach of
+Media-Psychological and Cultural Sociological Theories of Resonance''
+(Drafting) \newline
+
+\textbf{Carbone, Luca} \& Vandenbosch, Laura: ``The Development of
+Music-Consistent Beliefs through Transportation with Music Narratives''
+(Drafting) \newline
+
+Noon, Edward (University of Leeds), \textbf{Carbone, Luca}, Swinnen,
+Brent, Vandenbosch, Laura: ``Sending and Receiving toxic masculinity. A
+study on videogame play and the videogame effects on adolescents'
+performance pressure'' (Drafting) \newline
+
+Antonucci, Lorenza (University of Birmingham), Sojka, Aleksandra Anna
+(IE University), \textbf{Carbone, Luca}, Mijs, Jonathan (Boston
+University): ``Meritocracy across European parties'' (Drafting) \newline
+
+\textbf{Carbone, Luca}, Lamont, Michèle (Harvard University),
+Vandenbosch, Laura: ``Cultural repertoires of success among European
+youths. A daily diary study to disentangle the effects of music on
+adolescents' success repertoires and mental health'' (Drafting) \newline
+
+\hypertarget{other-publications}{%
+\subsection{Other Publications}\label{other-publications}}
+
+Brusco, Sandro; \textbf{Carbone, Luca}; Miglino, Enrico; Tazzioli,
+Agostino (2019, 30 May), Una semplice analisi econometrica del voto a
+Più Europa del 2019 (A simple econometric analysis of the 2019 vote to
++Europe). Research report for NoiseFromAmerika. Available
+\href{http://noisefromamerika.org/articolo/semplice-analisi-econometrica-voto-piu-europa-2019?fbclid=IwAR12kLTGJAonRf3Ctb-HlXYBGAspUhOSclDpQCg-mis-mDzM9vY8kZU21v8}{here}
+
+\textbf{Carbone, Luca} (2019, 6 February), Il Dibattito Online
+sull'Immigrazione in Italia (The Online Debate about Immigration in
+Italy). Research report for Istituto Carlo Cattaneo. Available
+\href{http://www.cattaneo.org/2019/02/06/il-dibattito-online-sullimmigrazione-in-italia/}{here}
+
+\textbf{Carbone, Luca} (2018, 21 August), Sociology Journals and Network
+Proprieties of the St.~Matthew Effect {[}blog post{]}. Available
+\href{https://economicsociology.org/2018/08/21/sociological-journals-and-network-proprieties-of-the-st-matthew-effect/}{here}
+
+\hypertarget{awards-funds}{%
+\section{Awards \& Funds}\label{awards-funds}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+University of Chicago, scholarship \& Dean's fellowship (\$31,500).
+\hfill \begingroup\small 2019-2020 \endgroup\\
+\emph{(declined due to insufficient financial resources to enroll in the
+program)}
+
+Tilburg University, visiting fund at Exeter University (€1,000).
+\hfill \begingroup\small June-August 2018\endgroup
+
+\hypertarget{invited-talks}{%
+\section{Invited Talks}\label{invited-talks}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Talk ``Social media in the music industry'', Ancienne Belgique, Brussels
+\hfill \begingroup\small 2024\endgroup
+
+Seminar on Music and Meritoracy, BA Communication Sociology, University
+of Vienna \hfill \begingroup\small 2024\endgroup
+
+CII Spotlight, Weatherhead Center for International Affairs, Harvard
+University \hfill \begingroup\small 2024\endgroup
+
+Talk ``Meritocracy and Inequality'', Harvard Culture and Social Analysis
+Workshop, Harvard University \hfill \begingroup\small 2024\endgroup
+
+CII Seminar, Weatherhead Center for International Affairs, Harvard
+University \hfill \begingroup\small 2024\endgroup
+
+Graduate Seminar on Quantitative Methods in Sociology, Boston University
+\hfill \begingroup\small 2024\endgroup
+
+Current Research on Popular Music in Belgium (IASPM Benelux), Leuven
+\hfill \begingroup\small 2023\endgroup
+
+\hypertarget{conference-presentations}{%
+\section{Conference Presentations}\label{conference-presentations}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+73rd conference of the International Communication Association (ICA),
+Toronto \hfill \begingroup\small 2023\endgroup
+
+Etmaal van de Communicatiewetenschap 2023, Enschede.
+\hfill \begingroup\small 2023\endgroup
+
+21st conference of the International Association for the Study of
+Popoular Music (IASPM), Daegu. \hfill \begingroup\small 2022\endgroup
+
+Day of Sociology, Groningen \hfill \begingroup\small 2022\endgroup
+
+72nd conference of the International Communication Association (ICA),
+Paris. \hfill \begingroup\small 2022\endgroup
+
+Etmaal van de Communicatiewetenschap 2022, Brussels (online).
+\hfill \begingroup\small 2022\endgroup
+
+116th ASA Virtual Annual Meeting (American Sociological Association),
+Chicago (online). \hfill \begingroup\small 2021\endgroup
+
+7th International Conference on Computational Social Science IC2S2, ETH
+Zürich (online). \hfill \begingroup\small 2021\endgroup
+
+4th Joint Interdisciplinary Graduate Conference, Tilburg University
+(online). \hfill \begingroup\small 2021\endgroup
+
+IV Forum of Sociology (International Sociological Association), Porto
+Alegre (online). \hfill \begingroup\small 2021\endgroup
+
+Day of Sociology, Amsterdam. \hfill \begingroup\small 2019\endgroup
+
+\hypertarget{professional-activities}{%
+\section{Professional Activities}\label{professional-activities}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+\hypertarget{academic-service}{%
+\subsection{Academic Service}\label{academic-service}}
+
+Chair session on Meritocracy, Alumni Conference, Weatherhead Center for
+International Affairs, Harvard University.
+\hfill \begingroup\small 2024\endgroup
+
+Chair session on Class and Status at 21st IASPM Annual Meeting, Daegu,
+South Korea. \hfill \begingroup\small 2022\endgroup
+
+Presider roundtable cultural sociology (section on Meritocracy) at 116th
+ASA Virtual Annual Meeting, online.
+\hfill \begingroup\small 2022\endgroup
+
+\hypertarget{occasional-reviewer}{%
+\subsection{Occasional Reviewer}\label{occasional-reviewer}}
+
+Journal for the Theory of Social Behaviour \newline American Behavioral
+Scientist \newline Social Problems \newline Information, Communication,
+\& Society \newline New Media \& Society
+
+\hypertarget{memberships}{%
+\subsection{Memberships}\label{memberships}}
+
+International Association for the Study of Popular Music (IASPM).
+\hfill \begingroup\small 2022-present\endgroup
+
+International Communication Association (ICA).
+\hfill \begingroup\small 2022-present\endgroup
+
+Netherlands -- Flanders Communication Association (NeFCA).
+\hfill \begingroup\small 2020-present\endgroup
+
+KU Leuven Digital Society Institute (DigSoc).
+\hfill \begingroup\small 2021-present\endgroup
+
+KU Leuven Youth Institute.
+\hfill \begingroup\small 2021-present\endgroup
+
+American Sociological Association (ASA).
+\hfill \begingroup\small 2021-2022\endgroup
+
+\hypertarget{research-stays}{%
+\subsection{Research stays}\label{research-stays}}
+
+Research stay hosted by Prof.~Michèle Lamont at Harvard University.
+\hfill \begingroup\small Spring 2024\endgroup
+
+Research stay hosted by Prof.~Hyunjin Song at Yonsei University.
+\hfill \begingroup\small July 2022\endgroup
+
+Research stay hosted by Prof.~Eric Lybeck at Exeter University.
+\hfill \begingroup\small June-August 2018\endgroup
+
+\hypertarget{faculty-services}{%
+\subsection{Faculty Services}\label{faculty-services}}
+
+\emph{Co-Director} of MethLab\hfill \begingroup\small September
+2020-present\endgroup\\
+\emph{\href{https://soc.kuleuven.be/fsw/doctoralprogramme/meth-lab}{Meth-Lab}
+is a bottom-up initiative created by Lala Muradova and Amélie Godefroidt
+at KU Leuven for the sharing and presentation of novel methodological
+techniques. As a co-director, I am responsible for contacting and
+welcoming national and international speakers, the organization of the
+meetings, the promotion of the events, and the management of finances.}
+
+\emph{Member} of Diversity and Sustainability Commission at KU Leuven
+(FSW)\hfill \begingroup\small April 2021 - September 2023\endgroup\\
+
+\emph{Supervisor} MA thesis students:\newline - Sam
+Samad\hfill \begingroup\small 2023-2024\endgroup\\
+- Diana-Teodora Gaitan\hfill \begingroup\small 2022-2023\endgroup\\
+- Dan Ding\hfill \begingroup\small 2022-2023\endgroup\\
+- Maria Stefania Popa\hfill \begingroup\small 2022-2023\endgroup\\
+- Ngoc Diep Nguyen\hfill \begingroup\small 2022-2023\endgroup\\
+- Sarah Pans\hfill \begingroup\small 2021-2022\endgroup\\
+- Kyra Bulinckx\hfill \begingroup\small 2021-2022\endgroup\\
+- Hong Zhan\hfill \begingroup\small 2020-2021\endgroup\\
+
+\emph{Supervisor} job students:\newline - Atri
+Mukherjee\hfill \begingroup\small 2023\endgroup\\
+- Bo Vanhoof\hfill \begingroup\small 2023\endgroup\\
+- Tam Nguyen\hfill \begingroup\small 2022-2023\endgroup\\
+- Rana Rafeh\hfill \begingroup\small 2022\endgroup\\
+- Silke Vereeken\hfill \begingroup\small 2021\endgroup\\
+- Annelies Rom\hfill \begingroup\small 2021\endgroup\\
+
+\hypertarget{teaching-experience}{%
+\section{Teaching Experience}\label{teaching-experience}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+School for Mass Communication Research, KU Leuven
+\hfill \begingroup\small October 2021 -- present\endgroup\\
+Teaching assistant\\
+\emph{Course: Research Designs for Communication Science. Seminar name:
+Computational methods for text analysis}
+
+School for Mass Communication Research, KU Leuven
+\hfill \begingroup\small November 2021 -- present\endgroup\\
+Teaching assistant\\
+\emph{Course: Media and Crisis. Seminar name: Social media: a curse or
+blessing for the body image crisis?} \emph{Course: Media and Crisis.
+Seminar name: Music and the cracks of individualism(?)}
+
+Department of Sociology, Tilburg University
+\hfill \begingroup\small March 2017 -- June 2017\endgroup\\
+Teaching assistant\\
+\emph{Course: Social Risk and Culture}
+
+Department of Methodology \& Statistics, Tilburg University
+\hfill \begingroup\small February 2017 -- June 2017\endgroup\\
+Teaching assistant\\
+\emph{Courses: Introduction to Statistics, Questionnaire design,
+Experimental design}
+
+\hypertarget{research-experience}{%
+\section{Research Experience}\label{research-experience}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Department of Sociology, Tilburg University
+\hfill \begingroup\small March 2019 -- September 2019\endgroup\\
+Research assistant, Supervisor: Prof.~Dr.~Ruud Muffels\\
+\emph{Research on basic income in the Netherlands.}
+
+Research Institute Carlo Cattaneo, Bologna
+\hfill \begingroup\small January 2019 -- June 2019\endgroup\\
+Research collaborator, Supervisor: Dr.~Marco Valbruzzi\\
+\emph{Political discourses on Twitter.}
+
+Research Institute IRVAPP, Trento \hfill \begingroup\small February 2017
+-- May 2017\endgroup\\
+Research internship, Supervisor: Dr.~Sonia Marzadro\\
+\emph{Evaluation of social policies for the European project Youth
+Guarantee.}
+
+\hypertarget{skills}{%
+\section{Skills}\label{skills}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+\hypertarget{languages}{%
+\subsection{Languages}\label{languages}}
+
+Italian (Native speaker)\\
+English (Full professional proficiency)\\
+French (Intermediate proficiency) Spanish (Elementary proficiency)\\
+\newline
+
+\hypertarget{programming-languages-softwares}{%
+\subsection{Programming Languages \&
+Softwares}\label{programming-languages-softwares}}
+
+R (Advanced)\\
+Markdown (Intermediate)\\
+Python (Intermediate)\\
+Mplus (Basic)\\
+HTML (Basic)\\
+CSS (Basic) \newline
+
+\texttt{chorrrds}: Music chords extraction - Collaborator\\
+\emph{Available at: \url{https://CRAN.R-project.org/package=chorrrds}}
+
+\hypertarget{additional-training}{%
+\subsection{Additional training}\label{additional-training}}
+
+Auditor ``Cultural Processes in the Production of Inequality''
+(instructor: M. Lamont), Department of Sociology, Harvard University
+\hfill \begingroup\small January-April, 2024\endgroup\\
+
+Auditor ``Qualitative Social Analysis'' (instructor: M. Lamont),
+Department of Sociology, Harvard University
+\hfill \begingroup\small January-April, 2024\endgroup\\
+
+Summer School Diversity in Arts, Culture and Media Studies, Erasmus
+University Rotterdam \hfill \begingroup\small June, 2022\endgroup\\
+\emph{Critical, feminist, and intersectional approaches}
+
+Workshop PhD Media Psychology division of German Psychological
+Association Conference, Aachen. \hfill \begingroup\small September
+2021\endgroup\\
+
+Essex Summer School in Social Science Data Analysis, Essex University
+\hfill \begingroup\small August, 2020\endgroup\\
+\emph{Mathematics}, \emph{Quantitative text analysis}
+
+MOOC on ``Introduction to Agent-Based Modeling'', Santa Fe Institute
+\hfill \begingroup\small October, 2019\endgroup\\
+\emph{Agent-based modelling on NetLogo}
+
+MOOC on ``Social and Economic Networks: Models and Analysis'',
+\hfill \begingroup\small August, 2019\endgroup\\
+Stanford University\\
+\emph{Social network analysis}
+
+Summer School at CWST Center, Leiden University
+\hfill \begingroup\small August, 2018\endgroup\\
+\emph{Scientometrics analysis}
+
+Seminar on The Path to Quantitative Research, University of Trento
+\hfill \begingroup\small 2016\endgroup\\
+\emph{Factor analysis and counterfactual techniques for impact
+evaluation} \newline
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Available upon request.
+
+\end{document}

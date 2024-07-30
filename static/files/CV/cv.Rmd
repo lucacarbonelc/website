@@ -52,11 +52,7 @@ Weatherhead Cluster on Comparative Inequality and Inclusion, Harvard University 
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-**Cultural/cognitive sociology and inequalities**: cultural (re)production; youths & adolescents; socio-aesthetic hierarchies; success, meritocracy, individualism, and social status; boundary-making processes; public and personal forms of culture.\
-
-**Mass communication**: music; resonance theory; media entertainment; media frames; cultivation theory.\
-
-**Advanced quantitative research methods**: computational social science, including statistical inference in networks (ERGM), text as data (structural topic modeling); structural equation modeling (RI-CLPM); multilevel analysis; scale development and factor analysis.
+music; youths; resonance theory; success; meritocracy; masculinities; role models; beliefs; mental health; computational social science; content analysis; mixed-methods
 
 # Publications
 \vspace{-10pt}
@@ -64,7 +60,9 @@ Weatherhead Cluster on Comparative Inequality and Inclusion, Harvard University 
 
 ## Peer-reviewed articles
 
-__Carbone, Luca__ & Vandenbosch, Laura: "Adolescents’ music tastes in the streaming era. The case of Belgium" (forthcoming in Cultural Sociology)
+__Carbone, L.__, & Vandenbosch, L. (2024). Adolescents’ Music Tastes in the Streaming Era: The Case of Belgium. Cultural Sociology, 1–21. https://doi.org/10.1177/17499755241244529\newline
+
+Noon, E. J., __Carbone, L.__, Swinnen, B., & Vandenbosch, L. (2024). Adolescents’ videogame play, need satisfaction, and self-esteem: A self-determination perspective. *Current Psychology*. [https://doi.org/10.1007/s12144-024-05933-6](https://doi.org/10.1007/s12144-024-05933-6)
 \newline
 
 Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura. (2023). Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale, *Journal of Children and Media*. [https://t.co/7KCSIGXBiW](https://t.co/7KCSIGXBiW)
@@ -100,31 +98,31 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
 \newline
 
-__Carbone, Luca__, Alvarez-Cueva, Priscila, & Vandenbosch, Laura: "Intersectional Representations of Social Status in Popular Music Lyrics" (Under review - major revisions)
+__Carbone, Luca__, Alvarez-Cueva, Priscila (University of Barcelona), & Vandenbosch, Laura: "Intersectional Representations of Social Status in Popular Music Lyrics" (Under review - major revisions)
 \newline
 
-Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie, & Vandenbosch, Laura: "From Affordance to Affair: Exploring the Relationships between Online Sexual Activities and Online Infidelity Behaviors" (Under review)
+Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie (UVA), & Vandenbosch, Laura: "From Affordance to Affair: Exploring the Relationships between Online Sexual Activities and Online Infidelity Behaviors" (Under review)
 \newline
 
-__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (KU Leuven) & Daedekindt, Stijn (Ghent University): "Towards a Sociology of Recurrent Events. Constellations of Cultural Change around Eurovision in 18 Countries (1981 – 2021)" (Under Review - major revisions)
+__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (Leiden University) & Daedekindt, Stijn (Ghent University): "Towards a Sociology of Recurrent Events. Constellations of Cultural Change around Eurovision in 18 Countries (1981 – 2021)" (Under Review - major revisions)
 \newline
 
-Noon, Edward, __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "A Self-Determination Perspective on Adolescents’ Videogame Play, Need Satisfaction, and Self-Esteem" (Under Review - major revisions)
+__Carbone, Luca__, Klimmt, Christoph (University of Hannover), & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Identification and Similarity with Music Artists: A Biographic Resonance Account" (Under review)
 \newline
 
-__Carbone, Luca__, Klimmt, Christoph, & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Identification and Similarity with Music Artists: A Biographic Resonance Account" (Under review)
-\newline
-
-__Carbone, Luca__, Klimmt, Christoph, Schaap, Julian, & Vandenbosch, Laura: "Resonant Mediated Experiences: Towards an Integrated Approach of Media-Psychological and Cultural Sociological Theories of Resonance" (Drafting)
+__Carbone, Luca__, Klimmt, Christoph (University of Hannover), Schaap, Julian (Erasmus Univeristy of Rotterdam), & Vandenbosch, Laura: "Resonant Mediated Experiences: Towards an Integrated Approach of Media-Psychological and Cultural Sociological Theories of Resonance" (Drafting)
 \newline
 
 __Carbone, Luca__ & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Transportation with Music Narratives" (Drafting)
 \newline
 
-Noon, Edward, __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "Sending and Receiving toxic masculinity. A study on videogame play and the videogame effects on adolescents' performance pressure" (Drafting)
+Noon, Edward (University of Leeds), __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "Sending and Receiving toxic masculinity. A study on videogame play and the videogame effects on adolescents' performance pressure" (Drafting)
 \newline
 
-Antonucci, Lorenza, Sojka, Aleksandra Anna, __Carbone, Luca__, Mijs, Jonathan: "Meritocracy across European parties" (Drafting)
+Antonucci, Lorenza (University of Birmingham), Sojka, Aleksandra Anna (IE University), __Carbone, Luca__, Mijs, Jonathan (Boston University): "Meritocracy across European parties" (Drafting)
+\newline
+
+__Carbone, Luca__, Lamont, Michèle (Harvard University), Vandenbosch, Laura: "Cultural repertoires of success among European youths. A daily diary study to disentangle the effects of music on adolescents' success repertoires and mental health" (Drafting)
 \newline
 
 ## Other Publications
@@ -148,6 +146,8 @@ Tilburg University, visiting fund at Exeter University (€1,000).  \hfill \begi
 # Invited Talks
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+Talk "Social media in the music industry", Ancienne Belgique, Brussels \hfill \begingroup\small 2024\endgroup
 
 Seminar on Music and Meritoracy, BA Communication Sociology, University of Vienna \hfill \begingroup\small 2024\endgroup
 
@@ -176,8 +176,6 @@ Day of Sociology, Groningen \hfill \begingroup\small 2022\endgroup
 72nd conference of the International Communication Association (ICA), Paris. \hfill \begingroup\small 2022\endgroup
 
 Etmaal van de Communicatiewetenschap 2022, Brussels (online). \hfill \begingroup\small 2022\endgroup
-
-Workshop PhD Media Psychology division of German Psychological Association Conference, Aachen. \hfill \begingroup\small 2021\endgroup
 
 116th ASA Virtual Annual Meeting (American Sociological Association), Chicago (online). \hfill \begingroup\small 2021\endgroup
 
@@ -324,6 +322,8 @@ Auditor "Qualitative Social Analysis" (instructor: M. Lamont), Department of Soc
 
 Summer School Diversity in Arts, Culture and Media Studies, Erasmus University Rotterdam \hfill \begingroup\small June, 2022\endgroup\
 *Critical, feminist, and intersectional approaches*
+
+Workshop PhD Media Psychology division of German Psychological Association Conference, Aachen. \hfill \begingroup\small September 2021\endgroup\
 
 Essex Summer School in Social Science Data Analysis, Essex University \hfill \begingroup\small August, 2020\endgroup\
 *Mathematics*, *Quantitative text analysis*
