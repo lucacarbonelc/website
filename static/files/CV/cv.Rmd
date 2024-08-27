@@ -26,6 +26,10 @@ web: www.lucacarbone.com
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
+*KU Leuven, BE* \hfill \begingroup\small 2024-2025\endgroup\
+Postdoctoral researcher - Post Doctoral Mandate (PDM)\
+Supervisor: Laura Vandenbosch\
+
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
 Ph.D. Social Sciences - ERC starting grant\
 Promoter: Laura Vandenbosch\
@@ -65,7 +69,7 @@ __Carbone, L.__, & Vandenbosch, L. (2024). Adolescents’ Music Tastes in the St
 Noon, E. J., __Carbone, L.__, Swinnen, B., & Vandenbosch, L. (2024). Adolescents’ videogame play, need satisfaction, and self-esteem: A self-determination perspective. *Current Psychology*. [https://doi.org/10.1007/s12144-024-05933-6](https://doi.org/10.1007/s12144-024-05933-6)
 \newline
 
-Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura. (2023). Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale, *Journal of Children and Media*. [https://t.co/7KCSIGXBiW](https://t.co/7KCSIGXBiW)
+Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura. (2023). Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale, *Journal of Children and Media*. [https://t.co/7KCSIGXBiW](https://t.co/7KCSIGXBiW) (among the most read papers on the journal's website with 604 views in August 2024)
 \newline
 
 __Carbone, L.__ & Vandenbosch, L. (2023). A Meta-Analysis of Studies Examining the Effect of Music on Beliefs, *Communication Research*. [https://doi.org/10.1177/00936502231163633](https://doi.org/10.1177/00936502231163633)
@@ -203,7 +207,10 @@ Journal for the Theory of Social Behaviour \newline
 American Behavioral Scientist \newline
 Social Problems \newline
 Information, Communication, & Society \newline
-New Media & Society
+New Media & Society \newline
+Scandinavian Journal of Psychology  \newline
+Mass Communication and Society  \newline
+Cultural Sociology
 
 ## Memberships
 
@@ -235,6 +242,8 @@ Research stay hosted by Prof. Eric Lybeck at Exeter University. \hfill \begingro
 *Member* of Diversity and Sustainability Commission at KU Leuven (FSW)\hfill \begingroup\small April 2021 - September 2023\endgroup\
 
 *Supervisor* MA thesis students:\newline
+
+*Daily mentor* MA thesis students:\newline
 - Sam Samad\hfill \begingroup\small 2023-2024\endgroup\
 - Diana-Teodora Gaitan\hfill \begingroup\small 2022-2023\endgroup\
 - Dan Ding\hfill \begingroup\small 2022-2023\endgroup\
