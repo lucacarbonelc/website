@@ -28,7 +28,7 @@ web: www.lucacarbone.com
 
 *KU Leuven, BE* \hfill \begingroup\small 2024-2025\endgroup\
 Postdoctoral researcher - Post Doctoral Mandate (PDM)\
-Supervisor: Laura Vandenbosch\
+Supervisor: Laura Vandenbosch
 
 *KU Leuven, BE* \hfill \begingroup\small 2020-2024\endgroup\
 Ph.D. Social Sciences - ERC starting grant\
@@ -48,7 +48,7 @@ GPA 28.74/30, 110 cum laude
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Department of Sociology, Harvard University [profile](https://sociology.fas.harvard.edu/people/luca-carbone)  \hfill \begingroup\small 2023-2024\endgroup
+Department of Sociology, Harvard University \hfill \begingroup\small 2023-2024\endgroup
 
 Weatherhead Cluster on Comparative Inequality and Inclusion, Harvard University [profile](https://inequality.wcfia.harvard.edu/people/luca-carbone-0)  \hfill \begingroup\small 2023-2024\endgroup
 
@@ -64,7 +64,14 @@ music; youths; resonance theory; success; meritocracy; masculinities; role model
 
 ## Peer-reviewed articles
 
-__Carbone, L.__, & Vandenbosch, L. (2024). Adolescents’ Music Tastes in the Streaming Era: The Case of Belgium. Cultural Sociology, 1–21. https://doi.org/10.1177/17499755241244529\newline
+__Carbone, L.__, Alvarez-Cueva, P., & Vandenbosch, L. (2024). Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics. *Sex Roles, 90*: 891–909. [https://doi.org/10.1007/s11199-024-01483-0](https://doi.org/10.1007/s11199-024-01483-0)
+\newline
+
+__Carbone, L.__, & Vandenbosch, L. (2024). Adolescents’ Music Tastes in the Streaming Era: The Case of Belgium. *Cultural Sociology*, 1–21. [https://doi.org/10.1177/17499755241244529](https://doi.org/10.1177/17499755241244529)
+\newline
+
+__Carbone, L.__, Mijs, J., van Dooremalen, T., & Daedekindt, S. Towards a sociology of recurrent events. Constellations of cultural change around Eurovision in 18 countries (1981–2021). *Poetics, 104*: 1-13. [https://doi.org/10.1016/j.poetic.2024.101889](https://doi.org/10.1016/j.poetic.2024.101889)
+\newline
 
 Noon, E. J., __Carbone, L.__, Swinnen, B., & Vandenbosch, L. (2024). Adolescents’ videogame play, need satisfaction, and self-esteem: A self-determination perspective. *Current Psychology*. [https://doi.org/10.1007/s12144-024-05933-6](https://doi.org/10.1007/s12144-024-05933-6)
 \newline
@@ -102,13 +109,7 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 __Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin (Yonsei University): "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
 \newline
 
-__Carbone, Luca__, Alvarez-Cueva, Priscila (University of Barcelona), & Vandenbosch, Laura: "Intersectional Representations of Social Status in Popular Music Lyrics" (Under review - major revisions)
-\newline
-
 Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie (UVA), & Vandenbosch, Laura: "From Affordance to Affair: Exploring the Relationships between Online Sexual Activities and Online Infidelity Behaviors" (Under review)
-\newline
-
-__Carbone, Luca__, Mijs, Jonathan (Boston University, Erasmus University), Thijs van Dooremalen (Leiden University) & Daedekindt, Stijn (Ghent University): "Towards a Sociology of Recurrent Events. Constellations of Cultural Change around Eurovision in 18 Countries (1981 – 2021)" (Under Review - major revisions)
 \newline
 
 __Carbone, Luca__, Klimmt, Christoph (University of Hannover), & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Identification and Similarity with Music Artists: A Biographic Resonance Account" (Under review)
@@ -120,10 +121,10 @@ __Carbone, Luca__, Klimmt, Christoph (University of Hannover), Schaap, Julian (E
 __Carbone, Luca__ & Vandenbosch, Laura: "The Development of Music-Consistent Beliefs through Transportation with Music Narratives" (Drafting)
 \newline
 
-Noon, Edward (University of Leeds), __Carbone, Luca__, Swinnen, Brent, Vandenbosch, Laura: "Sending and Receiving toxic masculinity. A study on videogame play and the videogame effects on adolescents' performance pressure" (Drafting)
+Noon, Edward (University of Leeds), __Carbone, Luca__, Vandenbosch, Laura: "Sending and Receiving toxic masculinity. A study on videogame play and the videogame effects on adolescents' performance pressure" (Drafting)
 \newline
 
-Antonucci, Lorenza (University of Birmingham), Sojka, Aleksandra Anna (IE University), __Carbone, Luca__, Mijs, Jonathan (Boston University): "Meritocracy across European parties" (Drafting)
+Antonucci, Lorenza (University of Birmingham), Sojka, Aleksandra Anna (IE University), __Carbone, Luca__, Mijs, Jonathan (Boston University): "Meritocracy and Populism across European Parties" (Drafting)
 \newline
 
 __Carbone, Luca__, Lamont, Michèle (Harvard University), Vandenbosch, Laura: "Cultural repertoires of success among European youths. A daily diary study to disentangle the effects of music on adolescents' success repertoires and mental health" (Drafting)
@@ -196,6 +197,9 @@ Day of Sociology, Amsterdam. \hfill \begingroup\small 2019\endgroup
 \rule{1\linewidth}{\linethickness}
 
 ## Academic Service
+
+Member of the steering committee for the Popular Communication division of the Netherlands and Flanders Communication Association (NeFCA) \hfill \begingroup\small 2024-present\endgroup
+
 Chair session on Meritocracy, Alumni Conference, Weatherhead Center for International Affairs, Harvard University. \hfill \begingroup\small 2024\endgroup
 
 Chair session on Class and Status at 21st IASPM Annual Meeting, Daegu, South Korea. \hfill \begingroup\small 2022\endgroup
@@ -203,6 +207,7 @@ Chair session on Class and Status at 21st IASPM Annual Meeting, Daegu, South Kor
 Presider roundtable cultural sociology (section on Meritocracy) at 116th ASA Virtual Annual Meeting, online.  \hfill \begingroup\small 2022\endgroup
 
 ## Occasional Reviewer
+
 Journal for the Theory of Social Behaviour \newline
 American Behavioral Scientist \newline
 Social Problems \newline
@@ -273,6 +278,7 @@ School for Mass Communication Research, KU Leuven \hfill \begingroup\small Novem
 Teaching assistant\
 *Course: Media and Crisis. Seminar name: Social media: a curse or blessing for the body image crisis?*
 *Course: Media and Crisis. Seminar name: Music and the cracks of individualism(?)*
+*Course: Media and Crisis. Seminar name: Music and the crisis of masculinity*
 
 Department of Sociology, Tilburg University \hfill \begingroup\small March 2017 – June 2017\endgroup\
 Teaching assistant\
