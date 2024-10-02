@@ -4,10 +4,10 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD student in Communication Science
-    institution: KU Leuven school for Mass Communication
-    year: 2020 - in progress
-  - course: Research MSc in Sociology
+  - course: PhD in Social Sciences
+    institution: KU Leuven
+    year: 2020 - 2024
+  - course: Research MSc in Social Sciences
     institution: Tilburg University
     year: 2017 - 2019
   - course: BSc in Sociology
@@ -15,26 +15,25 @@ education:
     year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
 interests:
-- Cultural sociology
 - Media psychology
+- Cultural sociology
 - Music
-- Adolescents
+- Youth
 - Resonance
 - Success
 - Meritocracy
-- Intersectionality of gender, race/ethnicity, nationality
-- Methodologies
+- Streaming
 name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
 - name: Harvard University
-  url: "https://sociology.fas.harvard.edu/people/luca-carbone"
+  url: "https://inequality.wcfia.harvard.edu/people/luca-carbone-0"
 role: Empirical Social Scientist
 social:
 - icon: envelope
   icon_pack: fa
-  link: "mailto:lucacarbone.lc@gmail.com"
+  link: "mailto:luca.carbone@kuleuven.be"
 - icon: osf
   icon_pack: ai ai-osf
   link: https://osf.io/profile/
@@ -48,16 +47,8 @@ social:
   icon_pack: fab
   link: https://twitter.com/lucacarbone__lc
 superuser: true
-user_groups:
-- PhD students
 ---
 
-Welcome,
+I am a Postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at KU Leuven. In my PhD, I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). Currently, I am affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0).
 
-I am Luca, PhD student at the [School for Mass Communication Research](https://soc.kuleuven.be/smc), KU Leuven (BE), where I am part of the ERC project [MIMIc](https://www.projectmimic.eu). Currently, I am [visiting fellow](https://sociology.fas.harvard.edu/people/luca-carbone) at the Harvard Department of Sociology and [Affiliated](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) with the Weatherhead Research Cluster on Comparative Inequalities and Inclusion.
-
-My work revolves around the production and consumption of success narratives in popular culture, with a specific focus on music, and their effects on adolescents' mental health.
-
-I work at the intersection of cultural sociology (cultural objects, symbolic boundaries), media psychology (entertainment, framing), social and media theory (resonance, intersectionality, narrative persuasion). Currently, I mostly employ quantitative and computational methods (e.g., SEM, FA, computational text analysis, social network analysis). In my previous research, I also employed historico-archival (with digital and library material) and impact evaluation methodologies (e.g., diff-in-diff).
-
-I also conduct research on social and communication theory (e.g., resonance, forms of culture), events (e.g., Eurovision), online cultures (e.g., conspiracy theories, sexual infidelity, videogames), positive digital communication among youths (e.g., digital balance, digital flourishing), and methodological advancements (e.g., scale development, social network analysis, computational text analysis).
+I work at the intersection of media psychology and cultural sociology to study the distribution of success narratives in popular culture, with a specific focus on music, and their effects on the identities and mental health of young people. I am also interested in social and communication theory, algorithms and platforms, media events and online cultures, NLP, networks, and psychometrics.
