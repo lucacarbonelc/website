@@ -9,7 +9,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "default"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -54,7 +54,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lucacarbone.lc@gmail.com"
+email = "luca.carbone@kuleuven.be"
 address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
