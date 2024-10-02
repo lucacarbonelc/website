@@ -22,7 +22,7 @@ interests:
 - Resonance
 - Success
 - Meritocracy
-- Streaming
+- Streaming platforms
 name: Luca Carbone
 organizations:
 - name: KU Leuven
@@ -47,10 +47,8 @@ social:
   icon_pack: fab
   link: https://twitter.com/lucacarbone__lc
 superuser: true
-user_groups:
-- PhD students
 ---
 
-I am a Postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at KU Leuven. In my PhD, I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). Currently, I am also affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) at Harvard University.
+I am a postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at Department of Communication Sciences at KU Leuven. I obtained my PhD at KU Leuven, where I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). Currently, I am also affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) at Harvard University.
 
 I work at the intersection of media psychology and cultural sociology to study the distribution of success narratives in popular culture, with a specific focus on music, and their effects on the identities and mental health of young people. I am also interested in social and communication theory, algorithms and platforms, media events and online cultures, NLP, networks, and psychometrics.
