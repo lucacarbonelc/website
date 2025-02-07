@@ -32,9 +32,6 @@ social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:luca.carbone@kuleuven.be"
-- icon: google-scholar
-  icon_pack: ai
-  link: "https://scholar.google.com/citations?hl=en&user=0kvrqDUAAAAJ"
 - icon: osf
   icon_pack: ai ai-osf
   link: https://osf.io/profile/
