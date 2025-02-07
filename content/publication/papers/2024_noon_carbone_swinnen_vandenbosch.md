@@ -12,7 +12,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: [mimic]
+projects: [ERC-mimic]
 publication: "Current Psychology"
 publication_short: ""
 publication_types:

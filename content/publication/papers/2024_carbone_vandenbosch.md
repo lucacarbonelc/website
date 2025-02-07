@@ -10,7 +10,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: [mimic]
+projects: [ERC-mimic]
 publication: "Cultural Sociology"
 publication_short: ""
 publication_types:

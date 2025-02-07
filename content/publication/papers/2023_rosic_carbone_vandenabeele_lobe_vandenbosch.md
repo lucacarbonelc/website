@@ -13,7 +13,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: [mimic]
+projects: [ERC-mimic]
 publication: ""
 publication_short: ""
 publication_types:

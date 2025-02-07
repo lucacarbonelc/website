@@ -11,7 +11,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-projects: [mimic]
+projects: [ERC-mimic]
 publication: "Sex Roles"
 publication_short: ""
 publication_types:
