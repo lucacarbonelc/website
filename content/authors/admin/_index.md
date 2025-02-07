@@ -3,15 +3,15 @@ authors:
 - admin
 bio: 
 education:
-  - course: PhD in Social Sciences
-    institution: KU Leuven
-    year: 2020 - 2024
-  - course: Research MSc in Social Sciences
-    institution: Tilburg University
-    year: 2017 - 2019
-  - course: BSc in Sociology
-    institution: University of Trento
-    year: 2014 - 2017
+- course: PhD in Social Sciences
+  institution: KU Leuven
+  year: 2020 - 2024
+- course: Research MSc in Social Sciences
+  institution: Tilburg University
+  year: 2017 - 2019
+- course: BSc in Sociology
+  institution: University of Trento
+  year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
 interests:
 - Media psychology
@@ -32,6 +32,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:luca.carbone@kuleuven.be"
+- icon: google-scholar
+  icon_pack: ai
+  link: "https://scholar.google.com/citations?hl=en&user=0kvrqDUAAAAJ"
 - icon: osf
   icon_pack: ai ai-osf
   link: https://osf.io/profile/
