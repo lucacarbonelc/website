@@ -5,7 +5,7 @@ email: luca.carbone@kuleuven.be
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/university/website/static/files/CV/svm-latex-cv.tex
+    template: ~/svm-latex-cv.tex
   html_document:
     df_print: paged
 fontfamily: mathpazo
@@ -98,32 +98,6 @@ __Carbone, L.__ (2022). Book Review: 'Getting Signed: Record Contracts, Musician
 __Carbone, Luca__ .2019. "Il mercato comunicativo su Twitter nelle europee 2019."" In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (56-63). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41
 
 __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle europee 2019." In: Valbruzzi, Marco (Ed.) *L’Italia sovranista e la sfida all’Europa. Le elezioni europee ed amministrative 2019* (65-73). Bologna: Istituto Carlo Cattaneo. DOI: 10.31484/2611-5778_41 \newline
-
-## Work in progress
-
-__Carbone, Luca__, Vandenbosch, Laura, & Song, Hyunjin: "The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach" (Under Review)
-
-__Carbone, Luca__, Klimmt, Christoph, & Vandenbosch, Laura: "The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists" (Under review)
-
-__Carbone, Luca__, Klimmt, Christoph, Schaap, Julian, & Vandenbosch, Laura: "A Theory of Resonant Experiences with Media" (Under Review)
-
-__Carbone, Luca__ & Vandenbosch, Laura: "Effort-Oriented Success Narratives in Music and their Internalization among Adolescents" (Under Review)
-
-__Carbone, Luca__, Vandenbosch, Laura: "Success Repertoires and Mental Health among Adolescents. A Daily Diary Study across Belgium, France, and Slovenia" (Drafting)
-
-Pirrone, Davide, __Carbone, Luca__, van Oosten, Annemarie, & Vandenbosch, Laura: "From Affordance to Affair: Exploring the Relationships between Online Sexual Activities and Online Infidelity Behaviors" (Under review)
-
-Noon, Edward, __Carbone, Luca__, Vandenbosch, Laura: "Performing in Toxicity. Assessing the Relationship between Toxic Performance Feedback in Videogame Play and Performance Contingent Self-Esteem" (Under Review)
-
-Antonucci, Lorenza, __Carbone, Luca__, Sojka, Aleksandra Anna, Mijs, Jonathan: "Meritocracy and Populism across European Parties" (Drafting) \newline
-
-## Other Publications
-
-Brusco, Sandro; __Carbone, Luca__; Miglino, Enrico; Tazzioli, Agostino (2019, 30 May), Una semplice analisi econometrica del voto a Più Europa del 2019 (A simple econometric analysis of the 2019 vote to +Europe). Research report for NoiseFromAmerika. Available [here](http://noisefromamerika.org/articolo/semplice-analisi-econometrica-voto-piu-europa-2019?fbclid=IwAR12kLTGJAonRf3Ctb-HlXYBGAspUhOSclDpQCg-mis-mDzM9vY8kZU21v8)
-
-__Carbone, Luca__ (2019, 6 February), Il Dibattito Online sull’Immigrazione in Italia (The Online Debate about Immigration in Italy). Research report for Istituto Carlo Cattaneo. Available [here](http://www.cattaneo.org/2019/02/06/il-dibattito-online-sullimmigrazione-in-italia/)
-
-__Carbone, Luca__ (2018, 21 August), Sociology Journals and Network Proprieties of the St. Matthew Effect [blog post]. Available [here](https://economicsociology.org/2018/08/21/sociological-journals-and-network-proprieties-of-the-st-matthew-effect/)
 
 # Awards & Funds
 \vspace{-10pt}
@@ -239,84 +213,27 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Peer Reviewer
 
-Journal for the Theory of Social Behaviour\
-American Behavioral Scientist\
-Social Problems\
-Information, Communication, & Society\
-New Media & Society\
-Scandinavian Journal of Psychology\
-Mass Communication and Society\
-Cultural Sociology\
-Current Psychology\
-Journal of Media Psychology \newline
+*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*
 
-## Memberships, Affiliations, Visitings
+## Memberships
 
-Visiting Fellow, Department of Sociology and Weatherhead Center \hfill \begingroup\small 2024\endgroup\
-(Harvard University)
+*International Association for the Study of Popular Music* (IASPM, 2022-2023), *International Communication Association* (ICA, 2022-present), *American Sociological Association* (ASA, 2021-2022), *Netherlands | Flanders Communication Association* (NeFCA, 2020-present), *International Sociological Association* (ISA, 2019-2020)
 
-Affiliate Weatherhead Center \hfill \begingroup\small 2024-present\endgroup\
-(Harvard University)
+## Affiliations
 
-International Association for the Study of Popular Music (IASPM) \hfill \begingroup\small 2022-2023\endgroup
+*Affiliate Weatherhead Center* (Harvard University, 2024-present), *KU Leuven Digital Society Institute* (DigSoc, 2021-present), *KU Leuven Youth Institute* (2021-present)
 
-International Communication Association (ICA) \hfill \begingroup\small 2022-present\endgroup
+## Visitings
 
-Visiting Fellow, Department of Communication Science \hfill \begingroup\small 2022\endgroup\
-(Yonsei University)
-
-KU Leuven Digital Society Institute (DigSoc) \hfill \begingroup\small 2021-present\endgroup
-
-KU Leuven Youth Institute \hfill \begingroup\small 2021-present\endgroup
-
-American Sociological Association (ASA) \hfill \begingroup\small 2021-2022\endgroup
-
-Netherlands – Flanders Communication Association (NeFCA) \hfill \begingroup\small 2020-present\endgroup
-
-International Sociological Associatoin (ISA) \hfill \begingroup\small 2019-2020\endgroup \newline
+*Department of Sociology and Weatherhead Center* (Harvard University, 2024), *Department of Communication Science* (Yonsei University, 2022), *Department of Sociology, Philosophy and Anthropology* (University of Exeter, 2018)
 
 ## Professional Services
 
-Chair *Popular Media & Culture* division \hfill \begingroup\small 2024-\endgroup\
-(Netherlands and Flanders Communication Association, NeFCA)
-
-Chair session Digital Inclusion and Inequality, Media Psychology Division \hfill \begingroup\small 2025\endgroup\
-(Etmaal conference, Bruges)
-
-Chair session Meritocracy, Alumni Conference \hfill \begingroup\small 2024\endgroup\
-(Weatherhead Center, Harvard University)
-
-Chair session Class and Status \hfill \begingroup\small 2022\endgroup\
-(21st IASPM Annual Meeting, Daegu)
-
-Presider session Meritocracy, Cultural Sociology Division \hfill \begingroup\small 2022\endgroup\
-(116th ASA Annual Meeting, Chicago) \newline
+*Chair Popular Media & Culture division* (Netherlands and Flanders Communication Association, NeFCA, 2024-), *Chair session Meritocracy* (Alumni Conference Weatherhead Center, Harvard University, 2024), *Chair session Class and Status* (21st IASPM Annual Meeting, Daegu, 2022), *Presider session Meritocracy, Cultural Sociology Division* (116th ASA Annual Meeting, Chicago, 2022)
 
 ## Faculty Services
 
-Well-Being Ambassador \hfill \begingroup\small 2024-present\endgroup\
-Media Psychology Lab, KU Leuven (FSW)\
-*Organization of events and monitoring.*
-
-Co-organizer Media Psychology Lab seminars \hfill \begingroup\small 2024-present\endgroup\
-KU Leuven (FSW)\
-*Organization of graduate seminars, welcoming and hosting of guests*
-
-Co-director of MethLab \hfill \begingroup\small 2020-present\endgroup\
-KU Leuven (FSW)\
-*Graduate workshops for methodological training and learning.*
-
-Co-director of Cultural Sociology group \hfill \begingroup\small 2020-2024\endgroup\
-KU Leuven (FSW)\
-*Reading group for PhD, Postdocs, and Professors.*
-
-Member Diversity and Sustainability Committee \hfill \begingroup\small 2021-2023\endgroup\
-KU Leuven (FSW)\
-*Organization of events and monitoring.*
-
-Founder University newspaper "L'Universitario" \hfill \begingroup\small 2016-2018\endgroup\
-University of Trento\
-*Director section "Scientific Divulgation".*
+*Well-Being Ambassador* (KU Leuven, 2024-present), *Co-organizer Media Psychology Lab seminars* (KU Leuven, 2024-present), *Co-director of MethLab* (KU Leuven, 2020-present), *Co-director of Cultural Sociology group* (KU Leuven, 2020-2024), *Member Diversity and Sustainability Committee* (KU Leuven, 2021-2023), *Founder University newspaper "L'Universitario"* (University of Trento, 2016-2018)
 
 # Relevant Work Experience
 \vspace{-10pt}

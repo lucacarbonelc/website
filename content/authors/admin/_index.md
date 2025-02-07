@@ -3,7 +3,6 @@ authors:
 - admin
 bio: 
 education:
-  courses:
   - course: PhD in Social Sciences
     institution: KU Leuven
     year: 2020 - 2024
@@ -16,13 +15,12 @@ education:
 email: "lucacarbone.lc@gmail.com"
 interests:
 - Media psychology
-- Cultural sociology
+- Sociology
 - Music
 - Youth
-- Resonance
-- Success
+- Mental health
 - Meritocracy
-- Streaming platforms
+- Resonance
 name: Luca Carbone
 organizations:
 - name: KU Leuven
@@ -34,6 +32,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:luca.carbone@kuleuven.be"
+- icon: scholar
+  icon_pack: fa
+  link: "https://scholar.google.com/citations?hl=en&user=0kvrqDUAAAAJ"
 - icon: osf
   icon_pack: ai ai-osf
   link: https://osf.io/profile/
@@ -51,4 +52,4 @@ superuser: true
 
 I am a postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at Department of Communication Sciences at KU Leuven. I obtained my PhD at KU Leuven, where I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). Currently, I am also affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) at Harvard University.
 
-I work at the intersection of media psychology and cultural sociology to study the distribution of success narratives in popular culture, with a specific focus on music, and their effects on the identities and mental health of young people. I am also interested in social and communication theory, algorithms and platforms, media events and online cultures, NLP, networks, and psychometrics.
+I work at the intersection of media psychology and sociology to study media effects on youth's identities and mental health, with a specific focus on music. I am also interested in social and communication theory, algorithms and platforms, online cultures, computational social science, multisensory research, and psychometrics.
