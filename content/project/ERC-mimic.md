@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: 
 tags:
-title: MIMIc
+title: ERC MIMIc
 url_code: "https://osf.io/r8c9t/"
 url_pdf: ""
 url_slides: ""
