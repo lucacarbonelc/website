@@ -7,7 +7,7 @@ authors:
 - Jaan Toelen
 - David De Coninck
 date: "2024-10-26T00:00:00Z"
-doi: ""
+doi: "https://www.tandfonline.com/doi/full/10.1080/15546128.2024.2415304"
 featured: false
 image:
   caption: ""
