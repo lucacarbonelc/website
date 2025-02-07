@@ -3,15 +3,16 @@ authors:
 - admin
 bio: 
 education:
-- course: PhD in Social Sciences
-  institution: KU Leuven
-  year: 2020 - 2024
-- course: Research MSc in Social Sciences
-  institution: Tilburg University
-  year: 2017 - 2019
-- course: BSc in Sociology
-  institution: University of Trento
-  year: 2014 - 2017
+  courses:
+  - course: PhD in Communication Science
+    institution: KU Leuven Media Psychology Lab
+    year: 2020 - 2024
+  - course: Research MSc in Sociology
+    institution: Tilburg University
+    year: 2017 - 2019
+  - course: BSc in Sociology
+    institution: University of Trento
+    year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
 interests:
 - Media psychology
@@ -25,22 +26,23 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
-- name: Harvard University
-  url: "https://inequality.wcfia.harvard.edu/people/luca-carbone-0"
 role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fa
-  link: "mailto:luca.carbone@kuleuven.be"
+  link: "mailto:lucacarbone.lc@gmail.com"
 - icon: google-scholar
   icon_pack: ai
   link: "https://scholar.google.com/citations?hl=en&user=0kvrqDUAAAAJ"
 - icon: osf
   icon_pack: ai ai-osf
-  link: https://osf.io/profile/
+  link: https://osf.io/r2s8q/
 - icon: orcid
   icon_pack: ai ai-orcid
   link: https://orcid.org/0000-0003-1688-9468
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=0kvrqDUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/lucacarbonelc
@@ -48,6 +50,8 @@ social:
   icon_pack: fab
   link: https://twitter.com/lucacarbone__lc
 superuser: true
+user_groups:
+- Team
 ---
 
 I am a postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at Department of Communication Sciences at KU Leuven. I obtained my PhD at KU Leuven, where I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). Currently, I am also affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) at Harvard University.
