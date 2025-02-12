@@ -26,6 +26,8 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
+- name: Harvard University
+  url: "https://inequality.wcfia.harvard.edu/people/luca-carbone-0"
 role: Postdoctoral researcher
 social:
 - icon: envelope
