@@ -1,0 +1,35 @@
+import { SectionContent } from "../site/SectionContent";
+import { Vnode } from "mithril";
+import { Section } from "../site/Section";
+import { ServerSettingsLoader } from "../loader/ServerSettingsLoader";
+export declare class Content extends SectionContent {
+    private loader;
+    private markdownRenderer;
+    private noConnection;
+    private loadPreReleases;
+    private selectedIndex;
+    private readonly observerId;
+    private hasUpdates;
+    private newestVersionName;
+    private newestVersionDownloadUrl;
+    private releaseData;
+    private debuggingOn;
+    private changeLanguageList;
+    static preLoad(section: Section): Promise<any>[];
+    constructor(sitePage: Section, loader: ServerSettingsLoader);
+    preInit(): Promise<any>;
+    title(): string;
+    titleExtra(): Vnode<any, any>;
+    private getUpdateUrl;
+    private saveServerSettings;
+    private loadUpdates;
+    private updateNow;
+    private changeRelease;
+    getView(): Vnode<any, any>;
+    private getGeneralView;
+    private getHomeMessageView;
+    private getImpressumView;
+    private getPrivacyPolicyView;
+    private updateSaveState;
+    destroy(): void;
+}

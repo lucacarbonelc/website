@@ -1,0 +1,32 @@
+import { ObservableStructure } from "../../observable/ObservableStructure";
+export type InputResponseType = "app_usage" | "binary" | "bluetooth_devices" | "compass" | "countdown" | "date" | "duration" | "dynamic_input" | "file_upload" | "image" | "likert" | "list_multiple" | "list_single" | "location" | "number" | "photo" | "record_audio" | "share" | "text" | "text_input" | "time" | "va_scale" | "video";
+export type InputMediaTypes = "image" | "audio";
+export declare class Input extends ObservableStructure {
+    responseType: import("../../observable/BaseObservable").BaseObservable<InputResponseType>;
+    name: import("../../observable/BaseObservable").BaseObservable<string>;
+    required: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    random: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    likertSteps: import("../../observable/BaseObservable").BaseObservable<number>;
+    numberHasDecimal: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    asDropDown: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    forceInt: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    packageId: import("../../observable/BaseObservable").BaseObservable<string>;
+    timeoutSec: import("../../observable/BaseObservable").BaseObservable<number>;
+    playSound: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    showValue: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    maxValue: import("../../observable/BaseObservable").BaseObservable<number>;
+    resolution: import("../../observable/BaseObservable").BaseObservable<number>;
+    quality: import("../../observable/BaseObservable").BaseObservable<number>;
+    relevance: import("../../observable/BaseObservable").BaseObservable<string>;
+    vertical: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    textScript: import("../../observable/BaseObservable").BaseObservable<string>;
+    other: import("../../observable/BaseObservable").BaseObservable<boolean>;
+    defaultValue: import("../../observable/BaseObservable").BaseObservable<string>;
+    text: import("../../observable/BaseObservable").BaseObservable<string>;
+    url: import("../../observable/BaseObservable").BaseObservable<string>;
+    leftSideLabel: import("../../observable/BaseObservable").BaseObservable<string>;
+    rightSideLabel: import("../../observable/BaseObservable").BaseObservable<string>;
+    listChoices: import("../../observable/TranslatableArray").TranslatableArray<string, import("../../observable/BaseTranslatable").BaseTranslatable<string>>;
+    subInputs: import("../../observable/TranslatableArray").TranslatableArray<import("../../observable/ObservableStructure").ObservableStructureDataType, Input>;
+    getMediaType(): InputMediaTypes | null;
+}

@@ -1,0 +1,34 @@
+php_value post_max_size 300M
+php_value upload_max_filesize 300M
+RewriteEngine On
+
+
+# to study				www.example.com/1234
+RewriteRule ^(\d+)$ index.php?id=$1 [NC,L,QSA]
+
+# to study				www.example.com/KEY
+RewriteRule ^([a-zA-Z][a-zA-Z0-9]+)$ index.php?key=$1 [NC,L,QSA]
+
+# to study				www.example.com/1234-KEY
+RewriteRule ^(\d+)-([a-zA-Z][a-zA-Z0-9]+)$ index.php?id=$1&key=$2 [NC,L,QSA]
+
+
+# to app instructions	www.example.com/app-1234
+RewriteRule ^app-(\d+)$ index.php?id=$1&app_install [NC,L,QSA]
+
+# to app instructions	www.example.com/app-KEY
+RewriteRule ^app-([a-zA-Z][a-zA-Z0-9]+)$ index.php?key=$1&app_install [NC,L,QSA]
+
+# to app instructions	www.example.com/app-1234-KEY
+RewriteRule ^app-(\d+)-([a-zA-Z][a-zA-Z0-9]+)$ index.php?id=$1&key=$2&app_install [NC,L,QSA]
+
+
+# to questionnaire		www.example.com/survey-12345
+RewriteRule ^survey-(\d+)$ index.php?qid=$1 [NC,L,QSA]
+
+# to questionnaire		www.example.com/survey-12345-KEY
+RewriteRule ^survey-(\d+)-([a-zA-Z][a-zA-Z0-9]+)$ index.php?qid=$1&key=$2 [NC,L,QSA]
+
+
+# Fallback in case we ever want to replace the php backend:
+RewriteRule ^api/([^.]+)$ api/$1.php [NC,L,QSA]
