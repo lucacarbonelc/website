@@ -1,2 +1,0 @@
-var ESMira;(()=>{"use strict";var o;(o=new(function(){function o(){}return o.prototype.toggleUrl=function(){var o=window.location.href.match(/([^?]+\/)(index\.php|index_nojs\.php|)(\?.*|)/);if(null!=o){var n=o[1],e=o[2],i=o[3];window.location.href=n+("index_nojs.php"===e?"index.php":"index_nojs.php")+i}else console.error("Url has unexpected format!")},o.prototype.isCompatible=function(){return!(!window.Promise||!window.Promise.all)},o}())).isCompatible()&&o.toggleUrl(),ESMira={}})();
-//# sourceMappingURL=nojs.ee5dd7878525f748ef40.js.map

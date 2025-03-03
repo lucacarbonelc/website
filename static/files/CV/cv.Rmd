@@ -204,6 +204,7 @@ Day of Sociology \hfill \begingroup\small 2019\endgroup\
 
 ## Supervising Activities
 
+Daily mentor of **1 PhD student**, KU Leuven \hfill \begingroup\small 2025-present\endgroup\
 Supervisor of **12 MA students**, KU Leuven \hfill \begingroup\small 2020-present\endgroup\
 Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020-present\endgroup
 
@@ -238,6 +239,10 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 # Relevant Work Experience
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+Senior researcher at Department of Sociology and Center for Demographic Studies, Universitat Autònoma de Barcelona  \hfill \begingroup\small 2025\endgroup\
+(Host: Prof. Pablo Gracia)\
+*Research on digital time use among adolescents and socio-digital inequalities (ERC project DIGINEQ)*
 
 Research assistant at the Department of Sociology, Tilburg University \hfill \begingroup\small 2019\endgroup\
 (Supervisor: Prof. Ruud Muffels)\
