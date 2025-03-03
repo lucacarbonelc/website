@@ -16,11 +16,11 @@ education:
 email: "lucacarbone.lc@gmail.com"
 interests:
 - Media psychology
-- Sociology
-- Music
-- Youth
+- Cultural sociology
+- Youth & Masculinities
 - Mental health
-- Meritocracy
+- Meritocracy & Neoliberalism
+- Music & Entertainment
 - Resonance
 name: Luca Carbone
 organizations:
@@ -53,6 +53,6 @@ user_groups:
 - Team
 ---
 
-I am a postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at Department of Communication Sciences at KU Leuven. I obtained my PhD at KU Leuven, where I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). Currently, I am also affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) at Harvard University.
+I am a postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at Department of Communication Science at KU Leuven. I obtained my PhD at KU Leuven, where I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). I am affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) at Harvard University.
 
-I work at the intersection of media psychology and sociology to study media effects on youth's identities and mental health, with a specific focus on music. I am also interested in social and communication theory, algorithms and platforms, online cultures, computational social science, multisensory research, and psychometrics.
+I work at the intersection of media psychology and sociology to study media effects on youth's identities and mental health. I particularly study socio-digital inequalities by contextualizing person-specific media experiences within socially stratified processes of cultural distribution and consumption. I am also interested in social and communication theory, algorithms and platforms, online cultures, CSS, time-sensitive (long and short term), multisensory (mobile sensing), and psychometric research.
