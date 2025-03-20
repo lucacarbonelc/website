@@ -57,6 +57,10 @@ GPA 28.74/30, 110 cum laude
 
 ## Journal articles
 
+\hfill \begingroup\small 2025\endgroup
+
+__Carbone, L.__, Klimmt, C., & Vandenbosch, L. (2025). The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists. *Mass Communication & Society*. (Accepted)
+
 \hfill \begingroup\small 2024\endgroup
 
 __Carbone, L.__, Alvarez-Cueva, P., & Vandenbosch, L. (2024). Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics. *Sex Roles, 90*: 891–909. [https://doi.org/10.1007/s11199-024-01483-0](https://doi.org/10.1007/s11199-024-01483-0)
@@ -85,13 +89,17 @@ Rosič J., Janicke-Bowles S.H., __Carbone, L.__, Lobe B., Vandenbosch L. (2022).
 
 ## Book Chapters and Reviews
 
+\hfill \begingroup\small 2025\endgroup
+
+__Carbone, L.__ (2025). Book Review: 'Popular Music and the Rise of Populism in Europe (Eds. Mario Dunkel & Melanie Schiller)', *eExtreme*.
+
 \hfill \begingroup\small 2023\endgroup
 
 Kuipers, G., Brans, L., __Carbone, L.__ (2023). "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" in *Fashion’s Transnational Inequalities: Socio-Political, Economic, and Environmental* (Eds. Almila, A.-M. & Delice, S.). Routledge. (https://books.google.be/books?id=t9DSEAAAQBAJ&dq)
 
 \hfill \begingroup\small 2022\endgroup
 
-__Carbone, L.__ (2022). Book Review: 'Getting Signed: Record Contracts, Musicians, and Power in Society.', *New Media & Society*. [https://doi.org/10.1177/14614448221101210](https://doi.org/10.1177/14614448221101210).
+__Carbone, L.__ (2022). Book Review: 'Getting Signed: Record Contracts, Musicians, and Power in Society (by David Arditi)', *New Media & Society*. [https://doi.org/10.1177/14614448221101210](https://doi.org/10.1177/14614448221101210).
 
 \hfill \begingroup\small 2019\endgroup
 
@@ -114,32 +122,6 @@ Tilburg University, visiting fund at Exeter University (€1,000).  \hfill \begi
 # Presentations
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
-
-## Invited Talks
-
-Talk "A Theory of Resonant Experiences with Media" \hfill \begingroup\small 2024\endgroup\
-(Cultural Sociology Club, Department of Sociology, University of Amsterdam)
-
-Talk "Social media in the music industry" \hfill \begingroup\small 2024\endgroup\
-(Ancienne Belgique, Brussels)
-
-Seminar "Music and Meritoracy" \hfill \begingroup\small 2024\endgroup\
-(BA Communication Sociology, University of Vienna)
-
-CII Spotlight \hfill \begingroup\small 2024\endgroup\
-(Weatherhead Center, Harvard University)
-
-Talk "Meritocracy and Inequality" \hfill \begingroup\small 2024\endgroup\
-(Culture and Social Analysis Workshop, Harvard University)
-
-CII Seminar \hfill \begingroup\small 2024\endgroup\
-(Weatherhead Center, Harvard University)
-
-Graduate Seminar "Studying media objects and individuals’ cognition" \hfill \begingroup\small 2024\endgroup\
-(Department of Sociology, Boston University)
-
-Talk "Current Research on Popular Music in Belgium" \hfill \begingroup\small 2023\endgroup\
-(IASPM Benelux, Leuven) \newline
 
 ## Conference Presentations
 
@@ -182,6 +164,32 @@ IV Forum of Sociology of the International Sociological Association \hfill \begi
 Day of Sociology \hfill \begingroup\small 2019\endgroup\
 (DvDS, Amsterdam)
 
+## Invited Talks
+
+Talk "A Theory of Resonant Experiences with Media" \hfill \begingroup\small 2024\endgroup\
+(Cultural Sociology Club, Department of Sociology, University of Amsterdam)
+
+Talk "Social media in the music industry" \hfill \begingroup\small 2024\endgroup\
+(Ancienne Belgique, Brussels)
+
+Seminar "Music and Meritoracy" \hfill \begingroup\small 2024\endgroup\
+(BA Communication Sociology, University of Vienna)
+
+CII Spotlight \hfill \begingroup\small 2024\endgroup\
+(Weatherhead Center, Harvard University)
+
+Talk "Meritocracy and Inequality" \hfill \begingroup\small 2024\endgroup\
+(Culture and Social Analysis Workshop, Harvard University)
+
+CII Seminar \hfill \begingroup\small 2024\endgroup\
+(Weatherhead Center, Harvard University)
+
+Graduate Seminar "Studying media objects and individuals’ cognition" \hfill \begingroup\small 2024\endgroup\
+(Department of Sociology, Boston University)
+
+Talk "Current Research on Popular Music in Belgium" \hfill \begingroup\small 2023\endgroup\
+(IASPM Benelux, Leuven) \newline
+
 # Teaching Experience
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
@@ -214,7 +222,7 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Peer Reviewer
 
-*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*
+*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*
 
 ## Memberships
 
@@ -285,6 +293,5 @@ Basic: STATA, SPSS
 \rule{1\linewidth}{\linethickness}
 
 Laura Vandenbosch (KU Leuven, PhD supervisor)\
-Michèle Lamont (Harvard University, visiting host)\
 Jonathan Mijs (Boston University)\
 Stef Aupers (KU Leuven)
