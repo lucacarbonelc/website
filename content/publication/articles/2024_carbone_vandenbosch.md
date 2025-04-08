@@ -28,7 +28,7 @@ tags:
 title: "Adolescents’ music tastes in the streaming era: The case of Belgium"
 url_code: "https://osf.io/fv4uc/?view_only=fc86941954554f169277c2ff4eab626d"
 url_dataset: "https://osf.io/fv4uc/?view_only=fc86941954554f169277c2ff4eab626d"
-url_pdf:
+url_pdf: "./files/articles/2024_carbone_vandenbosch.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

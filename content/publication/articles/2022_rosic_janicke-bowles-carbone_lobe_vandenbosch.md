@@ -29,8 +29,8 @@ tags:
 - Well-being
 - Adolescents
 title: "Positive digital communication among youth: The development and validation of the digital flourishing scale for adolescents"
-url_code: "https://osf.io/9wuyb/?view_only = 9e64aa7358ed40a0823a8cb75c49c3ae"
-url_dataset: "https://osf.io/9wuyb/?view_only = 9e64aa7358ed40a0823a8cb75c49c3ae"
+url_code: "https://osf.io/9wuyb/?view_only=9e64aa7358ed40a0823a8cb75c49c3ae"
+url_dataset: "https://osf.io/9wuyb/?view_only=9e64aa7358ed40a0823a8cb75c49c3ae"
 url_pdf: ""
 url_poster: ""
 url_project: ""

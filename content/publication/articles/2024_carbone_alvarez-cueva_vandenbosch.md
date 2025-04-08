@@ -28,7 +28,7 @@ tags:
 title: "Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics"
 url_code: "https://osf.io/3bu5t/?view_only=0f78cd5af47c4ac0ad6b5c6b1b35a176"
 url_dataset: "https://osf.io/3bu5t/?view_only=0f78cd5af47c4ac0ad6b5c6b1b35a176"
-url_pdf: ""
+url_pdf: "./files/articles/2024_carbone_alvarez-cueva_vandenbosch.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

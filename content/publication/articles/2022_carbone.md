@@ -25,7 +25,7 @@ tags:
 title: "Book Review: Getting Signed: Record Contracts, Musicians, and Power in Society"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "./files/articles/2022_carbone.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

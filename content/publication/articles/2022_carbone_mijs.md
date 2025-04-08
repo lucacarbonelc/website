@@ -27,7 +27,7 @@ tags:
 title: "Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture"
 url_code: "https://osf.io/fm2j4/"
 url_dataset: "https://osf.io/f4r86/"
-url_pdf: "https://osf.io/preprints/socarxiv/3s5m2/"
+url_pdf: "./files/articles/2022_carbone_mijs.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -27,7 +27,7 @@ tags:
 title: "A Meta-Analysis of Studies Examining the Effect of Music on Beliefs"
 url_code: "https://osf.io/fm2j4/"
 url_dataset: "https://osf.io/f4r86/"
-url_pdf:
+url_pdf: "./files/articles/2023_carbone_vandenbosch.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

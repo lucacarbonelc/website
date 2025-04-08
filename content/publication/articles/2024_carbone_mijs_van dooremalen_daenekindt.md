@@ -30,7 +30,7 @@ tags:
 title: "Towards a sociology of recurrent events. Constellations of cultural change around Eurovision in 18 countries (1981–2021)"
 url_code: "https://osf.io/qejkx/?view_only=729466ffa6254cb592d6b3e299cb94c1"
 url_dataset: "https://osf.io/qejkx/?view_only=729466ffa6254cb592d6b3e299cb94c1"
-url_pdf: ""
+url_pdf: "./files/articles/2024_carbone_mijs_van dooremalen_daenekindt.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
