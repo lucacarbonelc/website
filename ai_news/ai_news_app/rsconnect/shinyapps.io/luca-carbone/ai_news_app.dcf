@@ -1,0 +1,10 @@
+name: ai_news_app
+title:
+username: luca-carbone
+account: luca-carbone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14492251
+bundleId: 10094631
+url: https://luca-carbone.shinyapps.io/ai_news_app/
+version: 1
