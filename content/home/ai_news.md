@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "D*AI*ly AI News Digest"
 date = 2025-04-10
 type = "docs"
 +++

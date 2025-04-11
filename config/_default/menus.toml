@@ -36,7 +36,7 @@
   weight = 60
   
 [[main]]
-  name = "dAIly dashboard"
+  name = "d<strong>AI</strong>ly dashboard"
   url = "#ai_news"
   weight = 70
   
