@@ -36,6 +36,11 @@
   weight = 60
   
 [[main]]
+  name = "AI news dashboard"
+  url = "#ai_news"
+  weight = 70
+  
+[[main]]
   name = "Dissertation"
   url = "files/diss.pdf"
-  weight = 70
+  weight = 80
