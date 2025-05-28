@@ -207,6 +207,11 @@ Talk "Current Research on Popular Music in Belgium" \hfill \begingroup\small 202
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
+## Guest Professor
+**Hanover University of Music, Drama, and Media** \hfill \begingroup\small 2025–2026\endgroup\
+· Course Media and Music\
+· Course seminar Media and Music\
+
 ## Teaching Assistant
 
 **Media Psychology Lab, KU Leuven** \hfill \begingroup\small 2021–present\endgroup\
@@ -235,7 +240,7 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Peer Reviewer
 
-*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*
+*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*
 
 ## Memberships
 
@@ -243,7 +248,7 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Affiliations
 
-*Affiliate Weatherhead Center* (Harvard University, 2024-present), *KU Leuven Digital Society Institute* (DigSoc, 2021-present), *KU Leuven Youth Institute* (2021-present)
+*Fellow Weatherhead Center* (Harvard University, 2024-present), *KU Leuven Digital Society Institute* (DigSoc, 2021-present), *KU Leuven Youth Institute* (2021-present)
 
 ## Visitings
 
@@ -260,10 +265,6 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 # Relevant Work Experience
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
-
-Senior researcher at Department of Sociology and Center for Demographic Studies, Universitat Autònoma de Barcelona  \hfill \begingroup\small 2025\endgroup\
-(Host: Prof. Pablo Gracia)\
-*Research on digital time use among adolescents and socio-digital inequalities (ERC project DIGINEQ)*
 
 Research assistant at the Department of Sociology, Tilburg University \hfill \begingroup\small 2019\endgroup\
 (Supervisor: Prof. Ruud Muffels)\
