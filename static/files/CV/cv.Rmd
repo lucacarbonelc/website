@@ -26,6 +26,9 @@ web: www.lucacarbone.com
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
+**Hanover University of Music, Drama, and Media, DE** \hfill \begingroup\small 2025-2026\endgroup\
+Guest Professor, Department of Journalism and Communication Research
+
 **KU Leuven, BE** \hfill \begingroup\small 2024-2025\endgroup\
 Postdoctoral researcher, Media Psychology Lab
 
@@ -208,6 +211,7 @@ Talk "Current Research on Popular Music in Belgium" \hfill \begingroup\small 202
 \rule{1\linewidth}{\linethickness}
 
 ## Guest Professor
+
 **Hanover University of Music, Drama, and Media** \hfill \begingroup\small 2025–2026\endgroup\
 · Course Media and Music\
 · Course seminar Media and Music\
