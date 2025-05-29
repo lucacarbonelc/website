@@ -310,6 +310,4 @@ Basic: STATA, SPSS
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Laura Vandenbosch (KU Leuven, PhD supervisor)\
-Jonathan Mijs (Boston University)\
-Stef Aupers (KU Leuven)
+Available upon request
