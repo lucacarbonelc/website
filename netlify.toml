@@ -2,9 +2,6 @@
 publish = "public"
 command = "hugo"
 
-[build.environment]
-MISE_VERBOSE = "1"
-
 [context.production.environment]
 HUGO_VERSION = "0.147.9"
 HUGO_ENV = "production"
