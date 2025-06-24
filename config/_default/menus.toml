@@ -36,11 +36,6 @@
   weight = 60
   
 [[main]]
-  name = "d<strong>AI</strong>ly dashboard"
-  url = "#ai_news"
-  weight = 70
-  
-[[main]]
   name = "Dissertation"
   url = "files/diss.pdf"
-  weight = 80
+  weight = 70
