@@ -63,7 +63,7 @@ GPA 28.74/30, 110 cum laude
 
 \hfill \begingroup\small 2025\endgroup
 
-__Carbone, L.__, Klimmt, C., & Vandenbosch, L. (2025). The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists. *Mass Communication & Society*. (Accepted)
+__Carbone, L.__, Klimmt, C., & Vandenbosch, L. (2025). The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists. *Mass Communication & Society*. [https://doi.org/10.1080/15205436.2025.2528630](https://doi.org/10.1080/15205436.2025.2528630)
 
 \hfill \begingroup\small 2024\endgroup
 
@@ -115,7 +115,7 @@ __Carbone, Luca__ .2019. "Twitter come mercato comunicativo? Un’analisi sulle 
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Best Dissertation Award, ICA
+Best Dissertation Award, ICA ($250)
 \hfill \begingroup\small 2025 \endgroup\
 (Children, Adolescents, and Media division)
 
@@ -138,76 +138,44 @@ Tilburg University, visiting fund at Exeter University (€1,000)
 
 ## Conference Presentations
 
-International Conference for an Inclusive Society \hfill \begingroup\small 2025\endgroup\
-(KU Leuven, Leuven)
+\hfill \begingroup\small 2025\endgroup\
+International Conference for an Inclusive Society *(Leuven)*\
+75th ICA *(Denver)*\
+Etmaal *(Bruges)*
 
-75th conference of the International Communication Association \hfill \begingroup\small 2025\endgroup\
-(ICA, Denver)
+\hfill \begingroup\small 2023\endgroup\
+73rd ICA *(Toronto)*\
+Etmaal *(Enschede)*
 
-Etmaal van de Communicatiewetenschap \hfill \begingroup\small 2025\endgroup\
-(Etmaal, Bruges)
+\hfill \begingroup\small 2022\endgroup\
+21st IASPM *(Daegu)*\
+Day of Sociology *(Groningen)*\
+72nd ICA *(Paris)*\
+Etmaal *(Brussels)*
 
-73rd conference of the International Communication Association \hfill \begingroup\small 2023\endgroup\
-(ICA, Toronto)
+\hfill \begingroup\small 2021\endgroup\
+116th ASA *(Chicago)*\
+7th IC2S2 *(Zürich)*\
+4th Interdisciplinary Graduate Conference *(Tilburg)*\
+4th ISA Forum of Sociology *(Porto Alegre)*
 
-Etmaal van de Communicatiewetenschap \hfill \begingroup\small 2023\endgroup\
-(Etmaal, Enschede)
-
-21st conference of the International Association for the Study of Popoular Music \hfill \begingroup\small 2022\endgroup\
-(IASPM, Daegu)
-
-Day of Sociology \hfill \begingroup\small 2022\endgroup\
-(DvDS, Groningen)
-
-72nd conference of the International Communication Association (ICA) \hfill \begingroup\small 2022\endgroup\
-(ICA, Paris)
-
-Etmaal van de Communicatiewetenschap \hfill \begingroup\small 2022\endgroup\
-(Etmaal, Brussels)
-
-116th Annual Meeting of the American Sociological Association \hfill \begingroup\small 2021\endgroup\
-(ASA, Chicago)
-
-7th International Conference on Computational Social Science \hfill \begingroup\small 2021\endgroup\
-(IC2S2, ETH Zürich)
-
-4th Joint Interdisciplinary Graduate Conference \hfill \begingroup\small 2021\endgroup\
-(Tilburg University)
-
-IV Forum of Sociology of the International Sociological Association \hfill \begingroup\small 2021\endgroup\
-(ISA, Porto Alegre)
-
-Day of Sociology \hfill \begingroup\small 2019\endgroup\
-(DvDS, Amsterdam)
+\hfill \begingroup\small 2019\endgroup\
+Day of Sociology *(Amsterdam)*
 
 ## Invited Talks
 
-Public panel to discuss movie on social media and teens "Can't Feel Nothing" \hfill \begingroup\small 2025\endgroup\
-(Cinema ZED – DOCVILLE, Leuven)
+\hfill \begingroup\small 2025\endgroup\
+Social media and youth mental health *(Cinema ZED – DOCVILLE, Leuven)*
 
-Talk "A Theory of Resonant Experiences with Media" \hfill \begingroup\small 2024\endgroup\
-(Cultural Sociology Club, Department of Sociology, University of Amsterdam)
+\hfill \begingroup\small 2024\endgroup\
+Cultural Sociology Club *(Department of Sociology, UvA)*\
+Music and social media *(Ancienne Belgique, Brussels)*\
+CII Spotlight *(Weatherhead Center, Harvard U)*\
+Culture and Social Analysis Workshop *(Department of Sociology, Harvard U)*\
+CII Seminar *(Weatherhead Center, Harvard U)*
 
-Talk "Social media in the music industry" \hfill \begingroup\small 2024\endgroup\
-(Ancienne Belgique, Brussels)
-
-Seminar "Music and Meritoracy" \hfill \begingroup\small 2024\endgroup\
-(BA Communication Sociology, University of Vienna)
-
-CII Spotlight \hfill \begingroup\small 2024\endgroup\
-(Weatherhead Center, Harvard University)
-
-Talk "Meritocracy and Inequality" \hfill \begingroup\small 2024\endgroup\
-(Culture and Social Analysis Workshop, Harvard University)
-
-CII Seminar \hfill \begingroup\small 2024\endgroup\
-(Weatherhead Center, Harvard University)
-
-Graduate Seminar "Studying media objects and individuals’ cognition" \hfill \begingroup\small 2024\endgroup\
-(Department of Sociology, Boston University)
-
-Talk "Current Research on Popular Music in Belgium" \hfill \begingroup\small 2023\endgroup\
-(IASPM Benelux, Leuven) \newline
+\hfill \begingroup\small 2023\endgroup\
+Current Research on Popular Music in Belgium *(IASPM Benelux, Leuven)*
 
 # Teaching Experience
 \vspace{-10pt}
@@ -216,24 +184,42 @@ Talk "Current Research on Popular Music in Belgium" \hfill \begingroup\small 202
 ## Guest Professor
 
 **Hanover University of Music, Drama, and Media** \hfill \begingroup\small 2025–2026\endgroup\
-· Social approaches to research Popular Music\
-· Current topics in Popular Music\
+· Course "Music and Youth Identity"\
+*(MA Communication and Media Research & MA Media and Music)*\
+· Course "Current topics in Popular Music"\
+*(BA Communication Science)*
 
-## Teaching Assistant
+## Teaching Activities
+
+**Department of Communication, University of Vienna** \hfill \begingroup\small 2024\endgroup\
+· Seminar "Music and Meritoracy"\
+*(BA Communication Sociology)*
+
+**Department of Sociology, Boston University** \hfill \begingroup\small 2024\endgroup\
+· Seminar "Studying media objects and individuals’ cognition"\
+*(MA/PhD Sociology)*
 
 **Media Psychology Lab, KU Leuven** \hfill \begingroup\small 2021–present\endgroup\
-· Computational methods for text analysis (Research Designs for Communication Science)\
-· Music and the crisis of masculinity (Media and Crisis)\
-· Music and the crisis of individualism(?) (Media and Crisis)\
-· Social media: a curse or blessing for the body image crisis? (Media and Crisis)
+· Seminars "Computational methods for text analysis"\
+*(MA Research Designs for Communication Science)*\
+· Seminar "Music and the crisis of masculinity"\
+*(MA Media and Crisis)*\
+· Seminar "Music and the crisis of individualism(?)"\
+*(MA Media and Crisis)*\
+· Seminar "Social media: a curse or blessing for the body image crisis?"\
+*(MA Media and Crisis)*
 
 **Department of Sociology, Tilburg University** \hfill \begingroup\small 2017-2019\endgroup\
-· Social Risk and Culture
+· Course "Social Risk and Culture"\
+*(MA Sociology)*
 
 **Department of Methodology & Statistics, Tilburg University** \hfill \begingroup\small 2017-2019\endgroup\
-· Introduction to Statistics\
-· Questionnaire Design\
-· Experimental Design
+· Lab "Introduction to Statistics"\
+*(BA Methodology & Statistics)*
+· Lab "Questionnaire Design"\
+*(BA Methodology & Statistics)*
+· Lab "Experimental Design"
+*(BA Methodology & Statistics)*
 
 ## Supervising Activities
 
@@ -247,7 +233,7 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Peer Reviewer
 
-*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*, *International Journal of Public Opinion Research*, *Nature - Humanities and Social Sciences Communications*
+*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*, *Nature - Humanities and Social Sciences Communications*
 
 ## Memberships
 
@@ -263,13 +249,13 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Professional Services
 
-*National Representative for Belgium* (International Association for the Study of Popular Music), *Chair Popular Media & Culture division* (Netherlands and Flanders Communication Association, NeFCA, 2024-), *Chair session Meritocracy* (Alumni Conference Weatherhead Center, Harvard University, 2024), *Chair session Class and Status* (21st IASPM Annual Meeting, Daegu, 2022), *Presider session Meritocracy, Cultural Sociology Division* (116th ASA Annual Meeting, Chicago, 2022)
+*National Representative of Belgium* (International Association for the Study of Popular Music), *Chair Popular Media & Culture division* (Netherlands and Flanders Communication Association, NeFCA, 2024-), *Chair session Meritocracy* (Alumni Conference Weatherhead Center, Harvard University, 2024), *Chair session Class and Status* (21st IASPM Annual Meeting, Daegu, 2022), *Presider session Meritocracy, Cultural Sociology Division* (116th ASA Annual Meeting, Chicago, 2022)
 
 ## Faculty Services
 
 *AI Ambassador* (KU Leuven, 2025-present), *Well-Being Ambassador* (KU Leuven, 2024-present), *Co-organizer Media Psychology Lab seminars* (KU Leuven, 2024-present), *Co-director of MethLab* (KU Leuven, 2020-present), *Co-director of Cultural Sociology group* (KU Leuven, 2020-2024), *Member Diversity and Sustainability Committee* (KU Leuven, 2021-2023), *Founder University newspaper "L'Universitario"* (University of Trento, 2016-2018)
 
-# Relevant Work Experience
+# Additional Research Experience
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 

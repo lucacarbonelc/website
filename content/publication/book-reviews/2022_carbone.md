@@ -13,7 +13,7 @@ projects: [music&meritocracy]
 publication: "New Media & Society"
 publication_short: ""
 publication_types:
-- "2"
+- "6"
 publishDate: ""
 slides: ""
 summary:
