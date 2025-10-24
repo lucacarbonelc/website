@@ -65,6 +65,10 @@ GPA 28.74/30, 110 cum laude
 
 __Carbone, L.__, Klimmt, C., & Vandenbosch, L. (2025). The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists. *Mass Communication & Society*. [https://doi.org/10.1080/15205436.2025.2528630](https://doi.org/10.1080/15205436.2025.2528630)
 
+Noon, E. J., __Carbone, L.__, & Vandenbosch, L. (2025). A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play. *Mass Communication & Society*. [Accepted]()
+
+Hubble, T., __Carbone, L.__, Vandenbosch, L., De Coninck, D., Toelen, J. (2025). Exploring parental intentions to use digital tools to enhance parent-child sexual communication: a cross-regional study in Europe. *JMIR Pediatrics and Parenting*. [https://doi.org/10.2196/75489](https://doi.org/10.2196/75489)
+
 \hfill \begingroup\small 2024\endgroup
 
 __Carbone, L.__, Alvarez-Cueva, P., & Vandenbosch, L. (2024). Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics. *Sex Roles, 90*: 891–909. [https://doi.org/10.1007/s11199-024-01483-0](https://doi.org/10.1007/s11199-024-01483-0)
@@ -95,11 +99,15 @@ Rosič J., Janicke-Bowles S.H., __Carbone, L.__, Lobe B., Vandenbosch L. (2022).
 
 \hfill \begingroup\small 2025\endgroup
 
-__Carbone, L.__ (2025). Book Review: 'Popular Music and the Rise of Populism in Europe (Eds. Mario Dunkel & Melanie Schiller)', *eExtreme*.
+__Carbone, L.__ (2025). Film Review: 'FRONTLINE: GENERATION LIKE', *Films for the Feminist Classroom* [forthcoming]().
+
+__Carbone, L.__ (2025). Film Review: 'TIKTOK, BOOM', *Films for the Feminist Classroom* [forthcoming]().
+
+__Carbone, L.__ (2025). Book Review: 'Popular Music and the Rise of Populism in Europe (Eds. Mario Dunkel & Melanie Schiller)', *eExtreme* [link](https://ecpr.eu/Filestore/CustomContent/Standing%20Groups/Websites/SGED/e-ExtremeNewsletter/eExtreme-Newsletter%20September%202025_FINAL.pdf).
 
 \hfill \begingroup\small 2023\endgroup
 
-Kuipers, G., Brans, L., __Carbone, L.__ (2023). "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" in *Fashion’s Transnational Inequalities: Socio-Political, Economic, and Environmental* (Eds. Almila, A.-M. & Delice, S.). Routledge. (https://books.google.be/books?id=t9DSEAAAQBAJ&dq)
+Kuipers, G., Brans, L., __Carbone, L.__ (2023). "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" in *Fashion’s Transnational Inequalities: Socio-Political, Economic, and Environmental* (Eds. Almila, A.-M. & Delice, S.). Routledge. [link](https://books.google.be/books?id=t9DSEAAAQBAJ&dq)
 
 \hfill \begingroup\small 2022\endgroup
 
@@ -164,6 +172,9 @@ Day of Sociology *(Amsterdam)*
 
 ## Invited Talks
 
+\hfill \begingroup\small 2026\endgroup\
+Music and youth mental health *(Sociology Colloquia, Tilburg University)*
+
 \hfill \begingroup\small 2025\endgroup\
 Social media and youth mental health *(Cinema ZED – DOCVILLE, Leuven)*
 
@@ -199,12 +210,12 @@ Current Research on Popular Music in Belgium *(IASPM Benelux, Leuven)*
 · Seminar "Studying media objects and individuals’ cognition"\
 *(MA/PhD Sociology)*
 
-**Media Psychology Lab, KU Leuven** \hfill \begingroup\small 2021–present\endgroup\
+**Media Psychology Lab, KU Leuven** \hfill \begingroup\small 2020–present\endgroup\
 · Seminars "Computational methods for text analysis"\
 *(MA Research Designs for Communication Science)*\
 · Seminar "Music and the crisis of masculinity"\
 *(MA Media and Crisis)*\
-· Seminar "Music and the crisis of individualism(?)"\
+· Seminars "Music and the crisis of individualism(?)"\
 *(MA Media and Crisis)*\
 · Seminar "Social media: a curse or blessing for the body image crisis?"\
 *(MA Media and Crisis)*
@@ -215,10 +226,10 @@ Current Research on Popular Music in Belgium *(IASPM Benelux, Leuven)*
 
 **Department of Methodology & Statistics, Tilburg University** \hfill \begingroup\small 2017-2019\endgroup\
 · Lab "Introduction to Statistics"\
-*(BA Methodology & Statistics)*
+*(BA Methodology & Statistics)*\
 · Lab "Questionnaire Design"\
-*(BA Methodology & Statistics)*
-· Lab "Experimental Design"
+*(BA Methodology & Statistics)*\
+· Lab "Experimental Design"\
 *(BA Methodology & Statistics)*
 
 ## Supervising Activities
@@ -233,7 +244,7 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Peer Reviewer
 
-*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*, *Nature - Humanities and Social Sciences Communications*
+*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*, *Nature - Humanities and Social Sciences Communications*, *Poetics*
 
 ## Memberships
 
@@ -287,6 +298,7 @@ Available at: https://CRAN.R-project.org/package=chorrrds
 Italian (Native speaker)\
 English (Full professional proficiency)\
 French (Intermediate proficiency)\
+Dutch (Elementary proficiency)\
 Spanish (Elementary proficiency) \newline
 
 ## Programming Languages & Softwares

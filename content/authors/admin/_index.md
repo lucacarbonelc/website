@@ -24,6 +24,8 @@ interests:
 - Resonance
 name: Luca Carbone
 organizations:
+- name: Hanover Univeristy of Music, Drama, and Media
+  url: "https://www.ijk.hmtm-hannover.de/en/about/staff/dr-luca-carbone-visiting-professor/"
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
 - name: Harvard University
@@ -53,10 +55,10 @@ user_groups:
 - Team
 ---
 
-I am a postdoctoral researcher at the [Media Psychology Lab](https://soc.kuleuven.be/smc) at the Department of Communication Science at KU Leuven. 
-I obtained my PhD at KU Leuven, where I worked as part of the ERC project [MIMIc](https://www.projectmimic.eu). 
-I am affiliated with the [Weatherhead Research Cluster on Comparative Inequalities and Inclusion](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) at Harvard University.
+I am a guest professor at the [Institute of Journalism and Communication Research](https://www.ijk.hmtm-hannover.de/en/about/staff/dr-luca-carbone-visiting-professor/) (Hanover Univeristy of Music, Drama, and Media), 
+and a fellow at the [Media Psychology Lab](https://soc.kuleuven.be/smc) (KU Leuven) and at the [Weatherhead Center](https://inequality.wcfia.harvard.edu/people/luca-carbone-0) (Harvard University).
+Before my current position, I was a postdoctoral researcher at the Media Psychology Lab (PDMT2 fellowship), where I also obtained my PhD as part of the ERC project [MIMIc](https://www.projectmimic.eu).
 
 I work at the intersection of media psychology and cultural sociology to study media effects on youth's identities and mental health. 
-My PhD dissertation particularly focused on music effects on adolescents' success beliefs, while my postdoctoral research focuses on music effects on young men identities and mental health. 
-I am also interested in social and communication theory (resonance), algorithms and platforms, online cultures, CSS, SEM, time-sensitive (long- and short-term), multisensory (mobile sensing), and psychometric research.
+My PhD dissertation particularly focused on music effects on adolescents' success beliefs, while my postdoctoral research focused on media resonance effects on young men reactionary identities and mental health.
+I am also interested in social and communication theory (resonance), algorithms and platforms, online youth cultures, CSS, time-sensitive (long- and short-term), multisensory (mobile sensing), and psychometric research.
