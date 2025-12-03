@@ -32,6 +32,9 @@ Guest Professor, Department of Journalism and Communication Research
 **KU Leuven, BE** \hfill \begingroup\small 2024-2025\endgroup\
 Postdoctoral researcher, Media Psychology Lab
 
+**Harvard University, US** \hfill \begingroup\small 2024-\endgroup\
+Fellow, Weatherhead Center, Cluster on Cultural and Comparative Inequalities
+
 # Education
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
@@ -63,7 +66,7 @@ GPA 28.74/30, 110 cum laude
 
 \hfill \begingroup\small 2025\endgroup
 
-__Carbone, L.__ (2025). Socio Technical Imaginaries of the Future among AI Pioneers (2005 – 2025). *SocArXiv*. [https://osf.io/preprints/socarxiv/bpyj2_v1](https://osf.io/preprints/socarxiv/bpyj2_v1)
+__Carbone, L.__ (2025). Socio Technical Imaginaries of the Future among AI Pioneers (2005 – 2025). *SocArXiv*. [https://doi.org/10.31235/osf.io/bpyj2_v1](https://doi.org/10.31235/osf.io/bpyj2_v1)
 
 __Carbone, L.__, Klimmt, C., & Vandenbosch, L. (2025). The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists. *Mass Communication & Society*. [https://doi.org/10.1080/15205436.2025.2528630](https://doi.org/10.1080/15205436.2025.2528630)
 
@@ -101,9 +104,7 @@ Rosič J., Janicke-Bowles S.H., __Carbone, L.__, Lobe B., Vandenbosch L. (2022).
 
 \hfill \begingroup\small 2025\endgroup
 
-__Carbone, L.__ (2025). Film Review: 'FRONTLINE: GENERATION LIKE', *Films for the Feminist Classroom* [forthcoming]().
-
-__Carbone, L.__ (2025). Film Review: 'TIKTOK, BOOM', *Films for the Feminist Classroom* [forthcoming]().
+__Carbone, L.__ (2025). Film Review: 'FRONTLINE: GENERATION LIKE' and 'TIKTOK, BOOM', *Films for the Feminist Classroom* [forthcoming]().
 
 __Carbone, L.__ (2025). Book Review: 'Popular Music and the Rise of Populism in Europe (Eds. Mario Dunkel & Melanie Schiller)', *eExtreme* [link](https://ecpr.eu/Filestore/CustomContent/Standing%20Groups/Websites/SGED/e-ExtremeNewsletter/eExtreme-Newsletter%20September%202025_FINAL.pdf).
 
@@ -147,6 +148,9 @@ Tilburg University, visiting fund at Exeter University (€1,000)
 \rule{1\linewidth}{\linethickness}
 
 ## Conference Presentations
+
+\hfill \begingroup\small 2026\endgroup\
+We Want More: Music / Sociology! *(Rotterdam)*
 
 \hfill \begingroup\small 2025\endgroup\
 International Conference for an Inclusive Society *(Leuven)*\
@@ -268,9 +272,12 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 *AI Ambassador* (KU Leuven, 2025-present), *Well-Being Ambassador* (KU Leuven, 2024-present), *Co-organizer Media Psychology Lab seminars* (KU Leuven, 2024-present), *Co-director of MethLab* (KU Leuven, 2020-present), *Co-director of Cultural Sociology group* (KU Leuven, 2020-2024), *Member Diversity and Sustainability Committee* (KU Leuven, 2021-2023), *Founder University newspaper "L'Universitario"* (University of Trento, 2016-2018)
 
-# Additional Research Experience
+# Additional Research / Consultant Experience
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
+
+External expert consultant for Canvas8 \hfill \begingroup\small 2025\endgroup\
+*Expert consultancy on music, fandom, and youth identities.*
 
 Research assistant at the Department of Sociology, Tilburg University \hfill \begingroup\small 2019\endgroup\
 (Supervisor: Prof. Ruud Muffels)\
@@ -313,4 +320,6 @@ Basic: STATA, SPSS
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
-Available upon request
+- Prof. Laura Vandenbosch (KU Leuven): laura.vandenbosch@kuleuven.be
+- Prof. Jonathan Mijs (Boston University): mijs@bu.edu
+- Prof. Christoph Klimmt (Hanover University of Music, Drama, and Media): Christoph.Klimmt@ijk.hmtm-hannover.de 
