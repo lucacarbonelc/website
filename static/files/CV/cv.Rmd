@@ -150,7 +150,8 @@ Tilburg University, visiting fund at Exeter University (€1,000)
 ## Conference Presentations
 
 \hfill \begingroup\small 2026\endgroup\
-We Want More: Music / Sociology! *(Rotterdam)*
+We Want More: Music / Sociology! *(Rotterdam)*\
+Etmaal *(Wagenigen)*
 
 \hfill \begingroup\small 2025\endgroup\
 International Conference for an Inclusive Society *(Leuven)*\
@@ -179,7 +180,8 @@ Day of Sociology *(Amsterdam)*
 ## Invited Talks
 
 \hfill \begingroup\small 2026\endgroup\
-Music and youth mental health *(Sociology Colloquia, Tilburg University)*
+Music and youth mental health *(Music Matters, University of Groningen)*\
+Music and youth cultures *(Sociology Colloquia, Tilburg University)*
 
 \hfill \begingroup\small 2025\endgroup\
 Social media and youth mental health *(Cinema ZED – DOCVILLE, Leuven)*
