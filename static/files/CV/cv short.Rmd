@@ -1,0 +1,155 @@
+---
+title: "CV"
+author: "Luca Carbone"
+email: luca.carbone@kuleuven.be
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+geometry: margin=1in
+jobtitle: KU Leuven, Media Psychology Lab
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+phone: +32 16 37 24 05
+address: Parkstraat 45 · 3000 Leuven · Belgium
+urlcolor: blue
+web: www.lucacarbone.com
+---
+
+# Employment
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+**University of Antwerp, BE** \hfill \begingroup\small 2026\endgroup\
+Postdoctoral researcher, Department of Communication Studies
+
+**Hanover University of Music, Drama, and Media, DE** \hfill \begingroup\small 2025-2026\endgroup\
+Guest Professor, Department of Journalism and Communication Research
+
+**KU Leuven, BE** \hfill \begingroup\small 2024-2025\endgroup\
+Postdoctoral researcher, Media Psychology Lab
+
+# Education
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+**KU Leuven, BE** \hfill \begingroup\small 2020-2024\endgroup\
+Ph.D. Social Sciences - ERC project [MIMIc](http://www.projectmimic.eu)\
+Winner best dissertation award, CAM division of ICA
+
+**Tilburg University, NL** \hfill \begingroup\small 2017-2019\endgroup\
+M.Sc. (Res.) Social Sciences\
+Awarded best student, GPA 8.41/10, cum laude
+
+**University of Trento, IT** \hfill \begingroup\small 2014-2017\endgroup\
+B.A. Sociology\
+GPA 28.74/30, 110 cum laude
+
+# Affiliations
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+**Harvard University, US** \hfill \begingroup\small 2024-\endgroup\
+Fellow Weatherhead Center, Cluster on Cultural and Comparative Inequalities
+
+**KU Leuven, BE** \hfill \begingroup\small 2020-\endgroup\
+Fellow Media Psychology Lab, Digital Society Institute, and KU Leuven Youth Institute
+
+# Publications
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+## Journal articles
+
+__Carbone, L.__, Klimmt, C., & Vandenbosch, L. (2025). The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists. *Mass Communication & Society*. [https://doi.org/10.1080/15205436.2025.2528630](https://doi.org/10.1080/15205436.2025.2528630)
+
+Noon, E. J., __Carbone, L.__, & Vandenbosch, L. (2025). A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play. *Mass Communication & Society*. [Accepted]()
+
+Hubble, T., __Carbone, L.__, Vandenbosch, L., De Coninck, D., Toelen, J. (2025). Exploring parental intentions to use digital tools to enhance parent-child sexual communication: a cross-regional study in Europe. *JMIR Pediatrics and Parenting*. [https://doi.org/10.2196/75489](https://doi.org/10.2196/75489)
+
+__Carbone, L.__, Alvarez-Cueva, P., & Vandenbosch, L. (2024). Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics. *Sex Roles, 90*: 891–909. [https://doi.org/10.1007/s11199-024-01483-0](https://doi.org/10.1007/s11199-024-01483-0)
+
+__Carbone, L.__, & Vandenbosch, L. (2024). Adolescents’ Music Tastes in the Streaming Era: The Case of Belgium. *Cultural Sociology*, 1–21. [https://doi.org/10.1177/17499755241244529](https://doi.org/10.1177/17499755241244529)
+
+__Carbone, L.__, Mijs, J., van Dooremalen, T., & Daedekindt, S. (2024). Towards a sociology of recurrent events. Constellations of cultural change around Eurovision in 18 countries (1981–2021). *Poetics, 104*, 1-13. [https://doi.org/10.1016/j.poetic.2024.101889](https://doi.org/10.1016/j.poetic.2024.101889)
+
+Noon, E. J., __Carbone, L.__, Swinnen, B., & Vandenbosch, L. (2024). Adolescents’ videogame play, need satisfaction, and self-esteem: A self-determination perspective. *Current Psychology*. [https://doi.org/10.1007/s12144-024-05933-6](https://doi.org/10.1007/s12144-024-05933-6)
+
+Hubble, T., __Carbone, L.__, Vandenbosch, L., De Coninck, D., Toelen, J. (2024). Exploring European parents’ attitudes towards the age appropriateness of digital sexuality education for adolescents. *American Journal of Sexuality Education*, 1-25. [https://doi.org/10.1080/15546128.2024.2415304](https://doi.org/10.1080/15546128.2024.2415304)
+
+__Carbone, L.__ & Vandenbosch, L. (2023). A Meta-Analysis of Studies Examining the Effect of Music on Beliefs, *Communication Research, 51*(1): 1-28. [https://doi.org/10.1177/00936502231163633](https://doi.org/10.1177/00936502231163633)
+
+Rosič, Jasmina, __Carbone, Luca__, Vanden Abeele, Mariek, Lobe, Bojana, & Vandenbosch, Laura. (2023). Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Balance in Adolescence Scale, *Journal of Children and Media*. [https://t.co/7KCSIGXBiW](https://t.co/7KCSIGXBiW)
+
+Grusauskaite, K., __Carbone, L.__, Harambam, J., & Aupers, S. (2023). Debating (In) Echo Chambers: How People Read Conspiracy Theory Videos On YouTube, *New Media & Society*. [https://doi.org/10.1177/14614448231162585](https://doi.org/10.1177/14614448231162585)
+\hfill \begingroup\small 2022\endgroup
+
+__Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture, *Information, Communication & Society*. [https://doi.org/10.1080/1369118X.2021.2020870](https://doi.org/10.1080/1369118X.2021.2020870)
+
+Rosič J., Janicke-Bowles S.H., __Carbone, L.__, Lobe B., Vandenbosch L. (2022). Positive Digital Communication Among Youth: The Development and Validation of the Digital Flourishing Scale for Adolescents, *Frontiers Digital Health*. [https://doi.org/10.3389/fdgth.2022.975557](https://doi.org/10.3389/fdgth.2022.975557) \newline
+
+## Book Chapters
+
+Kuipers, G., Brans, L., __Carbone, L.__ (2023). "The myth of trickle down. How fashions do (not) spread in European fashion magazines, and what this tells us about power and status in the global fashion system" in *Fashion’s Transnational Inequalities: Socio-Political, Economic, and Environmental* (Eds. Almila, A.-M. & Delice, S.). Routledge. [link](https://books.google.be/books?id=t9DSEAAAQBAJ&dq)
+
+# Awards & Funds
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Top Student-Led Paper (second author), ICA (2026); Best Dissertation Award, ICA (2025); Societal Impact Prize (Maatschappijprijs), KU Leuven (2025); Post Doctoral Mandate, KU Leuven (2024-25); University of Chicago, scholarship & Dean’s fellowship (2019-20); Tilburg University, visiting fund at Exeter University (2018)
+
+# Presentations
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+## Conference Presentations
+
+We Want More: Music / Sociology! *(Rotterdam)* (2026); Etmaal *(Wagenigen)* (2026); International Conference for an Inclusive Society *(Leuven)* (2025); 75th ICA *(Denver)* (2025); Etmaal *(Bruges)* (2025); 73rd ICA *(Toronto)* (2023); Etmaal *(Enschede)* (2023); 21st IASPM *(Daegu)* (2022); Day of Sociology *(Groningen)* (2022); 72nd ICA *(Paris)* (2022); Etmaal *(Brussels)* (2022); 116th ASA *(Chicago)* (2021); 7th IC2S2 *(Zürich)* (2021); 4th Interdisciplinary Graduate Conference *(Tilburg)* (2021); 4th ISA Forum of Sociology *(Porto Alegre)* (2021); Day of Sociology *(Amsterdam)* (2019)
+
+## Invited Talks
+
+Music and youth cultures *(Sociology Colloquia, Tilburg University)* (2026); Social media and youth mental health *(Cinema ZED – DOCVILLE, Leuven)* (2025); Cultural Sociology Club *(Department of Sociology, UvA)* (2024); Music and social media *(Ancienne Belgique, Brussels)* (2024); CII Spotlight *(Weatherhead Center, Harvard U)* (2024); Culture and Social Analysis Workshop *(Department of Sociology, Harvard U)* (2024); CII Seminar *(Weatherhead Center, Harvard U)* (2024); Current Research on Popular Music in Belgium *(IASPM Benelux, Leuven)* (2023)
+
+# Teaching Experience
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+Guest Professor at *Hanover University of Music, Drama, and Media* (2025–2026)
+
+Occasional lecturer / teaching assistant at *University of Vienna* (2024); *Boston University* (2024); *KU Leuven* (2020–present); *Tilburg University*
+
+Daily mentor of *1 PhD student*, KU Leuven, (2025-present); Supervisor of *12 MA students*, KU Leuven (2020-present); Supervisor of *6 research assistants*, KU Leuven (2020-present)
+
+# Academic Service
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+## Peer Reviewer
+
+*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*, *Nature - Humanities and Social Sciences Communications*, *Poetics*
+
+## Memberships
+
+*International Association for the Study of Popular Music* (2022-2023), *International Communication Association* (2022-present), *American Sociological Association* (2021-2022), *Netherlands | Flanders Communication Association* (2020-present), *International Sociological Association* (2019-2020)
+
+## Professional Services
+
+*Organizer "Communicating the Popular" pre-conference* (Etmaal 2026), *Organizer "IASPM Pop Talk 19"* (IASPM 2026), *National Representative of Belgium* (International Association for the Study of Popular Music), *Chair Popular Media & Culture division* (Netherlands and Flanders Communication Association, NeFCA, 2024-), *Chair session Meritocracy* (Alumni Conference Weatherhead Center, Harvard University, 2024), *Chair session Class and Status* (21st IASPM Annual Meeting, Daegu, 2022), *Presider session Meritocracy, Cultural Sociology Division* (116th ASA Annual Meeting, Chicago, 2022)
+
+## Faculty Services
+
+*AI Ambassador* (KU Leuven, 2025-present), *Well-Being Ambassador* (KU Leuven, 2024-present), *Co-organizer Media Psychology Lab seminars* (KU Leuven, 2024-present), *Co-director of MethLab* (KU Leuven, 2020-present), *Co-director of Cultural Sociology group* (KU Leuven, 2020-2024), *Member Diversity and Sustainability Committee* (KU Leuven, 2021-2023), *Founder University newspaper "L'Universitario"* (University of Trento, 2016-2018)
+
+# References
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+- Prof. Laura Vandenbosch (KU Leuven): laura.vandenbosch@kuleuven.be
+- Prof. Jonathan Mijs (Boston University): mijs@bu.edu
+- Prof. Christoph Klimmt (Hanover University of Music, Drama, and Media): Christoph.Klimmt@ijk.hmtm-hannover.de 

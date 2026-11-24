@@ -32,9 +32,6 @@ Guest Professor, Department of Journalism and Communication Research
 **KU Leuven, BE** \hfill \begingroup\small 2024-2025\endgroup\
 Postdoctoral researcher, Media Psychology Lab
 
-**Harvard University, US** \hfill \begingroup\small 2024-\endgroup\
-Fellow, Weatherhead Center, Cluster on Cultural and Comparative Inequalities
-
 # Education
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
@@ -58,19 +55,32 @@ Awarded best student, GPA 8.41/10, cum laude
 B.A. Sociology\
 GPA 28.74/30, 110 cum laude
 
+# Affiliations
+\vspace{-10pt}
+\rule{1\linewidth}{\linethickness}
+
+**Erasmus University Rotterdam, NL** \hfill \begingroup\small 2025-\endgroup\
+Fellow Rotterdam Popular Music Studies
+
+**Harvard University, US** \hfill \begingroup\small 2024-\endgroup\
+Fellow Weatherhead Center, Cluster on Cultural and Comparative Inequalities
+
+**KU Leuven, BE** \hfill \begingroup\small 2020-\endgroup\
+Fellow Media Psychology Lab, Digital Society Institute, and KU Leuven Youth Institute
+
 # Publications
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
 
 ## Journal articles
 
+\hfill \begingroup\small 2026\endgroup
+
+Noon, E. J., __Carbone, L.__, & Vandenbosch, L. (2026). A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play. *Mass Communication & Society*. [https://doi.org/10.1080/15205436.2026.2649894](https://doi.org/10.1080/15205436.2026.2649894)
+
 \hfill \begingroup\small 2025\endgroup
 
-__Carbone, L.__ (2025). Socio Technical Imaginaries of the Future among AI Pioneers (2005 – 2025). *SocArXiv*. [https://doi.org/10.31235/osf.io/bpyj2_v1](https://doi.org/10.31235/osf.io/bpyj2_v1)
-
 __Carbone, L.__, Klimmt, C., & Vandenbosch, L. (2025). The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists. *Mass Communication & Society*. [https://doi.org/10.1080/15205436.2025.2528630](https://doi.org/10.1080/15205436.2025.2528630)
-
-Noon, E. J., __Carbone, L.__, & Vandenbosch, L. (2025). A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play. *Mass Communication & Society*. [Accepted]()
 
 Hubble, T., __Carbone, L.__, Vandenbosch, L., De Coninck, D., Toelen, J. (2025). Exploring parental intentions to use digital tools to enhance parent-child sexual communication: a cross-regional study in Europe. *JMIR Pediatrics and Parenting*. [https://doi.org/10.2196/75489](https://doi.org/10.2196/75489)
 
@@ -96,9 +106,27 @@ Grusauskaite, K., __Carbone, L.__, Harambam, J., & Aupers, S. (2023). Debating (
 
 \hfill \begingroup\small 2022\endgroup
 
-__Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture, *Information, Communication & Society*. [https://doi.org/10.1080/1369118X.2021.2020870](https://doi.org/10.1080/1369118X.2021.2020870). Pre-print available [here](https://t.co/znOwdcxRO2?amp=1). Data, syntax, appendix, and pre-registration available on [OSF](https://osf.io/5427t/). Trending paper in Communication and Sociology Altmetrics on 10th January 2022 [OOIR](https://t.co/6jLlFffvFT)
+__Carbone, L.__ & Mijs, J. (2022). Sounds like meritocracy to my ears: Exploring the link between inequality in popular music and personal culture, *Information, Communication & Society*. [https://doi.org/10.1080/1369118X.2021.2020870](https://doi.org/10.1080/1369118X.2021.2020870).Trending paper in Communication and Sociology Altmetrics on 10th January 2022 [OOIR](https://t.co/6jLlFffvFT)
 
 Rosič J., Janicke-Bowles S.H., __Carbone, L.__, Lobe B., Vandenbosch L. (2022). Positive Digital Communication Among Youth: The Development and Validation of the Digital Flourishing Scale for Adolescents, *Frontiers Digital Health*. [https://doi.org/10.3389/fdgth.2022.975557](https://doi.org/10.3389/fdgth.2022.975557) \newline
+
+## Work in progress
+
+__Carbone, L.__ (2026). Socio Technical Imaginaries of the Future among AI Pioneers (2005 – 2025). *SocArXiv*. [https://doi.org/10.31235/osf.io/bpyj2_v1](https://doi.org/10.31235/osf.io/bpyj2_v1) [under review]
+
+Chen, O., __Carbone, L.__, Vanhoffelen, G., Vandenbosch, L. (2026). Watch Sheldon Cooper, Become like Sheldon Cooper? A Latent Class Growth Analysis of the Joint Development Between Adolescents’ Favorite TV Characters’ Performance-Oriented Traits and Their Own Self-Worth Beliefs. [under review]
+
+__Carbone, L.__, Vandenbosch, L. (2025). Effort-Oriented Success Narratives in Music and their Internalization among Adolescents. [major R&R]
+
+__Carbone, L.__, Vandenbosch, L., Klimmt, C., Schaap, J. (2025). A Theory of Resonant Experiences with Media. [under review]
+
+__Carbone, L.__, Song, H., Vandenbosch, L., (2025) A Systematic Analysis of Meritocratic Frames in Popular Music Lyrics across Individualistic Countries (2016-2019). [under review]
+
+Pirrone, D., __Carbone, L.__, van Oosten, J.M., Vandenbosch, L. (2024) From Affordance to Affair? Exploring the Relationships between Online Sexual Activities and Online Infidelity Behaviors [R&R resubmitted]
+
+__Carbone, L.__ (2026). Neoliberal masculinities. [in preparation]
+
+__Carbone, L.__, Vandenbosch, L. (2025). Individualistic Success Narratives in Adolescents’ Daily Music Consumption and their Relationships with Success-Related Cognitions and Well-Being. A Daily Diary Study across Belgium, France, and Slovenia. [in preparation]
 
 ## Book Chapters and Reviews
 
@@ -114,7 +142,7 @@ Kuipers, G., Brans, L., __Carbone, L.__ (2023). "The myth of trickle down. How f
 
 \hfill \begingroup\small 2022\endgroup
 
-__Carbone, L.__ (2022). Book Review: 'Getting Signed: Record Contracts, Musicians, and Power in Society (by David Arditi)', *New Media & Society*. [https://doi.org/10.1177/14614448221101210](https://doi.org/10.1177/14614448221101210).
+__Carbone, L.__ (2022). Book Review: 'Getting Signed: Record Contracts, Musicians, and Power in Society (by David Arditi)', *New Media & Society*. [https://doi.org/10.1177/14614448221101210](https://doi.org/10.1177/14614448221101210)
 
 \hfill \begingroup\small 2019\endgroup
 
@@ -135,7 +163,8 @@ Societal Impact Prize (Maatschappijprijs), KU Leuven
 (as member of the Media Psychology Lab)
 
 Post Doctoral Mandate, KU Leuven (€80,000)
-\hfill \begingroup\small 2024-2025 \endgroup
+\hfill \begingroup\small 2024-2025 \endgroup\
+PDMT2 project "Meritocratic Masculinities in Music. Understanding the Role of Music Resonance Processes in Boys’ Adoption of Meritocratic Masculinities and their Mental Health Consequences"
 
 University of Chicago, scholarship & Dean’s fellowship ($31,500)
 \hfill \begingroup\small 2019-2020 \endgroup
@@ -180,6 +209,7 @@ Day of Sociology *(Amsterdam)*
 ## Invited Talks
 
 \hfill \begingroup\small 2026\endgroup\
+A computational sociology of everyday media consumption for youth identities and well-being *(Departmental seminar, ENSAE-CREST)*\
 Music and youth mental health *(Music Matters, University of Groningen)*\
 Music and youth cultures *(Sociology Colloquia, Tilburg University)*
 
@@ -196,6 +226,10 @@ CII Seminar *(Weatherhead Center, Harvard U)*
 \hfill \begingroup\small 2023\endgroup\
 Current Research on Popular Music in Belgium *(IASPM Benelux, Leuven)*
 
+## Newspapers and magazines coverage
+
+My work has been covered in the following outlets: La Repubblica, De Volkskrant, Le Vif/L’Express
+
 # Teaching Experience
 \vspace{-10pt}
 \rule{1\linewidth}{\linethickness}
@@ -208,7 +242,7 @@ Current Research on Popular Music in Belgium *(IASPM Benelux, Leuven)*
 · Course "Current topics in Popular Music"\
 *(BA Communication Science)*
 
-## Teaching Activities
+## Occasional lecturer
 
 **Department of Communication, University of Vienna** \hfill \begingroup\small 2024\endgroup\
 · Seminar "Music and Meritoracy"\
@@ -244,7 +278,7 @@ Current Research on Popular Music in Belgium *(IASPM Benelux, Leuven)*
 
 Daily mentor of **1 PhD student**, KU Leuven \hfill \begingroup\small 2025-present\endgroup\
 Supervisor of **12 MA students**, KU Leuven \hfill \begingroup\small 2020-present\endgroup\
-Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020-present\endgroup
+Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020-2023\endgroup
 
 # Academic Service
 \vspace{-10pt}
@@ -252,27 +286,31 @@ Supervisor of **6 research assistants**, KU Leuven \hfill \begingroup\small 2020
 
 ## Peer Reviewer
 
-*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*, *Nature - Humanities and Social Sciences Communications*, *Poetics*
+*Journal for the Theory of Social Behaviour*, *American Behavioral Scientist*, *Social Problems*, *Information, Communication, & Society*, *New Media & Society*, *Scandinavian Journal of Psychology*, *Mass Communication and Society*, *Cultural Sociology*, *Current Psychology*, *Journal of Media Psychology*, *Perspectives on Psychological Science*, *British Journal of Political Science*, *British Journal of Social Psychology*, *International Journal of Public Opinion Research*, *Nature - Humanities and Social Sciences Communications*, *Poetics*, *Personality and Individual Differences*, *Communication Monographs*
+
+## Editorial Experience
+
+*Guest editor* (special issue "Popular Media and Culture", Tijdschrift voor Communicatiewetenschap, 2026)
 
 ## Memberships
 
 *International Association for the Study of Popular Music* (IASPM, 2022-2023), *International Communication Association* (ICA, 2022-present), *American Sociological Association* (ASA, 2021-2022), *Netherlands | Flanders Communication Association* (NeFCA, 2020-present), *International Sociological Association* (ISA, 2019-2020)
 
-## Affiliations
-
-*Fellow Weatherhead Center* (Harvard University, 2024-present), *KU Leuven Digital Society Institute* (DigSoc, 2021-present), *KU Leuven Youth Institute* (2021-present)
-
 ## Visitings
 
 *Department of Sociology and Weatherhead Center* (Harvard University, 2024), *Department of Communication Science* (Yonsei University, 2022), *Department of Sociology, Philosophy and Anthropology* (University of Exeter, 2018)
 
+## Organizer
+
+*Platformization and new rules of music taste formation* (The arts, the institutions, policy and GenZ, University of Groningen, 2026), *"Communicating the Popular" pre-conference* (Etmaal 2026), *IASPM Pop Talk 19* (IASPM 2026), *MethLab seminars* (KU Leuven, 2020-2024), *Cultural sociology seminars* (KU Leuven, 2020-2024)
+
 ## Professional Services
 
-*Organizer "Communicating the Popular" pre-conference* (Etmaal 2026),*National Representative of Belgium* (International Association for the Study of Popular Music), *Chair Popular Media & Culture division* (Netherlands and Flanders Communication Association, NeFCA, 2024-), *Chair session Meritocracy* (Alumni Conference Weatherhead Center, Harvard University, 2024), *Chair session Class and Status* (21st IASPM Annual Meeting, Daegu, 2022), *Presider session Meritocracy, Cultural Sociology Division* (116th ASA Annual Meeting, Chicago, 2022)
+*National Representative of Belgium* (International Association for the Study of Popular Music, 2025-), *Chair Popular Media & Culture division* (Netherlands and Flanders Communication Association, NeFCA, 2024-), *Chair session Meritocracy* (Alumni Conference Weatherhead Center, Harvard University, 2024), *Chair session Class and Status* (21st IASPM Annual Meeting, Daegu, 2022), *Presider session Meritocracy, Cultural Sociology Division* (116th ASA Annual Meeting, Chicago, 2022)
 
 ## Faculty Services
 
-*AI Ambassador* (KU Leuven, 2025-present), *Well-Being Ambassador* (KU Leuven, 2024-present), *Co-organizer Media Psychology Lab seminars* (KU Leuven, 2024-present), *Co-director of MethLab* (KU Leuven, 2020-present), *Co-director of Cultural Sociology group* (KU Leuven, 2020-2024), *Member Diversity and Sustainability Committee* (KU Leuven, 2021-2023), *Founder University newspaper "L'Universitario"* (University of Trento, 2016-2018)
+*AI Ambassador* (KU Leuven, 2025-present), *Well-Being Ambassador* (KU Leuven, 2024-present), *Co-organizer Media Psychology Lab seminars* (KU Leuven, 2024-present), *Co-director of MethLab* (KU Leuven, 2020-2024), *Co-director of Cultural Sociology group* (KU Leuven, 2020-2024), *Member Diversity and Sustainability Committee* (KU Leuven, 2021-2023), *Co-founder University newspaper "L'Universitario"* (University of Trento, 2016-2018)
 
 # Additional Research / Consultant Experience
 \vspace{-10pt}
@@ -309,14 +347,13 @@ Available at: https://CRAN.R-project.org/package=chorrrds
 Italian (Native speaker)\
 English (Full professional proficiency)\
 French (Intermediate proficiency)\
-Dutch (Elementary proficiency)\
-Spanish (Elementary proficiency) \newline
+Spanish (Elementary proficiency)
 
 ## Programming Languages & Softwares
 
-Advanced: R, RMarkdown, Qualtrics, Mplus, Github\
-Intermediate: Python, HTML, CSS, Linux, HPCs\
-Basic: STATA, SPSS
+Advanced: R, RMarkdown, Python, Mplus, Github\
+Intermediate: HTML, CSS, Linux, HPCs\
+Basic: STATA, SPSS, JASP
 
 # References
 \vspace{-10pt}
